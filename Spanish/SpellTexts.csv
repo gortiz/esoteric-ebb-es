@@ -1,0 +1,298 @@
+ID,ES
+SpellName_0,BotónVarios
+SpellName_1,Luces danzantes
+SpellName_2,Mano de mago de Caelum
+SpellName_3,Druidismo
+SpellName_4,Taumaturgia
+SpellName_5,Bendición
+SpellName_6,Encantar persona
+SpellName_7,Comprender idiomas
+SpellName_8,Curar heridas
+SpellName_9,Detectar alineamiento
+SpellName_10,Detectar secretos
+SpellName_11,Manzana buena
+SpellName_12,Grasa
+SpellName_13,Infligir Heridas
+SpellName_14,Escudo de Fe
+SpellName_15,Hablar con Animales
+SpellName_16,Repeler no-muertos
+SpellName_17,Augurio
+SpellName_18,Corteza arbórea
+SpellName_19,Detectar pensamientos
+SpellName_20,Potenciar atributo
+SpellName_21,Traqueteo
+SpellName_22,Oración de Sanación
+SpellName_23,Protección contra el Mal y el Bien y Demás
+SpellName_24,Maleficio divino
+SpellName_25,Zona de verdad
+SpellName_26,Manto del cruzado
+SpellName_27,Aura de Vitalidad
+SpellName_28,Revivificar
+SpellName_29,Hablar con Muertos
+SpellName_30,Hablar con Plantas
+SpellName_31,Shillelâmh
+SpellName_32,Furia esotérica
+SpellName_33,Movimiento mordaz
+SpellDescription_0,
+SpellDescription_1,"Creas una luz del tamaño de una antorcha dentro del alcance, con la apariencia de una antorcha, un farol o una esfera luminosa que flota en el aire durante la duración. Cualquiera que sea la forma que elijas, la luz emite luz tenue en un radio de 3 metros."
+SpellDescription_2,"Una mano espectral y flotante aparece en un punto que eliges dentro del alcance. Puedes usar tu acción para controlar la mano. Puedes utilizarla para manipular un objeto, abrir una puerta o un contenedor sin llave, o recuperar un objeto de un contenedor abierto. Cualquier prueba de trivialidad realizada con la mano puede tirarse con tu modificador de Inteligencia.
+
+La mano no puede atacar, activar objetos mágicos ni cargar más de 4,5 kilos."
+SpellDescription_3,"Susurrando a los espíritus de la naturaleza, creas un pequeño efecto sensorial inofensivo que te sigue. Este efecto te permite relacionarte con entidades primordiales que de otro modo se ocultarían de tu presencia."
+SpellDescription_4,"Manifiestas una pequeña maravilla inofensiva, una señal de poder sobrenatural, que te sigue dentro del radio de alcance. El efecto te permite comunicarte con entidades y lugares sagrados, otorgándote posibles beneficios."
+SpellDescription_5,"Te bendices con guía divina. Durante la duración, añades 1d4 a todas las pruebas de habilidad."
+SpellDescription_6,"Intentas encantar a un humanoide que puedas ver dentro del alcance. Debe realizar una tirada de salvación de Sabiduría, y lo hace con ventaja si tú o tus compañeros estáis luchando contra él. Si falla la tirada de salvación, queda encantado por ti hasta que el hechizo termine o hasta que tú o tus compañeros le hagáis algún daño. La criatura encantada te considera un conocido amistoso. Cuando el hechizo termina, la criatura sabe que fue encantada por ti."
+SpellDescription_7,"Durante la duración, comprendes el significado literal de cualquier lengua hablada que escuches. También comprendes cualquier lenguaje escrito que veas, pero debes estar tocando la superficie sobre la que están escritas las palabras.
+
+Este hechizo no descifra mensajes ocultos en un texto ni glifos, como un símbolo arcano, que no formen parte de un lenguaje escrito."
+SpellDescription_8,Una criatura que tocas recupera un número de puntos de vida igual a 1d8 + tu modificador de la característica Sabiduría. Este hechizo no tiene efecto sobre no-muertos ni constructos.
+SpellDescription_9,"Durante un instante, cualquier criatura de los tipos aberración, celestial, elemental, hada, infernal o no-muerto quedará claramente señalada ante ti. Además, cualquier prueba de observación revelará el alineamiento de la criatura de acuerdo con los Hilos de Jor.
+
+El hechizo afecta a todas las criaturas del área actual."
+SpellDescription_10,"Si hay una trampa, un alijo oculto o una puerta secreta de la que no eres consciente dentro del área de efecto, aparece un rastro translúcido que te guía hasta su ubicación."
+SpellDescription_11,"Cinco manzanas aparecen en tu mano e infunden magia durante la duración del efecto. Una criatura puede usar su acción para comerse una. Comer una manzana restaura 1 punto de vida, y la manzana proporciona el sustento suficiente para alimentar a una criatura normal durante un día."
+SpellDescription_12,Una grasa resbaladiza cubre el suelo en un cuadrado de 3 metros centrado en un punto dentro del alcance y lo convierte en terreno difícil de baja fricción durante la duración del efecto.
+SpellDescription_13,"Realiza un ataque de hechizo cuerpo a cuerpo contra una criatura que puedas alcanzar. Si impacta, el objetivo recibe 3d10 de daño necrótico."
+SpellDescription_14,"Un campo centelleante aparece y te rodea, protegiéndote del daño. Mientras dure, cualquier pérdida de puntos de vida se reduce en 1."
+SpellDescription_15,"Adquieres la habilidad de comprender y comunicarte verbalmente con bestias durante la duración del hechizo. El conocimiento y la conciencia de muchas bestias están limitados por su inteligencia, pero como mínimo pueden darte información sobre lugares cercanos y monstruos, incluyendo todo lo que puedan percibir o hayan percibido en el último día."
+SpellDescription_16,"Como acción, pronuncias una oración que censura a los no-muertos. Cada no-muerto que pueda verte u oírte en un radio de 9 metros quedará repelido durante 1 minuto o hasta que reciba algún daño, siempre que sea lo suficientemente débil para verse afectado.
+
+Un garabato en las notas del hechizo: <i>Este hechizo ha perdido potencia últimamente. Las oraciones ya no parecen afectar a los no-muertos desde el desvanecimiento</i>."
+SpellDescription_17,"Al realizar un ritual de adivinación, recibes un presagio de una entidad de otro mundo sobre los resultados de una acción concreta que planeas llevar a cabo. Si recibes PROSPERIDAD, tu próxima prueba de dados tendrá casi siempre éxito. Si recibes DESGRACIA, tu próxima prueba de dados casi siempre fallará.
+
+Si lanzas el hechizo dos o más veces antes de completar tu próximo descanso largo, hay una probabilidad creciente de recibir una respuesta de DESGRACIA. Los efectos de PROSPERIDAD o DESGRACIA también terminan con un descanso largo."
+SpellDescription_18,"Durante la duración, tu piel adquiere un aspecto áspero y similar a la corteza, y tienes resistencia a todo el daño (todo el daño se reduce a la mitad)."
+SpellDescription_19,"Durante la duración del hechizo, puedes leer los pensamientos de ciertas criaturas que se encuentren a 30 pies de ti. Si una criatura tiene una Inteligencia de 3 o menos, o no habla ningún idioma, no se ve afectada.
+
+En un principio, conoces los pensamientos superficiales de esa criatura. Si decides profundizar más y falla una prueba de sabiduría, obtienes información sobre su razonamiento, su estado emocional y aquello que ocupa su mente. Si la supera, el hechizo termina. El objetivo sabe que estás sondeando su mente y puede intentar romper el hechizo con una prueba de Inteligencia enfrentada a la tuya."
+SpellDescription_20,"Canalizando la energía espiritual de la bestia, potencias tus capacidades mentales y físicas. Mientras el hechizo dure, obtienes competencia en todas las puntuaciones de habilidad. En aquellas en las que ya tengas competencia, obtienes maestría (bonificador de competencia duplicado)."
+SpellDescription_21,"Elige un objeto que puedas ver dentro del alcance. El objeto puede ser una puerta, una caja, un cofre, unas esposas, un candado u otro objeto que contenga algún medio mundano o mágico que impida el acceso.
+
+Un objetivo que esté cerrado por una cerradura mundana, o que esté atascado o trancado, queda desbloqueado, desatascado o sin trancar. Si el objeto tiene varios cerrojos, solo uno de ellos queda abierto.
+
+Al lanzar el hechizo, un fuerte golpe, audible hasta a 90 metros de distancia, emana del objeto objetivo."
+SpellDescription_22,Hasta seis criaturas a tu elección que puedas ver dentro del alcance recuperan cada una puntos de vida iguales a 2d8 + tu modificador de característica de lanzamiento de hechizos. Este hechizo no tiene efecto sobre no-muertos ni constructos.
+SpellDescription_23,"Manifiestas un aura a tu alrededor que te protege contra criaturas de tipo Celestial, Elemental, Feérico, Infernal o No-muerto. La protección otorga varios beneficios. Las criaturas de esos tipos tienen desventaja en las tiradas de ataque contra ti. Además, no pueden poseerte ni infligirte las condiciones Encantado o Asustado.
+
+Hasta que el hechizo termine, también obtienes ventaja contra esas criaturas."
+SpellDescription_24,"Pones una maldición sobre una criatura que puedes ver dentro del alcance. Hasta que el hechizo termine, cada tirada contra esa criatura se incrementa en tu bonificador de competencia.
+
+Si el objetivo cae a 0 puntos de vida antes de que este hechizo termine, puedes usar una Acción adicional en un turno posterior para maldecir a una nueva criatura. Como eres tan bueno en esto, se hará automáticamente."
+SpellDescription_25,"Creas una zona mágica que protege contra el engaño en una esfera de 4,5 metros de radio centrada en un punto que elijas dentro del alcance. Hasta que el hechizo termine, una criatura que entre en el área del hechizo por primera vez en su turno o que comience su turno allí debe realizar una tirada de salvación de Carisma. Si falla, la criatura no puede pronunciar una mentira deliberada mientras esté dentro del radio. Sabes si cada criatura supera o falla la tirada de salvación.
+
+Una criatura afectada es consciente del hechizo y puede, por tanto, evitar responder a preguntas a las que normalmente respondería con una mentira. Dichas criaturas pueden ser evasivas en sus respuestas siempre que permanezcan dentro de los límites de la verdad."
+SpellDescription_26,"Un aura de poder sagrado emana de ti en un radio de 9 metros, despertando el valor en ti y en todas las criaturas aliadas. Hasta que el hechizo termine, el aura se mueve contigo, centrada en ti. Durante un encuentro, tú y todos los aliados añadís 1d12 a todas las pruebas de habilidad."
+SpellDescription_27,"De ti emana energía curativa en un aura de 9 metros de radio. Hasta que el hechizo termine, el aura se mueve contigo, centrada en ti. Durante un encuentro, cada ronda tú y todos los aliados en el aura recuperáis 2d6 puntos de vida. Fuera de un encuentro, recuperas 20d6 puntos de vida."
+SpellDescription_28,"Tocas a una criatura que ha muerto en el último minuto. Esa criatura vuelve a la vida con 1 punto de vida. Este hechizo no puede devolver la vida a una criatura que haya muerto de vejez, ni puede restaurar partes del cuerpo que falten.
+
+(Una nota en el hechizo dice: «EN CASO DE EMERGENCIA».)"
+SpellDescription_29,"Otorgas apariencia de vida e inteligencia a un cadáver de tu elección dentro del alcance, permitiéndole responder a las preguntas que le plantees. El cadáver debe conservar la boca y no puede ser un no-muerto. El hechizo falla si el cadáver ya fue objetivo de este hechizo en los últimos 10 días.
+
+Mientras dure el hechizo, puedes hacerle al cadáver hasta cinco preguntas. El cadáver solo sabe lo que sabía en vida, incluidos los idiomas que conocía. Las respuestas suelen ser breves, crípticas o repetitivas, y el cadáver no está obligado a responder con sinceridad si le eres hostil o te reconoce como enemigo. Este hechizo no devuelve el alma de la criatura a su cuerpo, solo su espíritu animador. Por tanto, el cadáver no puede aprender información nueva, no comprende nada de lo ocurrido desde su muerte y no puede especular sobre eventos futuros."
+SpellDescription_30,"Dotes de vida limitada y movimiento a las plantas que hay en un radio de 9 metros a tu alrededor, permitiéndoles comunicarse contigo y seguir tus órdenes sencillas. Puedes interrogar a las plantas sobre eventos ocurridos en el área del hechizo durante el último día, obteniendo información sobre criaturas que hayan pasado, el tiempo atmosférico y otras circunstancias.
+
+Si hay una criatura vegetal en el área, puedes comunicarte con ella como si compartieras un idioma común, aunque no obtienes ninguna capacidad mágica para influir sobre ella."
+SpellDescription_31,"Tu puño se imbuye del poder de la naturaleza. Realiza un ataque de hechizo cuerpo a cuerpo contra una criatura a tu alcance. Si aciertas, el objetivo sufre 4d8 de daño contundente más tu modificador de característica para lanzar conjuros, y el daño cuenta como mágico."
+SpellDescription_32,"Evocas una furia primordial y esotérica en tu alma, otorgándote una fuerza y resistencia extraordinarias. Mientras estés bajo el efecto de esta furia, tienes resistencia a todo daño y tiras con ventaja en todas las pruebas de Fuerza."
+SpellDescription_33,"Haces cabriolas y te mofas de una criatura que puedas ver dentro de tu alcance. Debe superar una tirada de salvación de Carisma o recibir 4d6 de daño psíquico y tener desventaja en la próxima tirada de ataque que realice antes del final de su siguiente turno. Si supera la salvación, sufre la mitad de daño y ninguna desventaja. No puedes lanzar este hechizo si estás derribado, inmovilizado, apresado o si tu velocidad es 0."
+SpellInfo_0,
+SpellInfo_1,"Truco de evocación
+Tiempo de lanzamiento: 1 acción
+Categoría: Arcana
+Alcance: 36 metros
+Componentes: V, S, M (un poco de fósforo, madera de ildwood o un fragmento de globo luminoso)
+Duración: Concentración, hasta 1 minuto"
+SpellInfo_2,"Truco de conjuración
+Tiempo de lanzamiento: 1 acción
+Categoría: Arcana
+Alcance: 9 metros
+Componentes: V, S
+Duración: 1 minuto"
+SpellInfo_3,"Truco de Transmutación
+Tiempo de lanzamiento: 1 acción
+Categoría: Primaria
+Alcance: 9 metros
+Componentes: V, S
+Duración: Instantánea"
+SpellInfo_4,"Truco de Transmutación
+Tiempo de lanzamiento: 1 acción
+Categoría: Divina
+Alcance: 9 metros
+Componentes: V
+Duración: Hasta 1 minuto"
+SpellInfo_5,"Encantamiento de nivel 1
+Tiempo de lanzamiento: 1 acción
+Categoría: Divina
+Alcance: 9 metros
+Componentes: V, S, M (unas gotas de agua de río)
+Duración: Concentración, hasta 1 hora"
+SpellInfo_6,"Encantamiento de nivel 1
+Tiempo de lanzamiento: 1 acción
+Categoría: Arcana
+Alcance: 9 metros
+Componentes: V, S
+Duración: Situacional, hasta 10 minutos"
+SpellInfo_7,"Adivinación de nivel 1
+Tiempo de lanzamiento: 1 acción
+Categoría: Arcana
+Alcance: Personal
+Componentes: V, S, M (una pizca de hollín y sal)
+Duración: Situacional, hasta 10 minutos"
+SpellInfo_8,"Evocación de nivel 1
+Tiempo de lanzamiento: 1 acción adicional
+Categoría: Divina
+Alcance: Toque
+Componentes: V, S
+Duración: Instantánea"
+SpellInfo_9,"Adivinación de nivel 1
+Tiempo de lanzamiento: 1 acción
+Categoría: Divina
+Alcance: Personal
+Componentes: V, S
+Duración: Instantánea"
+SpellInfo_10,"Adivinación de nivel 1
+Tiempo de lanzamiento: 1 acción
+Categoría: Arcana
+Alcance: 15 metros
+Componentes: V, S
+Duración: Situacional, instantánea"
+SpellInfo_11,"Transmutación de nivel 1
+Tiempo de lanzamiento: 1 acción
+Categoría: Primordial
+Alcance: Toque
+Componentes: V, S, M (un «Âppelskrutt» tradicional)
+Duración: Instantánea"
+SpellInfo_12,"Conjuración de nivel 1
+Tiempo de lanzamiento: 1 acción
+Categoría: Arcana
+Alcance: 18 metros
+Componentes: V, S, M (un trozo de corteza de cerdo o mantequilla)
+Duración: Situacional, hasta 1 minuto"
+SpellInfo_13,"Nigromancia de nivel 1
+Tiempo de lanzamiento: 1 acción
+Categoría: Divina
+Alcance: Toque
+Componentes: V, S
+Duración: Situacional, instantánea"
+SpellInfo_14,"Abjuración de nivel 1
+Tiempo de lanzamiento: 1 acción adicional
+Categoría: Divina
+Alcance: 18 metros
+Componentes: V, S, M (un pequeño pergamino con un fragmento de texto sagrado escrito en él)
+Duración: Concentración, hasta 1 hora"
+SpellInfo_15,"Adivinación de nivel 1
+Tiempo de lanzamiento: 1 acción
+Categoría: Primordial
+Alcance: Personal
+Componentes: V, S
+Duración: Situacional, hasta 10 minutos"
+SpellInfo_16,"Nigromancia de nivel 1
+Tiempo de lanzamiento: 1 acción
+Categoría: Divina
+Alcance: 9 metros
+Componentes: V
+Duración: Situacional, instantánea"
+SpellInfo_17,"Adivinación de nivel 2
+Tiempo de lanzamiento: 1 minuto
+Categoría: Arcana
+Alcance: Personal
+Componentes: V, S, M (palillos, huesos u objetos similares marcados especialmente, con un valor mínimo de 25 po)
+Duración: Instantánea"
+SpellInfo_18,"Transmutación de nivel 2
+Tiempo de lanzamiento: 1 acción
+Categoría: Primordial
+Alcance: Toque
+Componentes: V, S, M (un puñado de corteza de roble)
+Duración: Concentración, hasta 4 horas"
+SpellInfo_19,"Adivinación de nivel 2
+Tiempo de lanzamiento: 1 acción
+Categoría: Arcana
+Alcance: Personal
+Componentes: V, S, M (una moneda de cobre)
+Duración: Situacional, hasta 10 minutos"
+SpellInfo_20,"Transmutación de nivel 2
+Tiempo de lanzamiento: 1 acción
+Categoría: Primordial
+Alcance: Toque
+Componentes: V, S, M (pelo o una pluma de una bestia)
+Duración: Concentración, hasta 4 horas"
+SpellInfo_21,"Transmutación de nivel 2
+Tiempo de lanzamiento: 1 acción
+Categoría: Arcana
+Alcance: 18 metros
+Componentes: V
+Duración: Situacional"
+SpellInfo_22,"Evocación de nivel 2
+Tiempo de lanzamiento: 10 minutos
+Categoría: Divina
+Alcance: 9 metros
+Componentes: V
+Duración: Instantánea"
+SpellInfo_23,"Abjuración de nivel 2
+Tiempo de lanzamiento: 1 acción
+Categoría: Divina
+Alcance: Toque
+Componentes: V, S, M (un litro de agua de río, que debe beberse de un trago)
+Duración: Concentración, hasta 10 minutos."
+SpellInfo_24,"Encantamiento de nivel 2
+Tiempo de lanzamiento: 1 acción adicional
+Categoría: Arcana
+Alcance: 27 metros
+Componentes: V, S, M (el ojo calcificado de una salamandra)
+Duración: Hasta 1 minuto."
+SpellInfo_25,"Encantamiento de nivel 2
+Tiempo de lanzamiento: 1 acción
+Categoría: Divina
+Alcance: 18 metros
+Componentes: V, S
+Duración: Situacional, 10 minutos"
+SpellInfo_26,"Evocación de nivel 3
+Tiempo de lanzamiento: 1 acción
+Categoría: Divina
+Alcance: Personal (radio de 9 metros)
+Componentes: V
+Duración: Concentración, hasta 10 minutos"
+SpellInfo_27,"Evocación de nivel 3
+Tiempo de lanzamiento: 1 acción
+Categoría: Primordial
+Alcance: Personal (radio de 9 metros)
+Componentes: V
+Duración: Concentración, hasta 10 minutos"
+SpellInfo_28,"Abjuración de nivel 3
+Tiempo de lanzamiento: 1 acción
+Categoría: Divina
+Alcance: Toque
+Componentes: V, S
+Duración: Instantánea"
+SpellInfo_29,"Nigromancia de nivel 3
+Tiempo de lanzamiento: 1 acción
+Categoría: Divina
+Alcance: 3 metros
+Componentes: V, S, M (incienso ardiendo)
+Duración: Situacional, hasta 10 minutos"
+SpellInfo_30,"Transmutación de nivel 3
+Tiempo de lanzamiento: 1 acción
+Categoría: Primordial
+Alcance: Uno mismo (radio de 9 metros)
+Componentes: V, S
+Duración: Situacional, hasta 10 minutos"
+SpellInfo_31,"Transmutación de nivel 2
+Tiempo de lanzamiento: 1 acción
+Categoría: Primordial
+Alcance: Toque
+Componentes: V, S, M (una ramita de muérdago enrollada alrededor de tu mano)"
+SpellInfo_32,"Evocación de nivel 2
+Tiempo de lanzamiento: 1 acción
+Categoría: Primordial
+Alcance: 18 metros
+Componentes: V, S"
+SpellInfo_33,"Encantamiento de nivel 2
+Tiempo de lanzamiento: 1 acción
+Categoría: Arcano
+Alcance: 4,5 metros
+Componentes: V, S (una danza burlona)"
+SpellInfo_Loading_SpeakWithDead_Level,Nigromancia de nivel 3
+SpellInfo_Loading_SpeakWithDead_CastingReq,"Tiempo de lanzamiento: 1 acción
+Alcance: 3 metros
+Componentes: V, S, M (incienso ardiendo)
+Duración: 10 minutos"

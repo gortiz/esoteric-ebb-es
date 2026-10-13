@@ -1,0 +1,31 @@
+# Binary and archive files
+*.rar
+*.zip
+*.dll
+*.exe
+
+# Input reference directory (contains old mod dump)
+other/
+
+# Internal extraction and compilation scripts
+scripts/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build artifacts and work directories
+dist/
+build/
+missing/
+localization/

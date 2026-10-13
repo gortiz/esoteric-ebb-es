@@ -1,0 +1,105 @@
+ID,ES
+FEAT_LONE_STR,Clérigo Solitario
+FEAT_MEMORIZER_INT,Memorizador Maestro
+FEAT_COMPANY_CHA,Compañía Agradable
+FEAT_PARANOIA_DEX,Paranoia Contagiosa
+FEAT_SURVIVAL_CON,Supervivencia del más fuerte
+FEAT_EYE_CHA,Leer el ambiente
+FEAT_LUCK_CHA,Suerte del Bobo
+FEAT_MUSH_DEX,Reflejos de Mazmorra
+FEAT_PROF_STR,Clérigo Profesional
+FEAT_BALANCE_INT,Campana Torcida pero Equilibrada
+FEAT_BELLY_CON,Las Entrañas Oscuras del Alma
+FEAT_HJARTA_WIS,Hjârtat Mitt
+FEAT_MAN_STR,Un Buen Hombre
+FEAT_FRAGILE_DEX,Inmortalidad Frágil
+FEAT_DREAM_INT,Sueño Imperial
+FEAT_LIE_CHA,Mentira Hermosa
+FEAT_NAT_STR,Nacionalista
+FEAT_FRE_DEX,Caminante Libre
+FEAT_AZG_WIS,Azgalista
+FEAT_ARC_INT,Arcanista
+FEAT_AGR_CON,Agrario
+FEAT_APO_CHA,Apolítico
+FEAT_MONEY_DEX,El Dinero Habla
+FEAT_SPIRIT_WIS,Espíritu Azgaliano
+FEAT_FEMI_WIS,Dama Hermosa
+FEAT_MASC_STR,Futuro Patriarca
+FEAT_PRINT_INT,Propaganda Mediática
+FEAT_UNITY_WIS,Unidad de Hombres y Enanos
+FEAT_ENDURE_CON,Resistencia Azgaliana
+FEAT_DEFEND_STR,Defensa de la Ciudad
+FEAT_TRUE_DEX,Verdadero Norvik
+FEAT_MIGHT_CON,Aparato Leviatán
+FEAT_FORCE_STR,Fuerza Imparable
+FEAT_HAND_DEX,Mano Invisible
+FEAT_OBJECT_CHA,Objeto Inamovible
+FEAT_VOICE_STR,Voz de Dios
+FEAT_STRING_INT,Maestro de los Hilos
+FEAT_PATRON_CHA,Patrón Comunivo
+FEAT_LICH_INT,Casi Liche
+FEAT_NEURO_WIS,Neuroticismo Esotérico
+FEAT_BLOOD_CON,Magia de Sangre
+FEAT_CLERIC_STR,Clérigo
+FEAT_ROGUE_DEX,Pícaro Cabrón
+FEAT_WIZARD_INT,Dios-Mago-Emperador
+FEAT_BARB_CON,Bárbaro Askanii
+FEAT_BARD_CHA,Bardo Conocedor
+FEAT_DRUID_WIS,Druida Local Amigable
+FEAT_LEYLINE_CHA,Gancho de Línea Ley
+FEAT_MILL_CON,Guardián del Milenio
+FEAT_TINGLE_WIS,Hormigueo Agradable
+FEAT_SCRIBBLE_INT,Notas al Margen
+FEAT_DEM_DEX,Heraldo Democrático
+FEAT_LONE_STR_DESC,"Al comienzo de un descanso corto, recuperas PV adicionales iguales a tus niveles de agotamiento."
+FEAT_MEMORIZER_INT_DESC,"Durante un descanso corto, recuperas dos ranuras de hechizo aleatorias en vez de una."
+FEAT_COMPANY_CHA_DESC,"Durante los descansos cortos, lanza siempre el dado de golpe con ventaja. Snell también obtiene competencia adicional en las tiradas de iniciativa."
+FEAT_PARANOIA_DEX_DESC,Ventaja en las tiradas de iniciativa.
+FEAT_SURVIVAL_CON_DESC,Ventaja en las tiradas de salvación contra la muerte.
+FEAT_EYE_CHA_DESC,Ventaja en las pruebas de observación.
+FEAT_LUCK_CHA_DESC,"Cada vez que sacas un resultado natural de 1, vuelves a tirar el d20 y recibes 1d4 de daño. Si el nuevo resultado también es un 1 natural, repite el proceso. Este daño no puede dejarte por debajo de 1 PV."
+FEAT_MUSH_DEX_DESC,"Cada vez que saques 10 o menos, añade una competencia adicional a la tirada."
+FEAT_PROF_STR_DESC,No puedes fallar críticamente. (Un resultado natural de 1 no cuenta como fallo automático.)
+FEAT_BALANCE_INT_DESC,"En cada tirada de d20, los Hilos de Jor desplazan el resultado hacia el 10. La probabilidad de tiradas críticas disminuye."
+FEAT_BELLY_CON_DESC,Resistencia a todo daño cuando tus PV están por debajo del 50%.
+FEAT_HJARTA_WIS_DESC,Cada nivel de agotamiento otorga +1 a cada tirada de d20 en vez de −1.
+FEAT_MAN_STR_DESC,"Cada vez que superas una tirada de salvación contra la muerte, te levantas con 1d20 PV."
+FEAT_FRAGILE_DEX_DESC,"No realizas tiradas de salvación contra la muerte. Si tus PV son superiores a 1 y recibes daño que los reduciría a 0, quedan en 1. Si recibes cualquier daño con 1 PV, mueres."
+FEAT_DREAM_INT_DESC,"Durante una conversación con alguien cuya Inteligencia sea inferior a la tuya, obtienes competencia adicional en todas las tiradas de d20."
+FEAT_LIE_CHA_DESC,"Mientras tengas los PV al máximo y 0 niveles de agotamiento, obtienes ventaja en todas las tiradas de d20 de Carisma."
+FEAT_NAT_STR_DESC,Competencia adicional en tiradas durante conversaciones con humanos.
+FEAT_FRE_DEX_DESC,Obtienes un 10% de descuento adicional en todas las compras.
+FEAT_AZG_WIS_DESC,"Cada vez que recibes daño, avanza un paso en un contador secreto de tres pasos. En el primero se tira un d20 «tesis». En el segundo, si el daño recibido supera ese resultado, se tira un d4 «antítesis». En el tercero, el daño se reduce en 1 o en el valor del d4, si se tiró. Esto es la «síntesis», más o menos. Al recibir daño de nuevo, vuelves al primer paso."
+FEAT_ARC_INT_DESC,"Cuando usas tu última ranura de hechizo de cualquier nivel, tira 1d100. Si el resultado es inferior a tu Inteligencia natural, recuperas esa ranura."
+FEAT_AGR_CON_DESC,"Cada vez que recoges comida, tira 1d20. Con un resultado de 16 o más, obtienes un objeto de comida adicional."
+FEAT_APO_CHA_DESC,"Aumenta el bonificador de competencia en tiradas en 1. En cualquier día de elecciones, ese valor sube a 10."
+FEAT_MONEY_DEX_DESC,"Al recoger monedas, obtienes un 50% más de dinero."
+FEAT_SPIRIT_WIS_DESC,Recuperas 1 PV cada hora.
+FEAT_FEMI_WIS_DESC,Competencia adicional en tiradas durante conversaciones con personajes de aspecto femenino.
+FEAT_MASC_STR_DESC,Competencia adicional en tiradas durante conversaciones con personajes de aspecto masculino.
+FEAT_PRINT_INT_DESC,Modifica los bonificadores de los textos equipados. Los positivos aumentan en 1; los negativos disminuyen en 1.
+FEAT_UNITY_WIS_DESC,"Mientras tengas los PV al máximo, los dados de daño contra ti se tiran con desventaja."
+FEAT_ENDURE_CON_DESC,"Por cada 3 horas en estado de agotamiento, pierdes 1 nivel de agotamiento."
+FEAT_DEFEND_STR_DESC,Modifica los bonificadores de los cascos equipados. Los positivos aumentan en 1; los negativos disminuyen en 1.
+FEAT_TRUE_DEX_DESC,Tira iniciativa con Fuerza si es superior a tu Destreza.
+FEAT_MIGHT_CON_DESC,Los enemigos siempre tiran iniciativa con desventaja.
+FEAT_FORCE_STR_DESC,Modifica los bonificadores de las armas equipadas. Los positivos aumentan en 1; los negativos disminuyen en 1.
+FEAT_HAND_DEX_DESC,Ventaja en todas las pruebas de trivialidad.
+FEAT_OBJECT_CHA_DESC,"El modificador de Destreza también se añade al descuento al comerciar en tiendas, acumulándose con el de Carisma."
+FEAT_VOICE_STR_DESC,"Cada vez que tiras un d20, se tira en secreto otro d20. Si ambos coinciden: golpe crítico. Si ambos son 20 natural: recuperas todos los PV y ranuras, pierdes todo el agotamiento y eres genuinamente feliz durante 1d4 segundos."
+FEAT_STRING_INT_DESC,"Por cada nivel de ranura de hechizo que poseas, obtienes una ranura máxima adicional de ese nivel."
+FEAT_PATRON_CHA_DESC,"Si recibes daño que reduciría tus PV a 0, una fuerza misteriosa te protege. No recibes el daño, pero pierdes una ranura de nivel 1. Si no tienes ranuras de nivel 1, no ocurre nada."
+FEAT_LICH_INT_DESC,"Inspirado por tu pálido señor favorito, ya no recuperas PV mediante curación. A cambio, eres inmune a todo tipo de daño. Cada vez que recibirías daño de cualquier clase, ganas 1 nivel de agotamiento. Cada vez que recibes más de 6 PV de curación de una fuente, pierdes 1 nivel de agotamiento."
+FEAT_NEURO_WIS_DESC,"Cuando no tienes FRAGMENTOS DE JOR, puedes gastar PV en su lugar para desbloquear opciones de diálogo. El coste inicial es 1 PV y se duplica con cada uso. Se reinicia tras un descanso largo."
+FEAT_BLOOD_CON_DESC,"Cuando te quedas sin ranuras de hechizo, puedes lanzar hechizos gastando PV. El coste inicial es igual al nivel de la ranura en PV y se multiplica por el número de activaciones. Se reinicia tras un descanso largo."
+FEAT_CLERIC_STR_DESC,Tus hechizos de curación se potencian con competencia adicional. Los PV recuperados también pueden aumentarse con el modificador de Fuerza si es mayor que el de Sabiduría.
+FEAT_ROGUE_DEX_DESC,Tus tiradas de trivialidad se potencian con competencia adicional.
+FEAT_WIZARD_INT_DESC,El número de hechizos que puedes preparar aumenta con competencia adicional. Las tiradas de salvación de los objetivos se realizan con desventaja.
+FEAT_BARB_CON_DESC,"Cuando tus PV son iguales o inferiores al 25%, añade competencia adicional a todas las tiradas."
+FEAT_BARD_CHA_DESC,"Tus pruebas de observación se tiran con competencia adicional. Además, la CD de las tiradas de coqueteo se reduce en tu bonificador de competencia."
+FEAT_DRUID_WIS_DESC,"Competencia adicional en tiradas en entornos naturales: espacios abiertos, zonas boscosas y cuevas."
+FEAT_LEYLINE_CHA_DESC,Modifica los bonificadores de las BARATIJAS equipadas. Los positivos aumentan en 1; los negativos disminuyen en 1.
+FEAT_MILL_CON_DESC,"Los efectos de las pociones se duplican. Para aumentos de características, solo se aplica a la primera poción de cada tipo consumida."
+FEAT_TINGLE_WIS_DESC,Los hechizos de curación se tiran con el doble de dados.
+FEAT_SCRIBBLE_INT_DESC,Tu nivel de clérigo se dobla al calcular cuántos hechizos puedes preparar.
+FEAT_DEM_DEX_DESC,Recuperas 1d4 PV cada vez que preguntas a alguien por quién va a votar en las elecciones.

@@ -1,0 +1,417 @@
+ID,ES
+Credit_CreatedBy,Creado por
+Credit_IllustrationsBy,Ilustraciones de
+Credit_MusicBy,Música de
+Credit_Musicians,Músicos
+Credit_ArtworkBy,Ilustraciones de
+Credit_ProgrammingBy,Programación de
+Credit_SoundDesignBy,Diseño de Sonido por
+Credit_EditingBy,Edición a cargo de
+Credit_ProductionAssistant,Asistente de Producción
+Credit_DesignNSupport,Diseño y soporte
+Credit_AdditionalCollaborators,Colaboradores Adicionales
+Credit_SoundtrackMasteredBy,"Banda sonora de Esoteric Ebb, Vol. I y ""Vol. II"" masterizada por"
+Credit_ReleasedOnVinylAndStreaming,Publicado en vinilo y en streaming a través de
+Credit_PublishedBy,Publicado por
+Credit_Production,Producción
+Credit_Marketing,Marketing
+Credit_Community,Comunidad
+Credit_Sales,Ventas
+Credit_CompanyManagement,Gestión de compañía
+Credit_Finance,Finanzas
+Credit_VoiceOvers,Locuciones
+Credit_SpecialThanks,Agradecimientos especiales
+Credit_ClosingMessage,"	Un ENORME y SENTIDO agradecimiento a cada una de las personas que han comprado y jugado (legalmente o de cualquier otra forma) a este disparatado juego mío. Aunque he tenido el privilegio de trabajar con tantas personas maravillosas durante los dos últimos años, Esoteric Ebb ha sido un viaje solitario para mí (a veces agotador, a veces alegre, pero solitario). Ocho años de ensayo y error, de quemar ahorros, de ignorar buenos consejos y de golpear desesperadamente los dedos contra el teclado hasta que algo encajara. A pesar de eso, todo esto solo es posible gracias al apoyo de todos los que no estaban en esa habitación oscura conmigo: mis amigos y jugadores, mi familia y colegas. A todos los que creyeron en el juego, tanto online como en la vida real, cuando merecía la pena creer en él, y aún más cuando no. Gracias por ayudarme a avanzar hacia algo significativo. Esperemos que el próximo sea aún mejor."
+Credit_toTheDevelopersOf,a los desarrolladores de
+Credit_Featuring,Con la participación de
+Credit_WritingProgrammingDesignBy,"Escritura, Programación y Diseño por"
+Credit_SoundDesignAndAudioProducer,Diseño de sonido y producción de audio
+Credit_GeneralManager,Director general
+Credit_HeadOfBusinessDevelopment,Jefe de desarrollo comercial
+Credit_BusinessDevelopmentManager,Gestor de desarrollo comercial
+Credit_DirectorOfQualityAssurance,Director de control de calidad
+Credit_QAOperationsManager,Jefe de operaciones de control de calidad
+Credit_LeadQAProjectManager,Jefe de proyectos de control de calidad
+Credit_QAProjectManager,Jefe de proyecto de control de calidad
+Credit_SeniorCQAAndLnDManager,Director sénior de CQA y formación
+Credit_QALabManagers,Responsables del laboratorio de QA
+Credit_LearningAndDevelopmentCoordinator,Coordinador de formación y desarrollo
+Credit_LearningAndDevelopmentSpecialists,Especialistas en formación y desarrollo
+Credit_FQATeamLeader,Líder de equipo de FQA
+Credit_QATesters,Probadores de control de calidad (QA)
+Credit_ITDirector,Director de TI
+Intro_Skip,Saltar
+Credit_AGameBy,Un juego de
+Setting_Language_Title,Idioma
+Setting_Language_Info,"El juego fue escrito y diseñado originalmente para jugarse en inglés. Sin embargo, aquí puedes seleccionar versiones localizadas del juego. Recuerda que estas localizaciones son interpretaciones de la historia original y contendrán sus propias particularidades y decisiones para funcionar correctamente en otros idiomas. Solo la interfaz y los diálogos se ven afectados. ¡Muchísimas gracias a todas y cada una de las personas que trabajaron en estas localizaciones!
+
+<i>El inglés fue escrito por Christoffer Bodegård.</i>"
+Settings_TwitchIntegration_Title,Integración con Twitch
+Settings_TwitchIntegration_Info,Activa esto y luego conéctate a tu cuenta de Twitch. ¡Esto te permite disfrutar de la increíble opción de que la gente vote qué deberías elegir a continuación en los diálogos! Aunque nunca se te obligará a elegir lo que ellos voten. ¿No es maravillosa la democracia?
+Settings_VoiceOverMode_Title,Modo de voz en off
+Settings_VoiceOverMode_Info,"Todo con voz: Todas las líneas son leídas por actores de voz.
+Introducciones con voz: Solo la primera parte de cada diálogo tiene voz.
+Personajes con voz: Todas las campanadas permanecen en silencio.
+Campanadas con voz: Todos los personajes permanecen en silencio.
+Gruñidos (Clásico): Los personajes hacen un ruido al iniciar diálogos. Como en los viejos tiempos.
+Nada con voz: Dulce silencio."
+Settings_DmWantsToKillMe_Title,El-DM-quiere-matarme
+Settings_DmWantsToKillMe_Info,"Si activas este modo, se aplicarán los siguientes cambios:
+- El DM trucará todos los dados de daño para que sean más altos.
+- Si recibes un daño superior a tus PV actuales + tus PV máximos, mueres al instante.
+- El DM trucará todas tus tiradas de dados para que sean un poco más mediocres.
+- Las pociones que aumentan características solo durarán hasta tu próximo descanso largo.
+- Las pruebas de dados bloqueadas ya no se restablecerán con descansos cortos, solo con descansos largos.
+- La CD de todas las tiradas aumentará según tu bonificador de competencia (vamos, 2 o 3 puntos).
+- Cada vez que consigas dinero, te aplicarán un impuesto esotérico del 50%.
+- Toda la experiencia se reduce un 25%.
+- Tendrás la ominosa sensación de que el DM posiblemente —<i>en potencia</i>— sea un auténtico cabrón. Te ganarás un enorme <color=red>respeto</color> si consigues pasártelo."
+Settings_NoSavescumming_Title,Sin recarga de guardado
+Settings_NoSavescumming_Info,"Si activas este modo, todas tus tiradas de dados estarán predeterminadas. Esto significa que tendrás que fallar una tirada antes de poder obtener un nuevo resultado, y recargar una partida guardada no te servirá de nada. Por supuesto, también puedes desactivarlo cuando quieras. Y también puedes simplemente optar por no abusar del guardado rápido. No es que tenga nada en contra de recargar partida, ¡juega como te dé la gana! ¡No soy pasivo-agresivo! ¡Deja de mirarme así!"
+Settings_BalancedDice_Title,Dados equilibrados
+Settings_BalancedDice_Info,Este modo reduce las probabilidades de sacar varios 1 naturales y 20 naturales seguidos.
+Settings_NoStressMode_Title,Modo sin estrés
+Settings_NoStressMode_Info,"En Esoteric Ebb, el tiempo está medido para que puedas hacer todo lo necesario antes del día de las elecciones. Sin embargo, hay algunas misiones y eventos que solo se pueden completar en días y franjas horarias específicas. Si activas este modo, el tiempo avanzará un poco más despacio. Por si eres el tipo de jugador que se agobia con el reloj."
+Settings_NoAnimations_Title,Texto instantáneo
+Settings_NoAnimations_Info,Elimina todas las animaciones y el desplazamiento automático de la interfaz de diálogo.
+Settings_Limit_Unlimited,Ilimitado
+Settings_QuickSaveLimit_Title,Límite de guardados rápidos
+Settings_QuickSaveLimit_Info,Establece un límite de cuántos guardados rápidos puedes conservar. Se crean con la tecla F5. Carga rápida con F9.
+Settings_AutoSaveLimit_Title,Límite de autoguardados
+Settings_AutoSaveLimit_Info,"Establece un límite de cuántos autoguardados puedes conservar. Se crean cada vez que sales de un diálogo o entras en una nueva zona.
+"
+Settings_Lightmode_Title,Modo claro
+Settings_Lightmode_Info,Activa esto para invertir el color de la interfaz de diálogo si prefieres fondo claro y texto oscuro.
+Settings_UISize_Title,Tamaño de la interfaz
+Settings_UISize_Info,Ajústalo a grande o enorme si tienes dificultades para leer el texto pequeño de la interfaz.
+Settings_ColorblindMode_Title,Modo daltónico
+Settings_ColorblindMode_Info,Etiquetas: Añade el nombre de las puntuaciones de característica en textos que normalmente solo se distinguen por colores.
+Settings_Quality_Title,Calidad
+Settings_Quality_Info,"Bajo: Sombras de baja calidad.
+Alto: Sombras de alta calidad."
+Settings_DisplayMode_Title,Modo de pantalla
+Settings_DisplayMode_Info,"Selecciona modo ventana, pantalla completa o ventana sin bordes."
+Settings_Resolutions_Title,Resolución
+Settings_Resolutions_Info,Selecciona una resolución según tu monitor.
+Settings_RefreshRate_Title,Frecuencia de Actualización
+Settings_RefreshRate_Info,Selecciona una frecuencia de actualización.
+Settings_AudioInBackground_Title,Audio en segundo plano
+Settings_AudioInBackground_Info,Elige si deseas seguir escuchando el sonido del juego al minimizar o cambiar de ventana.
+Settings_MasterVolumeSlider_Title,Volumen general
+Settings_MasterVolumeSlider_Info,Controla el volumen de todo el sonido del juego.
+Settings_MusicVolumeSlider_Title,Volumen de música
+Settings_MusicVolumeSlider_Info,Controla el volumen de toda la música del juego.
+Settings_AmbientVolumeSlider_Title,Volumen ambiental
+Settings_AmbientVolumeSlider_Info,Controla el volumen de los sonidos ambientales universales.
+Settings_EnvironmentVolumeSlider_Title,Volumen del mundo
+Settings_EnvironmentVolumeSlider_Info,Controla el volumen de los sonidos específicos de cada zona.
+Settings_VoiceVolumeSlider_Title,Volumen de voces
+Settings_VoiceVolumeSlider_Info,Controla el volumen de las voces del juego.
+Settings_UIVolumeSlider_Title,Volumen de interfaz
+Settings_UIVolumeSlider_Info,"Controla el volumen de los sonidos de botones, inventario y otros elementos de la interfaz."
+Keybind_ConfirmDelete,¿Eliminar esta asignación de tecla?
+Keybind_DuplicateWarning,Ya está asignada a otra acción.
+Settings_Keybinding_Title,Asignación de teclas
+Settings_Keybinding_Action,Acción
+Settings_Keybinding_Primary,Principal
+Settings_Keybinding_Alternate,Secundaria
+Settings_Keybinding_Controller,Mando
+Settings_ResetKeybindings_Title,Restablecer teclas
+KeybindInfo_Primary,Selecciona una entrada para la tecla Principal.
+KeybindInfo_Alternate,Selecciona una entrada para la tecla Secundaria.
+KeybindInfo_Controller,Selecciona una entrada para el Mando.
+Keybind_Move,Movimiento
+Keybind_Move_Up,Moverse hacia arriba
+Keybind_Move_Down,Moverse hacia abajo
+Keybind_Move_Left,Moverse a la izquierda
+Keybind_Move_Right,Moverse a la derecha
+Keybind_Choose,Elegir
+Keybind_Menu,Menú
+Keybind_Reject,Rechazar
+Keybind_Utility,Utilidad
+Keybind_Running,Correr
+Keybind_Highlight,Resaltar
+Keybind_Start,Inicio
+Keybind_Select,Hoja
+Keybind_LeftShoulder,Botón superior izquierdo (LB)
+Keybind_LeftTrigger,Gatillo izquierdo (LT)
+Keybind_RightShoulder,Botón superior derecho (RB)
+Keybind_RightTrigger,Gatillo derecho (RT)
+Keybind_CycleLanguageRight,Siguiente idioma
+Keybind_CycleLanguageLeft,Idioma anterior
+Keybind_CycleFontRight,Siguiente fuente
+Keybind_CycleFontLeft,Fuente anterior
+Keybind_ToggleInventory,Abrir/cerrar inventario
+Keybind_ToggleJournal,Abrir/cerrar diario
+Keybind_ToggleIdea,Abrir/cerrar ideas
+Keybind_ToggleSpellbook,Abrir/cerrar libro de conjuros
+Keybind_ToggleSheet,Abrir/cerrar hoja de personaje
+Keybind_QuickSave,Guardado rápido
+Keybind_QuickLoad,Carga rápida
+Keybind_Enter,Entrar
+Keybind_Continue,Continuar
+Keybind_DialogChoice1,Opción de diálogo 1
+Keybind_DialogChoice2,Opción de diálogo 2
+Keybind_DialogChoice3,Opción de diálogo 3
+Keybind_DialogChoice4,Opción de diálogo 4
+Keybind_DialogChoice5,Opción de diálogo 5
+Keybind_DialogChoice6,Opción de diálogo 6
+Keybind_DialogChoice7,Opción de diálogo 7
+Keybind_DialogChoice8,Opción de diálogo 8
+Keybind_DialogChoice9,Opción de diálogo 9
+Keybind_DialogChoice10,Opción de diálogo 10
+Settings_ResetSettings_Title,Restablecer ajustes
+Settings_ResetSettings_Info,Restablecer a los ajustes predeterminados.
+Settings_Category_Game,Juego
+Settings_Category_Text,Texto.
+Settings_Category_Visuals,Visuales
+Settings_Category_Audio,Audio
+Settings_Category_Other,Otros
+Settings_DialogTextSize_Title,Tamaño del texto de diálogo
+Settings_DialogFonts_Title,Fuentes de diálogo
+Settings_ResetKeybindingsPopup_Header,"¿Restablecer asignaciones de teclas?
+"
+Settings_ResetPopup_Header,¿Restablecer ajustes?
+Settings_Examples_TinyText,¿Cómo demonios vas a leer un texto tan DIMINUTO?
+Settings_Examples_OstDialog,"Meneando sus pequeñas patas garradas, el kobold sigue cada uno de tus movimientos con unos fríos e imperturbables ojos amarillos."
+Settings_Examples_RecommendedTextSize,"""Cuando juego a Ebb, uso tamaño de texto 24. Pero sugiero elegir el que te resulte más cómodo."""
+Settings_Examples_RecFont_Question,"""¿Qué fuente debería elegir?"""
+Settings_Examples_RecFont_Info,"""<i>Averia Serif</i> es la fuente recomendada. Puedes alternar las fuentes durante el juego pulsando <b>N o M</b> en el teclado, o pulsando el <b>stick izquierdo/derecho</b> en un mando."""
+Settings_Examples_RecFont_Choice1,"""No me digas lo que tengo que hacer."""
+Settings_Examples_RecFont_Choice2,"""Jugaré con tamaño de letra 36 y la cara a unos 7 centímetros de la pantalla."""
+Settings_Examples_RecFont_Choice3,"""Averia me parece bien, supongo."""
+Settings_Examples_RecFont_Choice4,"""Okay."" (Marcharse.)"
+Settings_RefreshRate_Unlimited,ILIMITADA
+Settings_RefreshRate_VSync,SINCRONIZACIÓN VERTICAL
+Settings_VoiceOverMode_Option1,Todo con voz
+Settings_VoiceOverMode_Option2,Introducciones con voz
+Settings_VoiceOverMode_Option3,Personajes con voz
+Settings_VoiceOverMode_Option4,Campanadas con voz
+Settings_VoiceOverMode_Option5,Gruñidos (Clásico)
+Settings_VoiceOverMode_Option6,Sin voces
+Settings_FontSize_Option1,Normal
+Settings_FontSize_Option2,Grande
+Settings_FontSize_Option3,Enorme
+Settings_ColorblindMode_Option1,Desactivado
+Settings_ColorblindMode_Option2,Etiquetas de color
+Settings_Quality_Option1,Alta
+Settings_Quality_Option2,Baja
+Settings_DisplayMode_Option1,Pantalla completa
+Settings_DisplayMode_Option2,Sin bordes
+Settings_DisplayMode_Option3,Ventana
+Menu_Button_NewGame,Nueva partida
+Menu_Button_Load,Cargar
+Menu_Button_Save,Guardar
+Menu_Button_Options,Opciones
+Menu_Button_Credits,Créditos
+Menu_Button_Exit,Salir
+Menu_Button_PressAnyButton,Pulsa Cualquier Botón
+Menu_Button_Resume,Reanudar
+Menu_Button_QuitToMenu,Salir al Menú
+Menu_Header_SessionNotes,Notas de sesión
+Menu_Button_Continue,Continuar
+Menu_Button_Finish,Finalizar
+Sheet_BackgroundFocus,Especialización de Trasfondo
+Sheet_PreBuilt,Prefabricado
+Menu_Button_Return,Volver
+Sheet_Proficiencies,Competencias
+Menu_Button_Randomize,Aleatorizar
+Menu_DeepStorage,Almacén profundo
+Menu_SpellSlot_First,1.º
+Menu_SpellSlot_Second,2.º
+Menu_SpellSlot_Third,3.º
+Menu_PreparingSpells_Title,Preparando Hechizos
+Menu_PreparingSpells_Finish,Finalizar
+Menu_PreparingSpells_Prepared,Hechizos Preparados
+Menu_PreparingSpells_Difficulty,Dificultad del Hechizo
+Menu_PreparingSpells_Collected,Hechizos recopilados
+Menu_PreparingSpells_ToPrepare,Conjuros por preparar: {0}
+Menu_PcInfo_Level_Short,Nv
+Menu_PcInfo_Stats_Title,Estadísticas
+Menu_PCInfo_Feats_Title,Dotes
+Menu_PCInfo_Cleric_Title,C<size=90%>lérigo
+Menu_QuestTree_ChooseFeat,Elegir dote
+Menu_QuestTree_ForgoFeat,Renunciar a la dote
+Menu_QuestTree_QP_Show,- Mostrar Rama de Misión -
+Menu_QuestTree_QP_Hide,- Mostrar Dote Desbloqueada -
+Menu_QuestTree_TakeRoot,Echar Raíces
+Menu_QuestTree_Completed,COMPLETADO
+Menu_CharacterCreation_Lore,Tradición
+Menu_CharacterCreation_Uses,Usos
+Menu_CharacterCreation_Role,Rol
+Menu_LevelUpButton,Progresión de Nivel
+Menu_Autosaving,Guardando...
+Menu_LoadFile,- Cargar Archivo -
+Menu_LoadConfirmation,¿Cargar archivo?
+Menu_SaveFile,- Guardar Archivo -
+Menu_NewSaveFile,Crear un nuevo archivo de guardado...
+Menu_SaveConfirmation_AltText,Nombre del archivo guardado
+Menu_SaveFile_Completed,Partida guardada
+Menu_OverwriteConfirmation,¿Sobrescribir archivo?
+Menu_DeleteConfirmation,¿Eliminar archivo de guardado?
+Journal_Empty,[Este diario está vacío.]
+Loading_AnyKey,Pulsa Cualquier Tecla para Continuar
+Loading_Title_DiceChecks,Pruebas de dados
+Loading_Desc_DiceChecks,"Tira un d20. Si obtienes un resultado igual o superior a la CD (Clase de Dificultad), tienes éxito.
+
+A menudo, el fracaso puede ser más interesante que el éxito. No le temas al dado."
+Loading_Title_LockedChecks,Pruebas Bloqueadas
+Loading_Desc_LockedChecks,"Algunas pruebas de dados pueden intentarse varias veces, pero solo puedes intentarlas una vez por descanso largo o corto.
+
+A menos que las desbloquees con un Fragmento de Jor."
+Loading_Title_AbilityScore,Puntuaciones de Atributo
+Loading_Desc_AbilityScore,"Las puntuaciones de habilidad representan tus capacidades.
+
+La media es 10.
+
+Cualquier valor por encima de 15 es excepcional. Por encima de 20, es territorio de semidioses.
+
+Por debajo de 5, implica una incapacidad total para realizar tareas básicas. Llegar a 0 en cualquier Puntuación de Atributo significa muerte instantánea.
+
+Sin embargo, los modificadores derivados de tu equipo no cuentan para estas capacidades. Las implicaciones de eso te las puedes imaginar."
+Loading_Title_Chimes,Campanillas
+Loading_Desc_Chimes,"Tus puntuaciones de característica te hablan durante los diálogos. Se llaman Campanadas.
+
+Las Campanadas con requisitos de CD solo aparecerán si tu puntuación de característica es igual o superior a la CD.
+
+Las Campanadas con requisito de CF aparecerán si es inferior."
+Loading_Title_AbilityScoreMod,Modificadores de Puntuación de Atributo
+Loading_Desc_AbilityScoreMod,"Cuando tiras los dados, siempre añades un modificador basado en tus puntuaciones de habilidad."
+Loading_Title_DifficultyClass,Clases de dificultad
+Loading_Desc_DifficultyClass,Clases de dificultad habituales
+Loading_Title_DialogChoices,Opciones de diálogo
+Loading_Desc_DialogChoices,"Hay tres tipos de opciones de diálogo.
+<color=#DA5B2A>
+1. «Opciones habladas.»
+
+2. Pensamientos internos.
+
+3. (Acciones realizadas.)</color>
+
+Algunas opciones combinan algunas o todas estas formas."
+Loading_Title_HiddenDialogChoices,Opciones de Diálogo Ocultas
+Loading_Desc_HiddenDialogChoices,Algunas opciones de diálogo están ocultas si no cumples los requisitos. Pero no te preocupes: en EBB no se espera que tengas acceso a todos los caminos de una sola vez.
+Loading_Title_SpellCasting,Lanzamiento de hechizos
+Loading_Desc_SpellCasting,"Como canal del poder divino, puedes lanzar hechizos de clérigo.
+
+Los hechizos te permiten curar, defenderte, resolver misiones y desbloquear ramas de diálogo únicas.
+
+Algunos hechizos pueden tener consecuencias. Algunos requieren tiradas de dados. Usar hechizos es una parte integral para tener éxito en tu misión."
+Loading_Title_SituationalSpells,Hechizos situacionales
+Loading_Desc_SituationalSpells,"Algunos hechizos solo pueden lanzarse en ciertas situaciones. Cuando uno de estos hechizos situacionales esté disponible, pueden ofrecer caminos alternativos poderosos, y a veces arriesgados."
+Loading_Title_SpellConcentration,Concentración de hechizo
+Loading_Desc_SpellConcentration,"Algunos hechizos requieren que mantengas la concentración. Solo puedes concentrarte en un hechizo a la vez.
+
+Si recibes suficiente daño, normalmente deberás superar una prueba de Constitución para mantener la concentración. Para ti, esto no parece ser un problema.
+
+Una vez que expire la duración del hechizo, o pierdas la concentración, el hechizo termina."
+Loading_Title_SpellScrolls,Pergaminos de hechizo
+Loading_Desc_SpellScrolls,"Normalmente, los lanzadores de hechizos consumen pergaminos de hechizo para lanzar versiones de uso único de los hechizos.
+
+Tú, en cambio, usas los pergaminos de hechizo para memorizar cualquier tipo de magia. En segundos. Simplemente eres así de bueno."
+Loading_Title_PreparingSpells,Preparando Hechizos
+Loading_Desc_PreparingSpells,"Para lanzar hechizos, primero debes prepararlos.
+
+Como Clérigo Arcano, debes acudir a un SANTUARIO para preparar hechizos.
+
+<i>Fórmula para calcular tu número de hechizos preparados.</i>
+<b>2 + tu nivel + tu modificador de Inteligencia.</b>"
+Loading_Title_SpellLevels,Niveles de hechizo
+Loading_Desc_SpellLevels,"El poder de los hechizos se mide por nivel. Los hechizos por encima del nivel 3 son cada vez más escasos hoy en día.
+
+Históricamente, los hechizos hasta el nivel 9 pueden ser lanzados por manos mortales."
+Loading_Title_SpellSlots,Ranuras de hechizo
+Loading_Desc_SpellSlots,"Según tu nivel de clérigo, solo tienes fuerzas para lanzar hechizos un número determinado de veces.
+
+Esto se mide mediante las ranuras de hechizo.
+
+Recuperas las ranuras de hechizo gastadas tomando un descanso largo o consumiendo ciertas sustancias."
+Loading_Desc_Cantrips,"Los trucos son hechizos menores que no consumen ranuras de hechizo. Por tanto, pueden lanzarse libremente en cualquier momento.
+
+Mucha gente usa los trucos en la vida cotidiana, incluso aquellos que no se consideran lanzadores de hechizos."
+Loading_Title_DeathSaving,Tiradas de salvación contra la muerte
+Loading_Desc_DeathSaving,"Cuando llegas a 0 puntos de vida, comienzas a realizar tiradas de salvación contra la muerte.
+
+Si sacas 10 o más, tienes éxito. Si sacas menos de 10, fallas.
+
+Con tres éxitos vuelves a la vida con 1 punto de vida y con 1 nivel adicional de agotamiento.
+
+Con tres fallos mueres."
+Loading_Title_LevelUp,Subir de nivel
+Loading_Desc_LevelUp_Above,"Al alcanzar ciertos umbrales de experiencia, puedes subir de nivel. Al subir de nivel obtienes:"
+Loading_Desc_LevelUp_Below,Cada dos niveles también obtienes 1 carga adicional de canalizar divinidad.
+Loading_Desc_LevelUp_Gain_1,1 mejora de Puntuación de Atributo
+Loading_Desc_LevelUp_Gain_2,"Puntos de vida aumentados, según tu modificador de Constitución"
+Loading_Desc_LevelUp_Gain_3,Mayor cantidad de ranuras de hechizo.
+Loading_Desc_LevelUp_Gain_4,Bonificador de competencia aumentado
+Loading_Desc_LevelUp_Gain_5,Dados de golpe aumentados
+Loading_Desc_Experience,"Ganas experiencia completando misiones, iniciando encuentros, haciendo carterismo y simplemente hablando con la gente de la ciudad."
+Loading_Title_ClericSubclass,Subclase de Clérigo
+Loading_Desc_ClericSubclass,"Juegas como un Clérigo Arcano. Esto te permite aprender hechizos de cualquier escuela o tipo que normalmente solo estarían disponibles para magos, druidas o similares.
+
+Este talento tuyo es la única razón por la que no eres un completo marginado."
+Loading_Title_Proficiency,Competencia
+Loading_Desc_Proficiency,"Tienes competencia en dos puntuaciones de habilidad. Esto te permite añadir tu bonificador de competencia a todas las pruebas de dados que usen esas puntuaciones de habilidad.
+
+Tu bonificador de competencia es igual a tu nivel de clérigo."
+Loading_Title_Accessories,Accesorios
+Loading_Desc_Accessories,"Puedes equipar tres baratijas aleatorias como accesorios. A veces son mágicas, a veces no.
+
+Pueden aumentar o reducir tus puntuaciones de habilidad. También pueden otorgarte efectos únicos en los diálogos y desbloquearte caminos alternativos."
+Loading_Title_Weapons,Armas
+Loading_Desc_Weapons,"Puedes equipar un arma. Aunque no es utilizable en los encuentros, puede darte confianza, modificar tus puntuaciones de habilidad y hacerte lucir de maravilla."
+Loading_Title_Spellbooks,Libros de hechizos
+Loading_Desc_Spellbooks,"Puedes equipar un grimorio. Aunque, dado que eres un lector empedernido, «grimorio» en este contexto también puede referirse a revistas, novelas y otras obras de literatura.
+
+¿A que leer es genial?"
+Loading_Title_Helmets,Cascos
+Loading_Desc_Helmets,"No puedes desequiparte el casco. Sin embargo, puedes cambiarlo por otros tocados elegantes y poderosos."
+Loading_Title_DivineIntervention,Intervención divina
+Loading_Desc_DivineIntervention,"Como clérigo, eres muy consciente del legendario fenómeno conocido como Intervención Divina. Se dice que los clérigos que alcanzan una conexión suficientemente fuerte con su dios pueden invocarlo en momentos de necesidad.
+
+Por supuesto, eres demasiado débil para ni siquiera soñar con algo así."
+Loading_Title_EsotericEvents,Eventos Esotéricos
+Loading_Desc_EsotericEvents,"Los Hilos de Jor son caóticos y a menudo se deshacen de formas extrañas. Cuanto más te adentras en el interior, más frecuente es presenciar Eventos Esotéricos —fenómenos extraños en los que la realidad se desintegra— así como Bolsillos Esotéricos: áreas enteras donde las leyes de la existencia son reescritas.
+
+Los clérigos de Norvik están entrenados para lidiar con los Eventos Esotéricos, aunque sean raros cerca de la Costa."
+Loading_Title_QuestingTree,El Árbol de Misiones
+Loading_Desc_QuestingTree,"El Árbol de Misiones es una red de misiones conectadas que puedes completar a lo largo de tu viaje. 
+
+Cada vez que completas una misión principal, puedes debatirte contigo mismo para desbloquear una dote única. Pero ten cuidado: las decisiones que tomes tanto en la misión como en ese debate determinan qué dote obtienes."
+Loading_Title_Feats,Dotes
+Loading_Desc_Feats,"Completar una misión principal desbloquea una dote. Las decisiones que tomes durante la misión determinan qué dote obtienes.
+
+Puedes tener 4 dotes activadas al mismo tiempo. Puedes cambiar tus dotes en cualquier momento."
+Loading_Title_Journal,Diario
+Loading_Desc_Journal,"Puedes consultar un mapa (esbozado por el clérigo) en tu diario.
+
+Aquí también encontrarás la lista de entradas del Glosario que hayas ido recopilando a lo largo del viaje al hacer clic en los enlaces de los diálogos."
+Loading_Title_Exhaustion,Agotamiento
+Loading_Desc_Exhaustion,"Si superas una tirada de salvación contra la muerte, ganas un nivel de agotamiento.
+
+Cada nivel de agotamiento impone −1 a todas las pruebas de dados. Si alcanzas 10 niveles de agotamiento, mueres.
+
+Los niveles de agotamiento se eliminan si completas un descanso largo. Si no descansas antes del amanecer, recibes 6 niveles de agotamiento."
+Loading_Title_Pickpocket,Carterismo
+Loading_Desc_Pickpocket,"Algunos objetos están vigilados. Para saquearlos debes superar una prueba de habilidad.
+
+Si fallas, pueden pillarte. Si eso ocurre, prepárate para dar explicaciones. No va a ser agradable."
+Loading_AbilityScore_Mod,MOD
+Loading_AbilityScore_Short,PC
+Intro_Message_1,Cinco días para las primeras elecciones de la historia.
+Intro_Message_2,"Una explosión estalla en el corazón de la ciudad.
+Nadie quiere encargarse. Así que te mandan a <i>ti</i>."
+Intro_Message_Comment_1,El clérigo MÁS IDIOTA que puedas imaginar.
+Intro_Message_Comment_2,Puro músculo — justo lo que esta ciudad necesita.
+Intro_Message_3,Completa tus misiones en cualquier orden.
+Intro_Message_3.1,No tengas miedo de tomar decisiones interesantes.
+Intro_Message_3.2,Y recuerda escuchar <color=#8C5D28>a tu estómago.</color>
+Intro_Message_4,La campaña os llevará del nivel 1 al 6. Jugaremos entre 5 y 8 sesiones.
+Intro_Message_5,"Ha sido todo un proceso reunir esto.
+Espero que lo disfrutes.
+<i>-Chris</i>"
+Intro_Message_Comment_Finish,(Y recuerda guardar a menudo. Literalmente no tienes NADA de salud.)
+SpellTutorial,"<b>Preparar hechizos</b>. A la derecha puedes ver la lista de todos tus hechizos disponibles. Para lanzar hechizos, primero debes prepararlos acercándote a los altares, que están repartidos por la ciudad. Por cada hechizo que quieras preparar, rellena su ranura vacía a la derecha. Solo puedes preparar un hechizo si tienes disponible una ranura de hechizo del nivel correspondiente.
+
+<b>Ranuras de hechizo</b>. En la parte inferior izquierda puedes ver tus ranuras de hechizo actuales. Cada círculo representa una ranura que puedes gastar para lanzar un hechizo. Solo puedes lanzar hechizos cuando existe una ocasión para ello. Cuando un hechizo se puede lanzar en una situación concreta de un diálogo, el botón de ese hechizo se iluminará. Los botones de hechizo aparecen junto a tus ranuras de hechizo una vez que hayas terminado de preparar tus hechizos."
+DicePart_vs,vs.

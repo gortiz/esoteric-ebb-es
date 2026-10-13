@@ -1,0 +1,1449 @@
+ID,Speaker,ES
+LanguageDropdown,,Español
+FallbackLanguage,,EN
+DC,,CD
+dc_smallcaps,,CD
+You,,Tú
+Yes,,Sí
+No,,No
+QuestingTree,,Árbol de misiones
+Questing,,En misión
+Inventory,,Inventario
+Journal,,Diario
+Spellbook,,Libro de hechizos
+Success,,Éxito
+Failure,,Fracaso
+Failed,,Fallido
+Locked,,Bloqueado
+Crowns,,{0} coronas
+Strength,,Fuerza
+Level,,Nivel
+Dexterity,,Destreza
+Constitution,,Constitución
+Intelligence,,Inteligencia
+Wisdom,,Sabiduría
+Charisma,,Carisma
+Proficient,,Competente
+NAT_20,,NAT 20
+Natural_20,,Resultado natural de 20
+NAT_1,,NATURAL 1
+Natural_1,,Resultado natural de 1
+Cantrips,,Trucos
+Spells,,Hechizos
+Xp_Gained,,¡Experiencia obtenida: {0}xp!
+Crowns_Gained,,Objeto obtenido: 'Un puñado de coronas'.
+Item_Gained,,Objeto obtenido: '{0}'.
+Feat_Unlocked,,Dote desbloqueada: '{0}'
+Feat_Unlocked_NoName,,Dote desbloqueada
+Feat_EmptySlot,,[Ranura de dote vacía]
+QuestPoint_Added,,'{0}' añadida.
+QuestPoint_Completed,,'{0}' completada.
+QuestPoint_Updated,,'{0}' actualizada.
+TriInteraction_Enter,,Entrar
+TriInteraction_Trifle,,Trivialidad
+TriInteraction_Behold,,Observación
+TriInteraction_Engage,,Entrar
+Examine_Examine,,Examinar
+Examine_Memorize,,Memorizar
+Examine_Consume,,Consumir
+Haggle,,[Regateo: {0}%]
+Check,,Prueba
+IROLL_Strength,,[Prueba de Fuerza]
+IROLL_Dexterity,,[Prueba de Destreza]
+WOE,,DESDICHA
+WEAL,,FORTUNA
+ADVANTAGE,,VENTAJA
+DISADVANTAGE,,DESVENTAJA
+MoveOn_PostFix,,(Seguir adelante.)
+Leave_PostFix,,(Marcharse.)
+UI_Health,,{0}/{1} PV
+UI_Health_NoParams,,PV
+UI_Health_HitPoints,,Puntos de Vida
+UI_Exhaustion,,{0} Agot.
+UI_XP,,{0}/{1}xp
+DoorLocked_Default_1,,No cede.
+DoorLocked_Default_2,,No. No va a funcionar.
+DoorLocked_Default_3,,No se puede pasar por aquí.
+DoorLocked_Default_4,,No puedo ir ahí.
+DoorLocked_Default_5,,No puedo pasar.
+DoorLocked_Default_6,,No hay camino adelante.
+DoorLocked_Default_7,,Este camino está cerrado.
+DoorLocked_Default_8,,No puedo ir por aquí.
+DoorLocked_Default_9,,El camino está bloqueado.
+DoorLocked_Default_10,,Es infranqueable.
+DoorLocked_Default_11,,Imposible.
+DoorLocked_Default_12,,No puedo hacer eso.
+DoorLocked_Default_13,,Esa no es una opción.
+DoorLocked_Default_14,,Eso no va a funcionar.
+DoorLocked_Default_15,,No. No puedo hacer eso.
+Levelup_Available,,[¡Subida de nivel disponible!]
+Spell_Level0,,Truco
+Spell_Level1,,1.º
+Spell_Level2,,2.º
+Spell_Level3,,3.º
+Spell_Level4,,4.º
+Spell_Level5,,5.º
+Spell_Level6,,6.º
+Spell_Level7,,7.º
+Spell_Level8,,8.º
+Spell_Level9,,9.º
+Spell_Level10,,10.º
+Spell_Level11,,11.º
+Spell_Level12,,12.º
+SpellSlot_Available_Level1_0,,Sin ranuras de hechizo de nivel 1.
+SpellSlot_Available_Level1_1,,Me queda una ranura de hechizo de nivel 1. Me estoy quedando sin recursos.
+SpellSlot_Available_Level1_2,,Me quedan dos ranuras de hechizo de nivel 1. Útil.
+SpellSlot_Available_Level1_3,,¡Tres ranuras de hechizo de nivel 1! Estoy listo para cualquier cosa.
+SpellSlot_Available_Level1_4,,Urth vela por mí.
+SpellSlot_Available_Level1_5,,¿Qué debería lanzar?
+SpellSlot_Available_Level1_6,,Me siento descansado.
+SpellSlot_Available_Level2_0,,Sin ranuras de hechizo de nivel 2.
+SpellSlot_Available_Level2_1,,Me queda una ranura de hechizo de nivel 2. Bien.
+SpellSlot_Available_Level2_2,,Me quedan dos ranuras de hechizo de nivel 2. A ver qué lanzo...
+SpellSlot_Available_Level2_3,,¡Vaya! ¡Increíble!
+SpellSlot_Available_Level2_4,,Me llamarán el tañedor de cuerdas.
+SpellSlot_Available_Level2_5,,¡Un auténtico maestro de lo arcano...!
+SpellSlot_Available_Level2_6,,¡MI PODER NO TIENE LÍMITES!
+SpellSlot_Available_Level3_0,,Sin ranuras de hechizo de nivel 3.
+SpellSlot_Available_Level3_1,,Una ranura de hechizo de nivel 3. Mejor gastarla con sabiduría.
+SpellSlot_Available_Level3_2,,Dos ranuras de hechizo de nivel 3. Esta es magia poderosa.
+SpellSlot_Available_Level3_3,,Tres ranuras de hechizo de nivel 3. Mi poder mágico no conoce límites.
+SpellSlot_Available_Level3_4,,Cuatro ranuras de hechizo de nivel 3. Bien.
+SpellSlot_Available_Level3_5,,¡Cinco ranuras de hechizo de nivel 3! ¡Soy imparable!
+SpellSlot_Available_Level3_6,,Seis ranuras de hechizo de nivel 3. ¿Esto está permitido?
+Glossary_AlreadyClicked,,Eso ya lo tengo en mi glosario.
+Change_Font,,Cambiar fuente a: {0}
+New_Turn,,Turno de {0}
+CantAfford_0,,No puedo permitírmelo.
+CantAfford_1,,Necesito más coronas.
+CantAfford_2,,Demasiado caro.
+CantAfford_3,,Qué va.
+CantAfford_4,,Quizás después del día de paga.
+CantAfford_5,,Esto me entristece.
+ChoiceUnlock_NeedRest_0,,Luego.
+ChoiceUnlock_NeedRest_1,,Primero necesito descansar.
+ChoiceUnlock_NeedRest_2,,En un momento.
+ChoiceUnlock_NeedRest_3,,Necesito un Fragmento para eso.
+ChoiceUnlock_NeedRest_4,,Ahora no.
+ChoiceUnlock_Annoyed_0,,<b>No</b>.
+ChoiceUnlock_Annoyed_1,,Estoy harto de esto.
+ChoiceUnlock_Annoyed_2,,De verdad que no puedo hacer esto ahora.
+ChoiceUnlock_Annoyed_3,,¡Debería IR a buscar un <shake>FRAGMENTO DE JOR</shake>!
+ChoiceUnlock_Annoyed_4,,"De verdad que no consigo superarlo, ¿verdad?"
+RollUnlock_NeedRest_0,,Necesito descansar antes de hacer eso.
+RollUnlock_NeedRest_1,,Quizás mañana.
+RollUnlock_NeedRest_2,,Luego.
+RollUnlock_NeedRest_3,,Descansar primero.
+RollUnlock_NeedRest_4,,Ahora mismo no.
+RollUnlock_NeedRest_5,,Necesito un descanso.
+RollUnlock_NotEnoughHP,,[Neuroticismo Esotérico] Puntos de vida insuficientes.
+RollUnlock_HpCost,,{0} PV
+SpellClick_NotEnoughHP,,[Magia de Sangre] Puntos de vida insuficientes para lanzar ese hechizo.
+SpellClick_NoSlot,,No hay ranuras de hechizo disponibles.
+SpellClick_CantCast,,No puedes lanzar eso ahora mismo.
+SpellClick_InEncounter,,¡No hay tiempo para eso!
+SpellClick_MaxHp,,No necesito curación.
+Encounter_Round,,Asalto {0}
+Choice_Paranoia,,[Paranoia Contagiosa] Tirando iniciativa con ventaja.
+Choice_Bless,,BENDICIÓN - Tirada de {0} (1d4).
+Choice_Enhance,,MEJORAR CARACTERÍSTICA - Añadido {0} (COMP).
+Choice_CrusadersMantle,,MANTO DEL CRUZADO - Tirada de {0} (1d12).
+Choice_DivineHex,,¡MALEFICIO DIVINO añade {0}!
+Choice_WhitemanesBlessing,,Bendición de Whitemane - Tirada de {0} (1d4).
+Choice_WEAL_Success,,¡El Hilo trae un Augurio favorable!
+Choice_WEAL_Fail,,¡El Augurio favorable del Hilo falla...!
+Choice_WOE_Success,,¡El Augurio adverso del Hilo se rompe...!
+Choice_WOE_Fail,,El Hilo trae una Desgracia.
+Choice_LUCK_Once,,[Suerte del Bobo] Resultado natural de 1. Repitiendo la tirada.
+Choice_LUCK_Multiple,,[Suerte del Bobo] 1 natural obtenido. Relanzando {0} veces.
+Choice_LUCK_Damage,,[Suerte del Bobo] Has perdido {0} ({1}d4) Puntos de Vida.
+Choice_PROF,,[Clérigo Profesional] Fallo crítico evitado.
+Choice_VOICE_Nat20,,[Voz de Dios] Él te ve.
+Choice_VOICE,,[Voz de Dios] Tienes un éxito crítico.
+Choice_MUSH,,[Reflejos de Mazmorra] Añadiendo competencia.
+Choice_DREAM,,[Sueño Imperial] Añadiendo competencia.
+Choice_BARB,,[Bárbaro Askanii] Añadiendo competencia.
+Choice_NAT,,[Nacionalista] Añadiendo competencia.
+Choice_DRUID,,[Druida Local Amigable] Añadiendo competencia.
+Choice_FEMI,,[Lady Hermosa] Añadiendo competencia.
+Choice_MASC,,[Futuro Patriarca] Añadiendo competencia.
+Choice_APO,,[Apolítico] Competencia aumentada en 1.
+Choice_APO_Election,,[Apolítico] Competencia aumentada en 10.
+Choice_ASIncrease,,Puntuación de característica aumentada en {0}.
+Choice_ASDecrease,,Puntuación de característica reducida en {0}.
+Lost_Item,,Has perdido {0}.
+Lost_Crowns,,Has perdido {0} coronas.
+Lost_Crowns_All,,Has perdido {0} coronas. Ahora no me queda ninguna.
+DayMessage_Day,,Día {0}
+DayMessage_Night,,Noche
+DayMessage_Date_Day22,,"22 de marzo, 27 EP"
+DayMessage_Date_Day23,,"23 de marzo, 27 EP"
+DayMessage_Date_Day,,"{0} de marzo, 27 EP"
+LongRest_Done,,[Bien descansado: Ventaja en la mayoría de tiradas hasta que ganes agotamiento.]
+LongRest_Snell,Snell,Y... te vas a la cama. Yo me largo entonces. <i>Buenas noches</i>.
+PillarScene_Snell,OBJ,<shake>Snell</shake>!
+PillarScene_Ettir,OBJ,<shake>...Ettir</shake>!
+PillarScene_Hey,OBJ,«¡...Eh!»
+PillarScene_No,OBJ,No...
+PillarScene_NotAgain,OBJ,<i>Otra vez</i> no.
+PillarScene_You,OBJ,«Tú...»
+PillarScene_This,OBJ,"""Esto."""
+PillarScene_Strength_Low,STR,Eres una <b>decepción</b>.
+PillarScene_Dexterity_Low,DEX,"No haces más que <i>fallar</i>, ¿verdad?"
+PillarScene_Constitution_Low,CON,Aquí es donde <b>mueres</b>.
+PillarScene_Intelligence_Low,INT,No eres <b>ningún genio</b>.
+PillarScene_Wisdom_Low,WIS,Estás <b>totalmente perdido</b>.
+PillarScene_Charisma_Low,CHA,Estás <b>completamente solo</b>.
+PillarScene_Strength_High,STR,<b>Él</b> está aquí.
+PillarScene_Dexterity_High,DEX,Este maldito sitio...
+PillarScene_Constitution_High,CON,Estás vivo.
+PillarScene_Intelligence_High,INT,Qué peculiar. Investiga.
+PillarScene_Wisdom_High,WIS,No todo está perdido.
+PillarScene_Charisma_High,CHA,Quizás haya una salida de aquí después de todo.
+PillarScene_Dexterity0_0,DEX,Espera...
+PillarScene_Dexterity0_1,DEX,¿Qué está pasando aquí?
+PillarScene_Dexterity6_0,DEX,"Oh, no."
+PillarScene_Dexterity6_1,DEX,"No, no, no. Esto no está bien."
+PillarScene_Dexterity6_2,DEX,NO lo has pensado en absoluto. Para nada.
+PillarScene_Dexterity10_0,DEX,Mierda.
+PillarScene_Dexterity10_1,DEX,"Mierda, mierda, mierda."
+PillarScene_Dexterity10_2,DEX,Ha sido una idea pésima.
+PillarScene_Dexterity16_0,DEX,De acuerdo. Pequeño error de cálculo.
+PillarScene_Dexterity16_1,DEX,Pero tranquilo. Puedes con esto.
+PillarScene_Dexterity16_2,DEX,Hora de improvisar. <i>Rápido</i>.
+PillarScene_Charisma0_0,CHA,¿Podrías intentar gritar?
+PillarScene_Charisma0_1,CHA,"No hay... <i>monstruos</i> por aquí, ¿verdad?"
+PillarScene_Charisma6_0,CHA,Solo tú y el vacío. Esta vez no hay forma de esquivarlo.
+PillarScene_Charisma6_1,CHA,Esto <i>es una mierda</i>.
+PillarScene_Charisma10_0,CHA,"Sí, esto no pinta muy bien."
+PillarScene_Charisma10_1,CHA,Pero quizás... ¿puedes negociar con lo que sea que haya ahí fuera?
+PillarScene_Charisma16_0,CHA,"Concéntrate. Sea lo que sea lo que hay ahí fuera, puedes negociar con ello."
+PillarScene_Charisma16_1,CHA,Todo el mundo quiere algo. Siempre hay una elección correcta.
+PillarScene_Constitution0_0,CON,PÁNICO. TERROR. ME MUERO.
+PillarScene_Constitution0_1,CON,Tu cuerpo grita. Todo grita.
+PillarScene_Constitution6_0,CON,MIEDO. CUERPO TEMBLANDO.
+PillarScene_Constitution6_1,CON,No hay ningún lugar. No hay NADA.
+PillarScene_Constitution10_0,CON,MIEDO. Profundo. Inquietante.
+PillarScene_Constitution10_1,CON,Tu estómago se revuelve con un terror primigenio.
+PillarScene_Constitution16_0,CON,MIEDO. Y aun así... LO AGUANTAS.
+PillarScene_Constitution16_1,CON,El cuerpo aguanta. Siempre aguanta.
+PillarScene_Wisdom0_0,WIS,Este es un lugar extraño. Desconcertante...
+PillarScene_Wisdom0_1,WIS,Tu mente da vueltas. ¿Estás caminando en círculos?
+PillarScene_Wisdom6_0,WIS,Los sentidos no perciben nada.
+PillarScene_Wisdom6_1,WIS,Es confuso. Tu mente no puede comprenderlo del todo.
+PillarScene_Wisdom10_0,WIS,Mirando fijamente al Más Allá.
+PillarScene_Wisdom10_1,WIS,Deja tu mente... en la oscuridad.
+PillarScene_Wisdom10_2,WIS,"A excepción de un destello de luz, en equilibrio sobre la superficie esotérica."
+PillarScene_Wisdom16_0,WIS,El Más Allá te devuelve la mirada.
+PillarScene_Wisdom16_1,WIS,Lo sientes todo y nada a la vez.
+PillarScene_Wisdom16_2,WIS,"Un destello de luz, en equilibrio sobre la superficie esotérica. Síguelo."
+PillarScene_Intelligence0_0,INT,Hm...
+PillarScene_Intelligence0_1,INT,<wiggle>Mmm...</wiggle>
+PillarScene_Intelligence6_0,INT,"Todo esto es una ilusión, seguro."
+PillarScene_Intelligence6_1,INT,Los lugares entre mundos no podían ser simplemente... nada. Eso sería ridículo.
+PillarScene_Intelligence10_0,INT,Calcular. Procesar. Encontrar el patrón.
+PillarScene_Intelligence10_1,INT,Sabes que El Más Allá desafía toda lógica. Es <i>Purus Esotericus</i>.
+PillarScene_Intelligence10_2,INT,Solo tú puedes conquistarlo.
+PillarScene_Intelligence16_0,INT,Fascinante. Aterrador. Sin precedentes.
+PillarScene_Intelligence16_1,INT,Tu genio te trajo hasta aquí. A este lugar de <i>Purus Esotericus</i>.
+PillarScene_Intelligence16_2,INT,Solo tú lo conquistarás.
+PillarScene_Strength0_0,STR,Tu cuerpo te falla.
+PillarScene_Strength0_1,STR,Simplemente... ríndete. Nunca estuviste destinado a llegar tan lejos.
+PillarScene_Strength0_2,STR,No mereces llamarte hombre.
+PillarScene_Strength6_0,STR,Este es el fin.
+PillarScene_Strength6_1,STR,No tienes suficiente fuerza para esto.
+PillarScene_Strength10_0,STR,Este no es el momento de ponerse a reflexionar.
+PillarScene_Strength10_1,STR,Es el momento de ACTUAR.
+PillarScene_Strength16_0,STR,MANTÉN EL TIPO. Esta es tu prueba.
+PillarScene_Strength16_1,STR,Los héroes no flaquean. SIGUE ADELANTE.
+PillarScene_BigMessage_0,OBJ,"Cegado por las extrañas luces de arriba, tus ojos se adaptan."
+PillarScene_BigMessage_1,OBJ,Escudriñas el horizonte.
+PillarScene_BigMessage_2,OBJ,"En la oscuridad, ves un Pilar de Luz."
+PillarScene_BigMessage_3,OBJ,Algo te llama hacia delante.
+EndScene_0,,Esto es <shake>difícil</shake>...!
+EndScene_1,,Seguro que tomé una buena decisión...
+EndScene_2,,Me pregunto adónde habrá ido Snell...
+EndScene_3,,De acuerdo. Ha llegado el momento. ¿Verdad?
+FinalMessage_0,OBJ,"Con esto, damos por terminada la sesión de hoy."
+FinalMessage_1,OBJ,Ha sido un honor ejercer de Dungeon Master durante esta aventura. Tu clérigo ha sido <i>increíblemente</i> interesante de observar.
+FinalMessage_AvikRich,OBJ,(Sigo sin creerme que le regalases la Baraja de las muchas cosas a ese enano. Joder.)
+FinalMessage_LEVEL,OBJ,(Sigo alucinando con que llegases al final en nivel 1. ¿Era un reto personal o qué?)
+FinalMessage_TeaShop,OBJ,(Sigo sin creerme que nunca entraras en la tetería. Ni UNA VEZ.)
+FinalMessage_EverGlad,OBJ,(Sigo sin creerme que firmaras el contrato de Ever-glad. Eso va a cambiar mis planes bastante.)
+FinalMessage_CLERIC,OBJ,"(¿O debería decir, <i>EL</i> Clérigo, verdad?)"
+FinalMessage_WIZARD,OBJ,"(¿O debería decir, tu <i>mago</i>, verdad?)"
+FinalMessage_ROGUE,OBJ,"(¿O debería decir, tu <i>pícaro cabrón</i>, verdad?)"
+FinalMessage_BARB,OBJ,"(¿O debería decir, tu <i>BÁRBARO</i> devorador de carne cruda, verdad?)"
+FinalMessage_BARD,OBJ,"(¿O debería decir, tu futuro y legendario <i>BARDO DANZARÍN</i>, verdad?)"
+FinalMessage_DRUID,OBJ,"(¿O debería decir, tu <i>DRUIDA</i> local amigable, verdad?)"
+FinalMessage_Compliment,OBJ,(Es un cumplido.)
+FinalMessage_Date_Three_0,OBJ,"De algún modo, lograste conseguir TRES citas a lo largo de esta aventura."
+FinalMessage_Date_Three_1,OBJ,"Tengo la sensación de que, como mínimo, vas a dejar una impresión inolvidable. Tres de ellas, de hecho. <i>Vaya locura</i>."
+FinalMessage_Date_Ettir_0,OBJ,"De algún modo, conseguiste una cita de verdad con Ettir. El devoto sirviente celestial."
+FinalMessage_Date_Ettir_1,OBJ,Estoy seguro de que ella está tan sorprendida como yo. Y aun así llegaste hasta el final.
+FinalMessage_Date_Ettir_2,OBJ,Siéntete orgulloso de ello. Y un poco asustado.
+FinalMessage_Date_Moongore_0,OBJ,"De algún modo, conseguiste una cita auténtica (más o menos) con <shake>Moongore</shake>."
+FinalMessage_Date_Moongore_1,OBJ,Tengo la sensación de que vas a acabar escayolado de pies a cabeza antes de que termine.
+FinalMessage_Date_Moongore_2,OBJ,"""No así."""
+FinalMessage_Date_Viira_0,OBJ,"De algún modo, conseguiste una cita de verdad con la apolínea orca Viira."
+FinalMessage_Date_Viira_1,OBJ,Asegúrate de llevar tu mejor camisa.
+FinalMessage_Date_Viira_2,OBJ,(Recuerda: solo te está utilizando... y eso está bien).
+FinalMessage_Isk_0,OBJ,"¡Ah, y no te olvides de tu nuevo colega, Isk!"
+FinalMessage_Isk_1,OBJ,Tendrá que buscar una magia <i>aterradoramente</i> poderosa para traer de vuelta a su amada esposa. ¿Crees que lo logrará? Quizás tengas que echarle una mano...
+FinalMessage_Meek_0,OBJ,"En cuanto a Meek, está claro que tienes un familiar para toda la vida."
+FinalMessage_Meek_1,OBJ,Aunque será mejor que andes con ojo. Ese antiguo amo suyo sigue por ahí suelto; quizá hasta puedas charlar con él en algún momento.
+FinalMessage_Meek_Ant,OBJ,"Exacto: y además llevas una Hormiga Craneal en el bolsillo. Caray, vaya forma de ir acumulando 'amiguitos', ¿eh?"
+FinalMessage_Ant_Individual_0,OBJ,Recuerda que también llevas contigo a una Hormiga Craneal. Quizás viva contigo a partir de ahora. Imagino que sí.
+FinalMessage_Ant_Individual_1,OBJ,A tu madre le va a dar algo.
+FinalMessage_Ant_Hive_0,OBJ,"Ah, y probablemente no vuelvas a ver a esa Hormiga Craneal. La que dejaste ahí abajo."
+FinalMessage_Ant_Hive_1,OBJ,A menos que quieras. Quiero decir... podríamos hacer que ocurra. Tal vez.
+FinalMessage_Mines,OBJ,Luego están los enigmas en torno a esas 'Minas Perdidas' que buscaba Akzel. A mí me suena a mazmorra de nivel bastante superior.
+FinalMessage_Mines_Key,OBJ,¡Quizás esa extraña 'Llave a Ninguna Parte' tenga algo que ver! Tendremos que esperar para verlo.
+FinalMessage_Mines_NoKey,OBJ,Imagino que podría ser un gran objetivo para la próxima aventura. ¿A quién no le gusta una buena búsqueda del tesoro?
+FinalMessage_Deal_0,OBJ,"Por cierto, Modissa y Rollo formaban una pareja interesante, ¿eh?"
+FinalMessage_Deal_1,OBJ,Yo diría que esa mezcla traerá serios problemas con el tiempo. ¿Una alianza entre azgalistas y nacionalistas? Eso no podría durar jamás. ¿O sí?
+FinalMessage_GoldenHorde,OBJ,"Pase lo que pase, la Horda Dorada mantendrá un ojo vigilante —radiante— sobre tu ciudad."
+FinalMessage_GoldenHorde_A,OBJ,"Por suerte para ti, ese ojo no estará muy interesado en ti. Aunque tal vez eso sea malo. Será emocionante verlo."
+FinalMessage_GoldenHorde_B,OBJ,"Y ese ojo podría acabar fijándose en <i>ti</i>, por cómo te desenvolviste en esa reunión. Será emocionante verlo."
+FinalMessage_Visken_0,OBJ,"En cuanto a Visken, tu pequeña aventura no es nada para él. Obviamente."
+FinalMessage_Visken_1,OBJ,"Pero estoy bastante seguro de que, tras vuestra reunión de medianoche, él y sus ayudantes volverán a cruzarse en tu camino, de un modo u otro."
+FinalMessage_Visken_Oath,OBJ,Especialmente habiendo hecho ese juramento. Buena suerte con eso.
+FinalMessage_Iomestra_0,OBJ,"Y luego... está <i>Iomestra</i>. No te topaste realmente con ella, ¿verdad?"
+FinalMessage_Iomestra_1,OBJ,"Tal vez sí. En realidad nunca podemos estar seguros. Hay algo extraño en Jor y sus Cuerdas. Las tocas bien en tu mente, pero a medida que descubres más sobre estas marañas retorcidas, hazte esta sencilla pregunta:"
+FinalMessage_Iomestra_2,OBJ,<b>¿QUÉ ES EL CINCUENTA-CINCUENTA?</b>
+FinalMessage_Crowns_0,OBJ,Conseguiste reunir una buena fortuna en coronas antes de que todo terminara.
+FinalMessage_Crowns_Pretend,OBJ,"(No te preocupes, simplemente fingiremos que así es como conseguiste el dinero)."
+FinalMessage_Crowns_1,OBJ,"Pero entre impuestos de la ciudad, sobornos y gastos de la campaña..."
+FinalMessage_Crowns_2,OBJ,Cuenta con quedarte con menos de la mitad. Lo siento. Son las reglas. Yo no las he escrito.
+FinalMessage_Crowns_3,OBJ,"Bueno, técnicamente sí las escribí. Pero confía en mí: me aseguraré de que tu clérigo conserve un <i>buen pellizco</i>."
+FinalMessage_Crowns_LandRights,OBJ,Y además compraste aquellos derechos de propiedad de la mazmorra... así que seguro que ganarás aún más dinero con eso. A la larga. ¿Verdad?
+FinalMessage_Fool_0,OBJ,Otra cosa: conservarás esa desventaja permanente de la carta del LOCO.
+FinalMessage_Fool_1,OBJ,Lo siento. Son las reglas. Yo no las he escrito.
+FinalMessage_Fool_2,OBJ,"Bueno, técnicamente sí las escribí. Pero míralo como un reto divertido. ¡Un modo difícil!"
+FinalMessage_Fool_Sword_0,OBJ,Lo más importante: llevas la <i>Espada de Tol</i> a la espalda. Piensa en lo que hay grabado en la empuñadura.
+FinalMessage_Fool_Sword_1,OBJ,"Gracias a esa desventaja, lograste desbloquear esa pista concreta <i>muchísimo</i> antes de lo que deberías. Hablo de diez niveles antes. Así que siéntete orgulloso de ello."
+FinalMessage_ROGUECard_0,OBJ,"Otra cosa: robaste la carta del PÍCARO de la Baraja de las Cosas Numerosas, ¿verdad?"
+FinalMessage_ROGUECard_1,OBJ,"Sí, eso se volverá en tu contra. Digamos que hay un viejo muy enfadado en algún rincón de Norvik que actualmente —en secreto— está planeando tu perdición."
+FinalMessage_ROGUECard_2,OBJ,¡Pero será un reto divertido! ¡Un modo difícil!
+FinalMessage_Darrow_0,OBJ,"Aunque al final, lo que más me intriga son tus tratos con Darrow. El hecho de que compartiera toda esa información sobre la Profecía de la Lengua Sangrienta."
+FinalMessage_Darrow_1,OBJ,El magistrado Darrow continuará gobernando los asuntos de la ciudad a su manera... para bien o para mal.
+FinalMessage_Urth,OBJ,"Aunque al final, lo que más me intriga es tu encuentro con Urth."
+FinalMessage_Urth_Snell_0,OBJ,"Para Snell, fue un cara a cara con los horrores del pasado."
+FinalMessage_Urth_Ettir,OBJ,"Para Ettir, fue un recordatorio: cuanto más quieta se queda, más rápido gira todo a su alrededor."
+FinalMessage_Urth_Snell_1,OBJ,"Para el Clérigo, debió de dejar una huella imborrable."
+FinalMessage_Urth_Snell_2,OBJ,Una que moldeará su futuro. Y la Era venidera.
+FinalMessage_Urth_Snell_3,OBJ,Hablando de lo cual...
+FinalMessage_Urth_Alone_0,OBJ,"Te encontraste con tu dios, a solas en el vacío."
+FinalMessage_Urth_Alone_1,OBJ,Solo un hombre. O quizás un fantasma del pasado: sus últimas palabras fueron un mensaje para <i>ti</i>.
+FinalMessage_Urth_Alone_2,OBJ,Me pregunto cómo moldeará eso el futuro del Clérigo. Y la Era venidera.
+FinalMessage_Urth_Alone_3,OBJ,Hablando de lo cual...
+FinalMessage_2,OBJ,"Con las elecciones finiquitadas, creo que esta campaña necesita un salto temporal. ¿Un par de meses? ¿<i>Años</i>?"
+FinalMessage_3,OBJ,Norvik se adentra en tiempos convulsos. {0}
+FinalMessage_3_NATIONALIST,OBJ,Pero tu clérigo leal al Partido seguramente encontrará su lugar entre los suyos.
+FinalMessage_3_FREESTRIDER,OBJ,Pero tu clérigo Caminante Libre seguramente prosperará en este mundo moderno. O al menos encontrará trabajo.
+FinalMessage_3_AZGALIST,OBJ,Pero tu clérigo azgalista seguramente encontrará su propósito en la causa.
+FinalMessage_3_ARCANIST,OBJ,"Pero tu clérigo seguramente se elevará por encima de todo, como <i>Dios-Mago-Rey</i>."
+FinalMessage_3_APOLITICAL,OBJ,Pero tu clérigo maravillosamente apolítico seguramente se sentirá como en casa en el caos.
+FinalMessage_3_AGRARIAN,OBJ,"Pero tu pobre, pobre muchacho de las manzanas agrario seguro que encontrará algo de paz en las Colinas."
+FinalMessage_4,OBJ,"Estoy deseando ver qué haces a continuación.
+<i>-Christoffer Bodegård</i>"
+Cant_Reach,,No puedo alcanzar eso desde aquí.
+QuickResponse_Empty,,"Hm. Sin nada que decir, ¿eh?"
+Success_Uppercase,,ÉXITO
+Resisted_Uppercase,,RESISTIDO
+Resistance_Magic,,Resistencia mágica
+Resistance_Legendary,,Resistencia legendaria
+Counterspell,,Contrahechizo
+Spell_Failed,,Hechizo fallido
+Spell_Succeeded,,Hechizo completado
+Spell_Timer_Expire,,{0} expira.
+Arcanist_Roll,,"[Arcanista] Tirada de {0} (1d100), ranura de conjuro recuperada."
+Lichdom_NoDamage,,[Casi Liche] No recibes daño.
+Lichdom_BigHeal,,[Casi Liche] {0} de curación. Pierdes un nivel de agotamiento.
+Lichdom_SmallHeal,,[Casi Liche] Solo {0} de curación. No pierdes ningún agotamiento.
+Patron_KeepAlive,,[Patrón Comunivo] Una presencia siniestra te mantiene con vida.
+Periapt_KeepAlive,,"[Periaptos de salud] En el instante en que caes inconsciente, eres devuelto al instante."
+BlockMessage_RingOfProtection,,¡El Anillo de protección bloquea 1 de daño!
+BlockMessage_Azgalist,,[Azgalista] 1 de daño bloqueado.
+BlockMessage_ShieldOfFaith,,Escudo de fe bloquea 1 de daño.
+BlockMessage_Barkskin,,Piel robliza resiste {0} de daño.
+BlockMessage_EsotericRage,,Furia esotérica resiste {0} de daño.
+BlockMessage_Belly,,[Las Entrañas Oscuras del Alma] {0} de daño resistido.
+BlockMessage_Fragile,,[Inmortalidad Frágil] Sigues vivo.
+DeathRoll_Man,,[Un Buen Hombre] {0} Puntos de Vida restaurados.
+DeathRoll_Exhaust_Increase,,El agotamiento aumenta...
+DeathRoll_Exhaust_Decrease,,¡Agotamiento evitado...!
+Snell_SpinCheck,,¿Por qué eres así?
+ExamineItem_Spell,,Ya he memorizado ese hechizo.
+ExamineItem_Food_NoHeal,,No tengo ningún motivo para hacer eso.
+ExamineItem_Food_Heal,,¡Curados {0} PV!
+ExamineItem_Food_Heal_Mill,,[Guardián Milenario] ¡Curados {0} PV!
+ExamineItem_Food_Sick,,No me encuentro muy bien...
+ExamineItem_Food_Full,,"No puedes comer, estás demasiado lleno."
+ExamineItem_Food_Keep,,Tendré que quedarme al menos con <i>uno</i> de estos.
+ExamineItem_Food_AbilityScore,,{1} aumentada en {0}
+ExamineItem_First_Full,,Mis ranuras de hechizo de nivel 1 no están gastadas.
+ExamineItem_First_Refill,,<b>*Tos*</b>
+ExamineItem_Second_Full,,Ya tengo todas las ranuras de nivel dos llenas.
+ExamineItem_Second_Missing,,No hay ranuras de nivel 2 que recuperar.
+ExamineItem_Second_Refill,,<b>Entra suave.</b>
+ExamineItem_Third_Full,,¿Tercer nivel? Ya los tengo.
+ExamineItem_Third_Missing,,¿Tercer nivel? Todavía no.
+ExamineItem_Third_Refill,,<b>Parche aplicado. Se siente <i>esotérico</i>.</b>
+Pickpocket_Item,,Objeto de Carterista
+Pickpocket_Success,,Robo con Éxito
+Pickpocket_Failure,,Fracaso al Robar
+Pickpocket_NotAllowed_0,,No puedo hacer eso.
+Pickpocket_NotAllowed_1,,Ni de broma voy a robar eso ahora.
+Pickpocket_NotAllowed_2,,Hoy no le voy a poner las manos encima a eso.
+Pickpocket_NotAllowed_3,,Tengo que esperar un poco primero.
+Pickpocket_NotAllowed_4,,¿Hay tiempo de recarga para robar? Maldita sea.
+Pickpocket_NotAllowed_5,,Necesito un maldito descanso.
+MageHand_NotAllowed,,¡No puedes moverlo con Mano de mago!
+AddItem_Spell_Toss,,Ya he memorizado ese hechizo. (Lo lanzas por encima del hombro.)
+AddItem_Spell_Memorized,,Memorizado {0}.
+AddItem_ExtraCrown,,[El Dinero Habla] ¡Has encontrado una corona extra!
+AddItem_ExtraCrowns,,[El dinero manda] ¡Encontradas {0} coronas extra!
+AddItem_ExtraItem,,[Agrario] ¡Has encontrado uno de más!
+PayCrowns,,Pagadas {0} coronas.
+PayCrowns_Free,,¡Regateé tan fuerte que lo conseguí gratis!
+PayCrowns_Haggled,,¡Regateada una corona! Solo pagaste {0}.
+PayCrowns_HaggledOne,,¡Regateadas {1} coronas. Solo pagaste {0}!
+PayCrowns_HaggledProfit,,Regateaste tanto que de algún modo sacaste beneficio. ¡Recibidas {0} coronas!
+Feat_CantEquip_Cooldown,,No puedo equipar eso hasta mañana.
+Feat_CantEquip_ToManyFeats,,Demasiadas dotes elegidas.
+Exhaustion_WellRested_Gone,,Ya no estás bien descansado.
+SheetRoll_Behold,,Observar a CD {0}
+Sheet_BeholdBackground,,Nivel {0} '{1}'
+Democratic_Heal,,[Heraldo Democrático] Recuperados {0} (1d4) Puntos de Vida.
+DialogError,,ADVERTENCIA: ERROR OCURRIDO EN: '{0}'
+DialogWarning,,ADVERTENCIA: Falta línea de texto en diálogo: '{0}'
+Saving_Autosaving,,Guardando...
+Saving_Quicksaving,,Guardado rápido...
+Saving_InDialog,,No se puede guardar durante un diálogo
+Saving_NoQuickSave,,No se puede guardar actualmente
+Saving_Save,,- Guardar -
+Saving_Overwrite,,- Sobreescribir -
+Loading_InDialog,,No se puede cargar durante un diálogo
+Loading_NoQuickLoad,,No se puede cargar en este momento
+Loading_NoSaveFile,,No hay partida guardada disponible para cargar
+Confirm_QuickLoad,,¿Carga rápida?
+Confirm_QuitToMenu,,¿Volver al menú?
+Confirm_Skip_Level,,¿Omitir esta subida de nivel? Siempre puedes abrir tu ficha para hacerlo más tarde.
+Confirm_Spend_HP,,¿<shake>Sacrificar</shake> {0} Puntos de Vida para desbloquear?
+Confirm_Spend_Shard,,¿Gastar 1 Fragmento para desbloquear?
+Confirm_Skip_Credits,,¿Saltar los créditos?
+Confirm_DeepStorage,,¿Vaciar la bolsa? Esto vaciará todos los objetos almacenados en tu inventario.
+Confirm_Spell_Cast,,Lanzar {0} {1}
+Confirm_Spell_Replace,,Concentrado actualmente en {0}. ¿Deseas reemplazarlo con {1} {2}?
+Confirm_Spell_Cost_Spellslot,,¿usando una ranura de conjuro de nivel {0}?
+Confirm_Spell_Cost_Hp,,¿<shake>sacrificando</shake> {0} Puntos de Vida?
+Confirm_Spell_Cost_Storing,,¿usando {0}/{1} cargas de tu Anillo de almacenamiento de conjuros?
+Confirm_Spell_Cost_Incense,,¿usando un <b>Incienso</b>?
+Confirm_Spell_Cost_Bondust,,¿usando un poco de <b>Polvo de huesos</b>?
+Confirm_Spell_Cost_Dreampatch,,¿usando un <b>Parche de Sueños</b>?
+Confirm_Spell_Cost_Item,,¿usando un objeto?
+Confirm_Feat_Equip,,¿Añadir {0} a tu hoja?
+Confirm_Feat_Unequip,,¿Quitar {0} de tu hoja? Solo podrás volver a añadirla tras descansar.
+Confirm_ShortRest,,¿Gastar 1 dado de golpe en un descanso corto de 1 hora?
+Toggle_Running,,[Correr activado/desactivado]
+SpellSlot_Regain_Incense,,[Cuenco de incienso.] Recuperada una ranura de hechizo de nivel 1.
+Exhaustion_Endure,,[Resistencia Azgaliana] Has perdido un nivel de agotamiento.
+Exhaustion_NoSleep,,Estoy... agotado. [AGOTAMIENTO CRÍTICO]
+NoSleep_Hour0_You,,Se está haciendo tarde. Debería dormir.
+NoSleep_Hour1_Snell,Snell,"«¿Piensas quedarte en vela toda la noche? Quizás no deberías, Clérigo.»"
+NoSleep_Hour2_Snell,Snell,"«Yo soy el primero en querer acabar el trabajo, pero el descanso es importante, ¿sabes?»"
+NoSleep_Hour3_Snell,Snell,«¿Te vas a tirar la noche? ...Bien. Vamos allá.»
+NoSleep_Hour4_Snell,Snell,«¿Mmm? ¿Qué? ...Estoy despierto.»
+NoSleep_Hour5_Snell,Snell,"«Si nos volvemos ahora, podemos llegar a la cama antes del amanecer.»"
+NoSleep_Hour7_Snell,Snell,«Hace diez años me tiraba una noche entera sin dormir y sin problema. Ahora me siento como una boñiga de Owlbear.»
+Item_NoWear_Spellbook,,No puedes equipar textos ahí.
+Item_NoWear_Head,,No. Eso va claramente en la cabeza.
+Item_NoWear_Weapon,,Un arma no cabe ahí.
+Item_NoWear_Misc,,Yo diría que es un accesorio.
+Item_NoWear_KeyItem_0,,Probablemente podría ponerme esto...
+Item_NoWear_KeyItem_1,,Yo no llevo cosas así.
+Item_NoWear_Incense,,Eso tiene... otros usos.
+Item_NoWear_Shard,,Tengo que tener cuidado con eso.
+Item_NoWear_Potion,,Puedo consumir eso. No llevarlo puesto.
+Item_NoWear_Scroll,,No del todo.
+Item_NoPickup_Helm,,<b>No. No lo haré.</b>
+Item_DeepStorage_One,,¡Un objeto encontrado en el fondo de la bolsa!
+Item_DeepStorage_Many,,¡{0} objetos encontrados en el fondo de la faltriquera!
+Companion_Pickup_Snell_0,Snell,"""<i>Buenos días</i>, Clérigo."""
+Companion_Pickup_Snell_1,Snell,"""¿Listo para salir? Bien."""
+Companion_Pickup_Snell_2,Snell,"""Oye, Clérigo. Sí, vamos."""
+Companion_Pickup_Ettir_0,Ettir,"""Vamos."""
+Companion_Pickup_Ettir_1,Ettir,"""Estoy listo."""
+Companion_Pickup_Ettir_2,Ettir,"""Prestaré mi ayuda."""
+Boon_Strength,STR,Te sientes más <shake>fuerte</shake>...!
+Boon_Dexterity,DEX,¡Vaya...! Te sientes <shake>divinamente</shake> ágil...!
+Boon_Consitution,CON,Divino. Eterno. <shake>SÓLIDO</shake>.
+Boon_Intelligence,INT,"Una <shake>avalancha</shake> de información, entregada por poder divino."
+Boon_Wisdom,WIS,Tu dios está cerca. Te <shake>quiere</shake>.
+Boon_Charisma,CHA,¡Ya era hora! Por fin un poco de atención <shake>divina</shake>.
+Spellbook_NoSpells,,No hay hechizos preparados para lanzar.
+Spellbook_NoSpells_Spam_0,,Necesitas orar. Desesperadamente. Ahora mismo.
+Spellbook_NoSpells_Spam_1,,Ugh. Me está dando dolor de cabeza. Para ya.
+Spellbook_NoSpells_Spam_2,,Solo unas pocas veces más; estoy seguro de que funcionará.
+SpellBook_InvalidTarget,,Sin objetivo válido.
+SpellBook_Target,,- Lanzar {0} -
+SpellBook_Target_Title,,Objetivo de {0}
+SpellBook_Warning_Magic,,Aviso: Resistencia mágica
+SpellBook_Warning_Legendary,,Aviso: Resistencia legendaria
+SpellBook_ItemCast,,Gastado {0}.
+SpellBook_Prepare,,- Preparar -
+SpellBook_Unprepare,,- Despreparar -
+SpellBook_Prepare_Amount,,Conjuros por preparar: {0}
+SpellBook_PreparedSpells,,Hechizos Preparados
+SpellBook_PreparedSpells_Info,,"La cantidad de hechizos que tienes preparados actualmente. Puedes preparar hechizos visitando un santuario en cualquier momento.
+
+La cantidad que puedes preparar es: 2 + tu nivel de clase + tu modificador de Inteligencia."
+SpellBook_DifficultyClass,,Clase de dificultad
+SpellBook_DifficultyClass_Info,,"Esta es la CD que un objetivo debe alcanzar al tirar una salvación contra uno de tus hechizos.
+
+La CD es: 8 + tu modificador de Sabiduría o Inteligencia (el que sea más alto) + tu bonificador de competencia."
+SpellBook_CollectedSpells,,Hechizos recopilados
+SpellBook_CollectedSpells_Info,,La cantidad de hechizos en tu grimorio. Puedes conseguir más recogiendo y memorizando pergaminos de hechizo.
+SpellTile_NoCast,,No hay razón para lanzar ese hechizo.
+SpellTile_ShortRest,,Descanso corto
+SpellTile_ShortRest_Info,,"Dedica 1 hora a recuperarte. Gana (1d8) PV, elimina 1 nivel de agotamiento y restaura 1 ranura de hechizo. Tras el descanso, todas las pruebas de dados quedan desbloqueadas."
+SpellTile_ShortRest_Desc,,"{0}/{1}
+Dedica 1 hora a recuperarte. Gana (1d8) PV, elimina 1 nivel de agotamiento y restaura 1 ranura de conjuro. Tras descansar, todas las pruebas de dados quedan desbloqueadas."
+MiscTile_NoDice,,Sin dados de golpe.
+ShortRest_NeedLongRest,,No. Necesito un descanso <i>largo</i>. (Demasiado agotado y son las 5 de la mañana).
+ShortRest_Lone,,[Clérigo Solitario] {0} Puntos de Vida restaurados.
+ShortRest_Exhaustion,,Agotamiento reducido en 1 nivel.
+ShortRest_Heal_Lone,,[Compañía Agradable] Tirada de {0} y {1} (1d8 con ventaja). Curando con el resultado más alto.
+ShortRest_Heal,,Tirada de {0} (1d8) en el dado de golpe.
+ShortRest_Spellslots,,Repasando los hechizos memorizados...
+ShortRest_Third,,¡Recuperada una ranura de hechizo de nivel 3!
+ShortRest_Second,,Recuperada una ranura de hechizo de nivel 2.
+ShortRest_First,,Recuperada una ranura de hechizo de nivel 1.
+ShortRest_Memorizer_Third,,[Memorizador Maestro] ¡Recuperada una ranura de hechizo de nivel 3!
+ShortRest_Memorizer_Second,,[Memorizador] Recuperada una ranura de hechizo de nivel 2.
+ShortRest_Memorizer_First,,[Memorizador] Recuperada una ranura de hechizo de nivel 1.
+ShortRest_Unlock_AbilityCheck,,[Todas las pruebas de habilidad desbloqueadas.]
+ShortRest_NoSnell,,Bien. Ya es suficiente descanso por ahora.
+ShortRest_Snell_0,,¿Listo? Perfecto. Vamos.
+ShortRest_Snell_1,,¿Has descansado ya?
+ShortRest_Snell_2,,"¿Hm? Ah, ¿nos vamos? Bien."
+ShortRest_Snell_3,,Bien viene tomarse un respiro. Pero tenemos trabajo que hacer.
+ShortRest_Snell_4,,"Muy bien, listo para partir."
+TriInteraction_Closer,,Necesito acercarme más.
+TriInteraction_OutOfReach_0,,No puedo alcanzar eso desde aquí.
+TriInteraction_OutOfReach_1,,Demasiado lejos.
+TriInteraction_OutOfReach_2,,Fuera de alcance.
+Bark_DS_ArcaneRiddle,Olzis,"""<i>Vaya, vaya...</i>"""
+Bark_DS_PrimalRiddle,,<i>No crezcas. Márchate.</i>
+Bark_DS_DivineRiddle,,<shake>¡ABRE!</shake>
+Bark_OP_ArcaneSecret,,Oh. Eso ha hecho algo.
+Spell_GoodApple,,Creadas {0} Manzanas buenas.
+Spell_GoodApple_Wisdom,,Creadas {0} Manzanas buenas (5 + {1} SAB).
+Spell_Augury_0,,Un <i>Hilo</i>. ¿Adónde me llevará?
+Spell_Augury_1,,Hmm.
+Spell_Augury_2,,Ahí... lo veo. Dice...
+Spell_Augury_WEAL,,<wiggle>¡FORTUNA...!</wiggle>
+Spell_Augury_WEAL_Low,,Qué suerte la mía.
+Spell_Augury_WEAL_Medium,,Genial. ¡A ver qué pasa!
+Spell_Augury_WEAL_High,,La fortuna me sonríe. Como siempre.
+Spell_Augury_WOE,,<shake>DESGRACIA...</shake>
+Spell_Augury_WOE_Low,,Vaya.
+Spell_Augury_WOE_Medium,,Mierda. <i>Mierda</i>.
+Spell_Augury_WOE_High,,...Algo verdaderamente malo va a suceder.
+Spell_AuraofVitality,,Tirada de {0} ({1}d6)
+Spell_AuraofVitality_Cleric,,[El Clérigo] Tirada de {0} ({1}d6) + {2}
+Spell_AuraofVitality_Tingle,,[Hormigueo Esotérico] Tirada de {0} ({1}d6) + {2}
+Spell_AuraofVitality_Snell_0,,Joder. Eso es <i>mucha</i> curación...
+Spell_AuraofVitality_Snell_1,,<b>¡Vamos allá! ¡Sí!</b>
+Spell_AuraofVitality_Snell_2,,Sí. Ahora me siento de maravilla.
+Spell_AuraofVitality_Snell_3,,¡Eso es lo que estaba buscando!
+Spell_AuraofVitality_Enc,,Tirada de {0} (2d6) en Aura de vitalidad.
+Spell_AuraofVitality_Enc_Cleric,,[El Clérigo] Tirada de {0} (2d6) + {1} en Aura de vitalidad.
+Spell_AuraofVitality_Enc_Tingle,,[Hormigueo Esotérico] Tirada de {0} (4d6) + {1} en Aura de vitalidad.
+Spell_AuraofVitality_Enc_Snell_0,,"¡Sigue así, Clérigo!"
+Spell_AuraofVitality_Enc_Snell_1,,Justo lo que necesitaba.
+Spell_AuraofVitality_Enc_Snell_2,,Eso ayudará. Gracias.
+Spell_AuraofVitality_Enc_Snell_3,,"¡Bien, ahora céntrate en el combate!"
+Spell_CureWounds,,Tirada de {0} (1d8)
+Spell_CureWounds_wis,,Tirada de {0} (1d8) + {1} (SAB)
+Spell_CureWounds_wis_Cleric,,[El Clérigo] Tirada de {0} (1d8) + {1} (SAB) + {2}
+Spell_CureWounds_wis_Tingle,,[Hormigueo Esotérico] Tirada de {0} (2d8) + {1} (SAB) + {2}
+Spell_CureWounds_str_Cleric,,[El Clérigo] Tirada de {0} (1d8) + {1} (FUE) + {2}
+Spell_CureWounds_str_Tingle,,[Hormigueo Esotérico] Tirada de {0} (2d8) + {1} (FUE) + {2}
+Spell_PrayerofHealing,,Tirada de {0} (2d8)
+Spell_PrayerofHealing_wis,,Tirada de {0} (2d8) + {1} (SAB)
+Spell_PrayerofHealing_wis_Cleric,,[El Clérigo] Tirada de {0} (2d8) + {1} (SAB) + {2}
+Spell_PrayerofHealing_wis_Tingle,,[Hormigueo Esotérico] Tirada de {0} (4d8) + {1} (SAB) + {2}
+Spell_PrayerofHealing_str_Cleric,,[El Clérigo] Tirada de {0} (2d8) + {1} (FUE) + {2}
+Spell_PrayerofHealing_str_Tingle,,[Hormigueo Esotérico] Tirada de {0} (4d8) + {1} (FUE) + {2}
+Spell_PrayerofHealing_Snell_0,Snell,"""Gracias."""
+Spell_PrayerofHealing_Snell_1,Snell,"""Bien. Un poco de energía."""
+Spell_PrayerofHealing_Snell_2,Snell,"""Con fuerzas renovadas."""
+Spell_PrayerofHealing_Snell_3,Snell,"""Te lo agradezco, Clérigo."""
+Spell_PrayerofHealing_Ettir_0,Ettir,"""Gracias, Cleric."""
+Spell_PrayerofHealing_Ettir_1,Ettir,"""No era necesario. Pero lo agradezco igualmente."""
+Spell_PrayerofHealing_Ettir_2,Ettir,"""Tu poder de curación es formidable."""
+Spell_PrayerofHealing_Ettir_3,Ettir,"""La magia de Urth trae recuerdos."""
+Spell_InflictWound_Hit,,Impacto
+Spell_InflictWound_Miss,,Fallo.
+IdeaBox_Locked,,???
+IdeaBox_QuestTimes_0,,<i>sin éxito</i>
+IdeaBox_QuestTimes_1,,<i>una sola vez</i>
+IdeaBox_QuestTimes_2,,{0} veces
+IdeaBox_UpdatedOn,,Actualizado el {0}
+IdeaBox_1stDay,,"1.er Día, {0}"
+IdeaBox_2ndDay,,"2.º Día, {0}"
+IdeaBox_3rdDay,,"3.er Día, {0}"
+IdeaBox_DayBeforeElection,,"Víspera de las elecciones, {0}"
+IdeaBox_ElectionDay,,"Día de las elecciones, {0}"
+ItemType_Weapon,,Arma
+ItemType_Head,,Cabeza
+ItemType_Spellbook,,Libro de hechizos
+ItemType_Scroll,,Pergamino
+ItemType_Potion,,Poción
+ItemType_Shard,,Fragmento
+ItemType_Incense,,Incienso
+ItemType_Coin,,Moneda
+ItemType_Misc,,Varios
+ItemType_KeyItem,,Objeto clave
+ItemType_AllItem,,Todos los objetos
+ItemType_StrMod,,Mod. de Fuerza
+ItemType_DexMod,,Mod. de Destreza
+ItemType_ConMod,,Mod. de Constitución
+ItemType_IntMod,,Mod. de Inteligencia
+ItemType_WisMod,,Mod. de Sabiduría
+ItemType_ChaMod,,CHAmod
+ItemType_None,,"""Ninguna."""
+ItemTitle_Normal_Weapon,,Armas
+ItemTitle_SlightlyOff_Weapon,,Armas
+ItemTitle_Stupid_Weapon,,Armaz
+ItemTitle_VeryStupid_Weapon,,Cosas de dar leña
+ItemTitle_Normal_Head,,Yelmos
+ItemTitle_SlightlyOff_Head,,Cascos
+ItemTitle_Stupid_Head,,Cosa pa la cabeza
+ItemTitle_VeryStupid_Head,,Cara
+ItemTitle_Normal_Spellbook,,Libro de conjuros
+ItemTitle_SlightlyOff_Spellbook,,Textos
+ItemTitle_Stupid_Spellbook,,Libros y papeles
+ItemTitle_VeryStupid_Spellbook,,No sé leer
+ItemTitle_Normal_Scroll,,Pergaminos
+ItemTitle_SlightlyOff_Scroll,,Rollos de papel
+ItemTitle_Stupid_Scroll,,Cosas enrollás
+ItemTitle_VeryStupid_Scroll,,Servilleta mágica
+ItemTitle_Normal_Potion,,Consumibles
+ItemTitle_SlightlyOff_Potion,,Comida
+ItemTitle_Stupid_Potion,,Come
+ItemTitle_VeryStupid_Potion,,Brebajes ricos
+ItemTitle_Normal_Shard,,Fragmentos
+ItemTitle_SlightlyOff_Shard,,Brillantitos
+ItemTitle_Stupid_Shard,,Piedras brillantes
+ItemTitle_VeryStupid_Shard,,¿Por qué?
+ItemTitle_Normal_Incense,,Clericales
+ItemTitle_SlightlyOff_Incense,,Herramientas de clérigo
+ItemTitle_Stupid_Incense,,Cosas sagradas
+ItemTitle_VeryStupid_Incense,,Cosas ricas
+ItemTitle_Normal_Coin,,Coronas de Norvik
+ItemTitle_SlightlyOff_Coin,,Coronas
+ItemTitle_Stupid_Coin,,Monedas
+ItemTitle_VeryStupid_Coin,,Moneditas
+ItemTitle_Normal_Misc,,Miscelánea
+ItemTitle_SlightlyOff_Misc,,Varios
+ItemTitle_Stupid_Misc,,Todo lo demás
+ItemTitle_VeryStupid_Misc,,Chismes varios
+ItemTitle_Normal_KeyItem,,Objetos clave
+ItemTitle_SlightlyOff_KeyItem,,Objetos clave
+ItemTitle_Stupid_KeyItem,,Importancias
+ItemTitle_VeryStupid_KeyItem,,¿Llaves?
+ItemTitle_Normal_AllItem,,Todos los Objetos
+ItemTitle_SlightlyOff_AllItem,,Todos los Objetos
+ItemTitle_Stupid_AllItem,,TODO.
+ItemTitle_VeryStupid_AllItem,,Todo en orden
+ItemTitle_Normal_StrMod,,Fuerza
+ItemTitle_SlightlyOff_StrMod,,Fuerza
+ItemTitle_Stupid_StrMod,,Fuerte
+ItemTitle_VeryStupid_StrMod,,Poder
+ItemTitle_Normal_DexMod,,Destreza
+ItemTitle_SlightlyOff_DexMod,,Destreza
+ItemTitle_Stupid_DexMod,,Rápido.
+ItemTitle_VeryStupid_DexMod,,AGILIDAD.
+ItemTitle_Normal_ConMod,,Constitución
+ItemTitle_SlightlyOff_ConMod,,Constitución
+ItemTitle_Stupid_ConMod,,Firme
+ItemTitle_VeryStupid_ConMod,,Tripas fuertes
+ItemTitle_Normal_IntMod,,Inteligencia
+ItemTitle_SlightlyOff_IntMod,,Inteligencia
+ItemTitle_Stupid_IntMod,,"""¡Listo!"""
+ItemTitle_VeryStupid_IntMod,,Cerebro gordo
+ItemTitle_Normal_WisMod,,Sabiduría
+ItemTitle_SlightlyOff_WisMod,,Sabiduría
+ItemTitle_Stupid_WisMod,,Sentimientos.
+ItemTitle_VeryStupid_WisMod,,"""¡El amor!"""
+ItemTitle_Normal_ChaMod,,Carisma
+ItemTitle_SlightlyOff_ChaMod,,Carisma
+ItemTitle_Stupid_ChaMod,,Encanto
+ItemTitle_VeryStupid_ChaMod,,Necesita amor
+SpecType_Class,,clase
+SpecType_PoliticalStance,,postura política
+SpecName_Cleric,,Clérigo
+SpecName_Rogue,,Pícaro
+SpecName_Wizard,,Mago
+SpecName_Druid,,Druida
+SpecName_Bard,,Bardo
+SpecName_Barbarian,,Bárbaro
+SpecName_Nationalist,,Nacionalista
+SpecName_Freestrider,,Caminante Libre
+SpecName_Azgalist,,Azgalista
+SpecName_Arcanist,,Arcanista
+SpecName_Apolitical,,Apolítico
+SpecName_Agrarian,,Agrario
+SpecName_Rogue_DickAss,,Capullo
+SpecName_Cleric_Article,,"""La..."""
+SpecName_Barbarian_DeathDefying,,Desafía-muertes
+SpecName_Bard_Philogynistic,,Filógino
+SpecName_Druid_NatureLoving,,Amante de la naturaleza
+SpecName_Indefinitive_Cleric,,un <b>Clérigo</b>
+SpecName_Indefinitive_Rogue,,un <b>Pícaro</b>
+SpecName_Indefinitive_Wizard,,un <b>Mago</b>
+SpecName_Indefinitive_Druid,,un <b>Druida</b>
+SpecName_Indefinitive_Bard,,un <b>Bardo</b>
+SpecName_Indefinitive_Barbarian,,un <b>Bárbaro</b>
+SpecName_Indefinitive_Nationalist,,un <b>Nacionalista</b>
+SpecName_Indefinitive_Freestrider,,un <b>Caminante Libre</b>
+SpecName_Indefinitive_Azgalist,,un <b>Azgalista</b>
+SpecName_Indefinitive_Arcanist,,un <b>Arcanista</b>
+SpecName_Indefinitive_Apolitical,,un <b>Apolítico</b>
+SpecName_Indefinitive_Agrarian,,un <b>Agrario</b>
+Race_Human_Urthfolk,,"Humano, pueblo de Urth"
+Race_Human_Reedsfolk,,"Humano, Cañaveralense"
+Race_Human_Coastfolk,,"Humano, pueblo de la Costa"
+Race_Human_Hordefolk,,"Humano, pueblo de la Horda"
+Race_Halfling_Fordfolk,,"Mediano, pueblo del Vado"
+Race_Halfling_Stormblood,,"Mediano, Sangre de Tormenta"
+Race_Elf_Illym,,Elfo Illym
+Race_Elf_Ym,,Elfo ymiano
+Race_Elf_Pimea,,Elfo pimeä
+Race_Dwarf_Exile,,Enano exiliado
+Race_Under_Dwarf,,Enano subterráneo
+Race_Empire_Dwarf,,Alto enano
+Race_Gnome_Tealfolk,,"Gnomo, pueblo del Té"
+Race_Gnome_Glintfolk,,"Gnomo, pueblo del Destello"
+Race_Goblin_Forest,,Goblin del bosque
+Race_Goblin_Hill,,Goblin de las colinas
+Race_Goblin_Cave,,Goblin de las cavernas
+Race_Bugbear,,Bugbear
+Race_Ogre,,Ogro
+Race_Troll,,Trol
+Race_Birdfolk,,Gente-pájaro
+Race_Orc_Fellfolk,,Orco de las tierras bajas
+Race_Orc_Belifolk,,Orco belifolk
+Race_Merfolk,,Sirénidos
+Race_Kobold,,Kobold
+Race_Crocoliskfolk,,Gente-cocodrilo
+Race_Snailfolk,,Gente-caracol
+Race_Undead,,Muerto viviente
+Race_Devil,,Diablo
+Race_Demon,,Demonio
+Race_Celestial,,Celestial.
+Race_Aberration,,Aberración
+Race_Beast,,Bestia
+Race_Monstrosity,,Monstruosidad
+Race_Plant,,Planta
+Race_Fey,,Feérico
+Race_Elemental,,Elemental
+Alignment_Lawful_Good,,"Legal
+Bueno"
+Alignment_Neutral_Good,,"Neutral
+Bueno"
+Alignment_Chaotic_Good,,"Caótico
+Bueno"
+Alignment_Lawful_Neutral,,"Legal
+Neutral"
+Alignment_True_Neutral,,"Neutral
+Verdadero"
+Alignment_Chaotic_Neutral,,"Caótico
+Neutral"
+Alignment_Lawful_Evil,,"Legal
+Malvado"
+Alignment_Neutral_Evil,,"Neutral
+Malvado"
+Alignment_Chaotic_Evil,,"Caótico
+Malvado"
+GlossaryTags_City,,Ciudad
+GlossaryTags_Skills,,Habilidades
+GlossaryTags_Esoterics,,Esotéricos
+GlossaryTags_Folk,,Gentes
+GlossaryTags_Geography,,Geografía
+GlossaryTags_History,,Historia
+GlossaryTags_Language,,Idioma
+GlossaryTags_Literature,,Literatura
+GlossaryTags_Nature,,Naturaleza
+GlossaryTags_Politics,,Política
+GlossaryTags_Religion,,Religión
+GlossaryTags_Spells,,Hechizos
+GlossaryTags_Strength,,Fuerza
+GlossaryTags_Dexterity,,Destreza
+GlossaryTags_Constitution,,Constitución
+GlossaryTags_Intelligence,,Inteligencia
+GlossaryTags_Wisdom,,Sabiduría
+GlossaryTags_Charisma,,Carisma
+AbilityScoreReveal_0,DEX,"¿Hm? Espera, ¿el agua...?"
+AbilityScoreReveal_1,INT,Un Fragmento de Jor.
+AbilityScoreReveal_2,WIS,Un fragmento esotérico en la oscuridad.
+AbilityScoreReveal_3,STR,<i>Huellas de patas</i>...?
+AbilityScoreReveal_4,WIS,QUÉDATE MUY QUIETO.
+AbilityScoreReveal_5,WIS,Un olor a humedad — una <i>corriente de aire</i>.
+AbilityScoreReveal_6,DEX,Vaya. La vida de los aventureros no es fácil.
+AbilityScoreReveal_7,STR,Podrías levantar eso.
+AbilityScoreReveal_8,STR,¡Una rata! ¡A por ella!
+AbilityScoreReveal_9,STR,Algo está escondido bajo estas pesadas rocas.
+AbilityScoreReveal_10,INT,Este mago: puedes encontrar algo interesante en su superficie petrificada.
+AbilityScoreReveal_11,WIS,Esta pared... es una puerta.
+AbilityScoreReveal_12,DEX,¡Aquí hay botín!
+AbilityScoreReveal_13,DEX,¡Más botín aquí!
+AbilityScoreReveal_14,CON,Hierro - suelto. Gira y luego tira.
+AbilityScoreReveal_15,INT,Un libro. Investígalo.
+AbilityScoreReveal_16,CHA,Esta parece el tipo de roca sobre la que subirse para llamar la atención...
+AbilityScoreReveal_17,CON,¿Qué es... ESO...?
+AbilityScoreReveal_18,STR,Puedes mover ese ladrillo.
+DoorLocked_0_0,,Aquí necesitaré algún tipo de llave.
+DoorLocked_0_1,,Esto está bien atrancado.
+DoorLocked_0_2,,Necesitaré algún tipo de llave para subir por aquí. Quizás una... llave de cripta.
+DoorLocked_1_0,,Este largo pasillo está vigilado. No puedes pasar.
+DoorLocked_1_1,,Sí. Primero tendré que hablar con el goblin que ocupa el trono.
+DoorLocked_1_2,,¡Dejadme salir! ¡Quiero <shake>IRME</shake>!
+DoorLocked_2_0,,Hay puertas fuertemente atrancadas aquí dentro.
+DoorLocked_2_1,,Primero debería hablar con esa mujer en el trono.
+DoorLocked_2_2,,Noto que alguien me está mirando con mala cara.
+DoorLocked_3_0,,Vaya. Lo han cerrado muy bien.
+DoorLocked_3_1,,Por ahí no voy a salir.
+DoorLocked_3_2,,Eh. Tengo la cuerda. Puedo salir trepando.
+DoorLocked_4_0,,No es más que un apartamento cualquiera. Pero...
+DoorLocked_4_1,,Quizás pueda entrar por esta más adelante. Tengo la sensación de que sí.
+DoorLocked_4_2,,Tiene pinta de ser un apartamento muy agradable.
+DoorLocked_4_3,,Qué curioso. Parece que sé que este apartamento es especial. ¿Por qué?
+DoorLocked_5_0,,Snell ya está conmigo.
+DoorLocked_5_1,,Tendré que decirle a Snell si quiero que vuelva a casa.
+DoorLocked_5_2,,Este es el apartamento de Snell.
+DoorLocked_5_3,,Pone Snell en la puerta.
+DoorLocked_6_0,,Snell debe de estar aquí dentro.
+DoorLocked_6_1,,Creo que Snell está durmiendo dentro.
+DoorLocked_6_2,,"La verdad, no debería despertarlo."
+DoorLocked_6_3,,Ojalá Snell no estuviera dormido.
+DoorLocked_7_0,,Yo no vivo aquí.
+DoorLocked_7_1,,No es más que un apartamento cualquiera.
+DoorLocked_7_2,,No tengo ningún motivo para interesarme por esta puerta en concreto.
+DoorLocked_8_0,,No abre hasta el atardecer.
+DoorLocked_8_1,,No puedo pasar por aquí.
+DoorLocked_8_2,,"Por alguna razón, esta puerta no puede forzarse con ganzúas. Muy esotérico."
+DoorLocked_8_3,,Tendré que esperar para entrar. Hasta las 18:00.
+DoorLocked_9_0,,Este apartamento: no tengo ningún motivo para entrar.
+DoorLocked_9_1,,No.
+DoorLocked_9_2,,No voy a ponerme a interactuar con puertas al azar. Sería una locura.
+DoorLocked_10_0,,Está cerrado por hoy.
+DoorLocked_10_1,,¿Habrá otra forma de entrar?
+DoorLocked_10_2,,"No, nada. Está bien cerrado."
+DoorLocked_10_3,,Hay otras formas de entrar...
+DoorLocked_11_0,,Está cerrado por hoy.
+DoorLocked_11_1,,"No, nada. Está bien cerrado."
+DoorLocked_11_2,,Supongo que volveré mañana.
+DoorLocked_12_0,,Cerrado. Bien cerrado. Ni la magia me va a meter aquí.
+DoorLocked_12_1,,Está bien atrancado. No hay manera de entrar por aquí.
+DoorLocked_13_0,,Cerrado. Atrancado.
+DoorLocked_13_1,,Parece que ha cerrado por hoy.
+DoorLocked_14_0,,Se oyen ronquidos desde dentro.
+DoorLocked_14_1,,No hay manera de entrar aquí.
+DoorLocked_14_2,,Debería abrir por la mañana.
+DoorLocked_15_0,,Hay una puerta atrancada al pie de estas escaleras.
+DoorLocked_15_1,,No vas a pasar por aquí sin permiso.
+DoorLocked_15_2,,Imposible. Este camino está cerrado por ahora.
+DoorLocked_15_3,,Esto parece llevar al almacén...
+DoorLocked_15_4,,Por aquí no voy a pasar.
+DoorLocked_16_0,,La puerta de aquí está atrancada.
+DoorLocked_16_1,,Hm. La puerta de este túnel no se abre.
+DoorLocked_16_2,,Vaya. No puedo pasar por aquí.
+DoorLocked_16_3,,No puedo abrirla desde este lado. Tendré que dar la vuelta.
+DoorLocked_17_0,,Sigue sellado aquí.
+DoorLocked_17_1,,No puedo romper estos tablones desde este lado.
+DoorLocked_17_2,,Sí. Son tablones sellados esotéricamente.
+DoorLocked_17_3,,Tendré que abrirlo desde fuera.
+DoorLocked_17_4,,Ah. Así que esta es la entrada normal. Ya entiendo.
+DoorLocked_18_0,,No hay manera de pasar por aquí. Hay como cinco puertas más detrás de esta.
+DoorLocked_18_1,,Creo que esto baja a una cripta antigua.
+DoorLocked_18_2,,Aquí necesitaré una llave. Sin duda.
+DoorLocked_18_3,,Hm. Aquí hace falta algún tipo de «llave de cripta».
+DoorLocked_18_4,,Ni Traqueteo podría resolver esto. Hay muchísimas más puertas cerradas detrás de esta.
+DoorLocked_19_0,,No abre hasta el atardecer.
+DoorLocked_19_1,,No puedo pasar por aquí.
+DoorLocked_19_2,,"Por alguna razón, esta puerta no puede forzarse con ganzúas. Muy esotérico."
+DoorLocked_19_3,,Tendré que esperar para entrar. Hasta las 18:00.
+DoorLocked_19_4,,«¡Déjame entrar! ¡Quiero <shake>la experiencia tabernera</shake>!»
+DoorLocked_19_5,,La paciencia es una virtud entre los monjes Vourgeni. <i>No</i> entre el pueblo de Urth.
+DoorLocked_20_0,,Necesitaré una llave.
+DoorLocked_20_1,,Esto es propiedad del gobierno.
+DoorLocked_20_2,,No hay manera de entrar aquí sin una llave.
+DoorLocked_20_3,,No se puede entrar aquí.
+Boon_Name_0,,Pequeño empujón: recupera 1d4 puntos de vida.
+Boon_Name_1,,Energizado: elimina 1 nivel de agotamiento.
+Boon_Name_2,,Reanimado: recupera 1 uso de un dado de golpe gastado.
+Boon_Name_3,,Mágico: Recupera 1 ranura de hechizo de nivel 1.
+Boon_Name_4,,Místico: Recupera 1 ranura de hechizo de nivel 2.
+Boon_Name_5,,Esotérico: Recupera 1 ranura de hechizo de nivel 3.
+Boon_Name_6,,Hallazgo afortunado: Encuentras una bolsa con 2d6 coronas.
+Boon_Name_7,,Hallazgo afortunado: Encuentras una bolsa con 6d6 coronas.
+Boon_Name_8,,Oleada de vitalidad: gana 3d4 puntos de vida.
+Boon_Name_9,,Revitalizado: elimina 2 niveles de agotamiento.
+Boon_Name_10,,Resurgido: recupera 2 usos de dados de golpe gastados.
+Boon_Name_11,,Rejuvenecimiento arcano: Recupera 2 ranuras de hechizo de nivel 1.
+Boon_Name_12,,Resurgimiento místico: Recupera 2 ranuras de hechizo de nivel 2.
+Boon_Name_13,,Renovación esotérica: Recupera 2 ranuras de hechizo de nivel 3.
+Boon_Name_14,,Hallazgo afortunado: descubres una bolsa grande que contiene 12d6 coronas.
+Boon_Name_15,,Hallazgo afortunado: descubres una bolsa que contiene 20d6 coronas.
+Boon_Name_16,,Hallazgo increíble: descubres una bolsa MUY grande que contiene 24d6 coronas.
+Boon_Name_17,,Tocado por la divinidad: recupera 6d4 puntos de vida.
+Boon_Name_18,,"Listo para lanzar: Recupera 1 ranura de hechizo de nivel 1, 2 y 3."
+Boon_Name_19,,<b>Un Don Divino: Ganas 1 punto de característica durante una semana.</b>
+Hover_1d4,,1d4
+Hover_1d12,,1d12
+Variable_Desc_Hardmode_0,,<i>Al DM no le caes bien.</i>
+Variable_Desc_Hardmode_1,,<i>Claramente estás en modo difícil.</i>
+Variable_Desc_Hardmode_2,,<i>El-DM-quiere-matarte.</i>
+Variable_Desc_Hardmode_3,,<i>Tú elegiste esta dificultad.</i>
+Variable_Desc_Hardmode_4,,<i>El DM es un tipo malvado.</i>
+Variable_Desc_Hardmode_5,,<i>Tu DM te está plantando cara.</i>
+Variable_Desc_Plants,,Ventaja contra plantas
+Variable_Desc_Bureaucrats,,Ventaja contra burócratas
+Variable_Desc_Elementals,,Ventaja contra Elementales
+Variable_Desc_ProtectionFromEvil,,PROTECCIÓN CONTRA EL MAL Y EL BIEN Y ETCÉTERA
+Variable_Desc_Meek_0,,¡Meek ayuda!
+Variable_Desc_Meek_1,,¡Meek está atento!
+Variable_Desc_Meek_2,,¡Meek está aquí!
+Variable_Desc_Meek_3,,¡Meek te apoya!
+Variable_Desc_Meek_4,,¡Meek...!
+Variable_Desc_Meek_5,,¡Meek te mantiene alerta!
+Variable_Desc_DetectThoughts,,Has <i>detectado</i> algunos <i>pensamientos</i> útiles...
+Variable_Desc_Dwarves,,Ventaja contra Enanos
+Variable_Desc_Elves,,Ventaja contra elfos
+Variable_Desc_Aberrations,,Ventaja contra Aberraciones
+Variable_Desc_Urthfolk,,Ventaja contra Gente de Urth
+Variable_Desc_Evil,,Ventaja contra el mal
+Variable_Desc_Good,,Ventaja contra el bien
+Variable_Desc_Chaotic,,Ventaja contra el caos
+Variable_Desc_Lawful,,Ventaja contra la ley
+Variable_Desc_Exhausted_0,,Estás agotado.
+Variable_Desc_Exhausted_1,,Estás agotado. Pero puedes aguantar.
+Variable_Desc_Rested,,Dormiste más de 8 HORAS anoche.
+Variable_Desc_Lie,,Una Mentira Hermosa.
+Variable_Desc_Fool,,¡Necio!
+Variable_Desc_Jester,,BUFÓN.
+Variable_Desc_Bless,,Bajo el efecto de BENDICIÓN.
+Variable_Desc_Enhance,,Bajo el efecto de POTENCIAR ATRIBUTO.
+Variable_Desc_CrusadersMantle,,Bajo el efecto de MANTO DEL CRUZADO.
+Variable_Desc_EsotericRage,,Bajo los efectos de la FURIA ESOTÉRICA.
+Variable_Desc_DivineHex,,MALDICIÓN DIVINA aplicada al objetivo.
+Variable_Desc_WhitemanesBless,,Bajo el efecto de LA BENDICIÓN DE CRINBLANCA.
+Variable_Desc_Weal,,FORTUNA.
+Variable_Desc_Woe,,DESDICHA.
+Difficulty_0_0,,Sin desafío
+Difficulty_0_1,,No debería ser un problema
+Difficulty_0_2,,"""¿Sin problemas?"""
+Difficulty_0_3,,Pan comido
+Difficulty_0_4,,N.H.F.E. (Ni Hace Falta Esforzarse)
+Difficulty_0_5,,Pan comido
+Difficulty_1,,Sin esfuerzo
+Difficulty_6,,Moderado
+Difficulty_11,,Desafiante
+Difficulty_16,,Intimidante
+Difficulty_21,,Imposible
+Difficulty_26,,Divino
+Area_LL,,Guarida Inferior
+Area_VL,,La Guarida de Visken
+Area_TS,,Tolstad
+Area_TSS,,Tolstad Sur
+Area_TSE,,Tolstad Este
+Area_TSW,,Tolstad Oeste
+Area_TSN,,Tolstad Norte
+Area_DN,,Nido de Darrow
+Area_GT,,Torre de guardia
+Area_RM,,Molino
+Area_TE,,Tienda de Té
+Area_ST,,Túnel Secreto
+Area_TU,,Templo de Urth
+Area_DS,,La Esfinge Borracha
+Area_GG,,Jardín Goblin
+Area_GW,,Almacén del gremio
+Area_PC,,Cruce del Pilar
+Area_SH,,El Agujero de Simii
+Area_SP,,Bloc de Snell
+Area_SO,,Despacho de Snurre
+Area_AR,,Askanii-Reeds
+Area_WL,,Mirador del Callejón del Agua
+Area_CB,,La Ciudad de Abajo
+Area_CRYPT,,La Primera Cripta de Urth
+Area_LIBRARY,,La Biblioteca Viva
+Area_NORTH_CAVERNS,,Cavernas del Norte
+Area_ROOTS,,Las Raíces
+Area_SOUTH_CAVERNS,,Cavernas Meridionales
+Area_SEWERS,,Las Alcantarillas
+Area_LP,,El Local de Lisa
+Area_OP,,Antigua Prisión
+Area_UP,,El Camino de la Costa Subterránea
+Area_JC,,Encrucijada de Jor
+SubArea_CN,,Centro de Norvik
+SubArea_CB,,La Ciudad Bajo la Ciudad
+SubArea_LT,,Tolstad Inferior
+SubArea_UT,,Tolstad Alta
+SubArea_UR,,Cresta del Hueco Superior
+SubArea_DS_BeyondName,,El Más Allá
+SubArea_Journal_Crypts,,Criptas
+SubArea_Journal_Stairs,,Escaleras
+SubArea_Journal_Doom,,Perdición
+SubArea_Journal_Niche,,¿Pinchos?
+SubArea_Journal_Study,,Estudio
+SubArea_Journal_LostApartment,,Apartamento Perdido
+SubArea_Journal_Survey,,Encuesta
+SubArea_Journal_Shrine,,Santuario
+Notification_JournalUpdated,,Diario actualizado
+ActiveSpellUI_Text,,{0} minutos restantes.
+Time_Dusk,,Crepúsculo
+Time_Dawn,,Amanecer
+Time_Day,,del Día {0}
+Time_Election,,¡El final!
+Time_Election_Day,,del Día de las Elecciones
+InfoList_Proficient,,<i>Competente</i>
+InfoList_Potion,,Poción ingerida
+InfoList_FEAT_MILL,,Guardián del Milenio
+InfoList_AbilityScore,,Bendecido por Urth
+InfoList_Enhance,,Potenciar atributo
+CalculateModifiers_Modified,,(Modificado)
+NewGame_RemainingPoints,,Puntuaciones de característica - Puntos restantes: {0}
+NewSpec_New,,"Ahora eres un <b>{0}</b>.
+Experiencia obtenida: {1}xp por elegir {2}."
+NewSpec_Replace,,"Ya no eres un <i>""{3}""</i>...
+¡En su lugar, ahora eres un <b>{0}</b>!
+Has ganado {1}xp por cambiar tu {2}."
+NewSpec_FlipFlop_Warning,,"(Pero en serio, deberías elegir un {0} y mantenerte firme. La próxima vez no obtendrás PE por <i>andar con indecisiones</i>)."
+NewSpec_FlipFlop_New,,"Ahora eres un <b>{0}</b>.
+Has obtenido solo {1}xp por haber cambiado tantas veces. Venga ya. En serio. Elige un {2} de una vez."
+NewSpec_FlipFlop_Replace,,"Ya no eres un <i>{0}</i>...
+Has obtenido solo {1}xp por haber cambiado tantas veces. Venga ya. En serio. Elige un {2} de una vez."
+HighestSpec_XpGain_Initial,,Has ganado {0}xp (5 x {1}) por elegir {2} {1} veces.
+HighestSpec_XpGain,,Has ganado {0}xp (5 x {1}).
+HighestSpec_Class_Message_0,,"A pesar de todo, ahora eres {0}."
+HighestSpec_Class_Message_0_Cleric,,Te inclinas un poco más hacia ser un <b>Clérigo</b>.
+HighestSpec_Class_Message_3,,El camino de ser {0} te resulta cada vez más familiar.
+HighestSpec_Class_Message_4,,Sientes una creciente atracción hacia ser {0}.
+HighestSpec_Class_Message_5,,Eres incuestionablemente {0}.
+HighestSpec_Class_Message_6,,El <b>{0}</b> en tu interior despierta con serena confianza.
+HighestSpec_Class_Message_6_Apolitical,,La <b>Apoliticidad</b> en ti despierta con serena confianza.
+HighestSpec_Class_Message_7,,Los demás empiezan a notar el <b>{0}</b> en tus pasos.
+HighestSpec_Class_Message_7_Apolitical,,Los demás empiezan a notar la <b>Apoliticidad</b> en tus pasos.
+HighestSpec_Class_Message_8,,Nadie en Norvik encarna {0} como tú.
+HighestSpec_Class_Message_9,,¿'<b>{0}</b>'? Más bien <i>tú</i>.
+HighestSpec_Class_Message_10,,Llevas el peso y el orgullo de un auténtico <b>{0}</b>.
+HighestSpec_Class_Message_10_Apolitical,,Llevas el peso y el orgullo de una auténtica persona <b>Apolítica</b>.
+HighestSpec_Class_Message_11,,Pocos dudarían de tu devoción a ser {0}.
+HighestSpec_Class_Message_12,,Una leyenda viva: {0}.
+HighestSpec_Class_Message_13,,"Hablas, y la gente escucha a un {0}."
+HighestSpec_Class_Message_14,,Ser {0} fluye por tus decisiones como una segunda naturaleza.
+HighestSpec_Class_Message_15,,Te has convertido en lo que muchos aspiran a ser: un devoto <b>{0}</b>.
+HighestSpec_Class_Message_16,,Tu nombre y '<b>{0}</b>' se están convirtiendo en la misma cosa.
+HighestSpec_Class_Message_17,,Las leyendas se forjan con convicciones como la tuya. {0} perdura.
+HighestSpec_Class_Message_18,,'<b>{0}</b>' está grabado a fuego en tu propia alma.
+HighestSpec_Class_Message_19,,Te alzas como el parangón de lo que significa ser {0}.
+HighestSpec_Class_Message_20,,Ya no queda nada por demostrar. Eres <i>el</i> <b>{0}</b> definitivo.
+HighestSpec_Political_Message_0,,Te has convertido en {0}.
+HighestSpec_Political_Message_3,,Te vuelves aún más afín a {0}.
+HighestSpec_Political_Message_4,,Continúas alineándote firmemente con {0}.
+HighestSpec_Political_Message_5,,Te descubres defendiendo los ideales de <b>{0}</b>.
+HighestSpec_Political_Message_6,,Debates los argumentos de {0} con suma soltura.
+HighestSpec_Political_Message_7,,Das voz a las inquietudes de {0}.
+HighestSpec_Political_Message_8,,Actúas estrictamente según la disciplina de <b>{0}</b>.
+HighestSpec_Political_Message_8_Apolitical,,Actúas estrictamente según la filosofía <b>Apolítica</b>.
+HighestSpec_Political_Message_9,,Tus iguales te reconocen como un convencido <b>{0}</b>.
+HighestSpec_Political_Message_9_Apolitical,,Tus iguales te reconocen como una persona verdaderamente <b>Apolítica</b>.
+HighestSpec_Political_Message_10,,Cargas con el peso político de un comprometido <b>{0}</b>.
+HighestSpec_Political_Message_10_Apolitical,,Cargas con el peso político de una persona comprometidamente <b>Apolítica</b>.
+HighestSpec_Political_Message_11,,Haces campaña incansablemente por la causa de <b>{0}</b>.
+HighestSpec_Political_Message_11_Apolitical,,Haces campaña incansablemente por la causa <b>Apolítica</b>.
+HighestSpec_Political_Message_12,,Observas cada problema de la sociedad a través del prisma de {0}.
+HighestSpec_Political_Message_13,,"Hablas, y las masas escuchan la voz de un líder de <b>{0}</b>."
+HighestSpec_Political_Message_14,,Redactas propuestas y tomas decisiones como un veterano de <b>{0}</b>.
+HighestSpec_Political_Message_15,,Te has convertido en un referente indiscutible del pensamiento de <b>{0}</b>.
+HighestSpec_Political_Message_16,,Inspiras a otros a unirse al movimiento de <b>{0}</b>.
+HighestSpec_Political_Message_16_Apolitical,,Inspiras a otros a unirse a la <b>Apoliticidad</b>.
+HighestSpec_Political_Message_17,,Lideras la ofensiva por reformas integrales de <b>{0}</b>.
+HighestSpec_Political_Message_17_Apolitical,,Lideras la ofensiva por no hacer ninguna reforma. De puro <b>{0}</b>.
+HighestSpec_Political_Message_18,,Dedicas tu vida al progreso de la ideología de <b>{0}</b>.
+HighestSpec_Political_Message_18_Apolitical,,Dedicas tu vida a la regresión de toda ideología política. Porque eres así de <b>{0}</b>.
+HighestSpec_Political_Message_19,,Te alzas como el campeón indiscutible de <b>{0}</b>.
+HighestSpec_Political_Message_19_Apolitical,,Te alzas como el campeón indiscutible de todo lo maravillosamente <b>Apolítico</b>.
+HighestSpec_Political_Message_20,,Eres la máxima autoridad en lo que significa ser {0}.
+SessionNotes_Message_0,,"¡Hora de jugar otra sesión! Aunque si ves este mensaje, significa que no pude recopilar información sobre lo ocurrido en la última sesión. Eso significa que algo ha salido terriblemente mal: o metí la pata en alguna parte, o tocaste el archivo de guardado. Si ves esto y <i>no</i> has tocado ningún archivo de guardado, ¡no dudes en avisarme! <i>-Chris</i>"
+SessionNotes_Message_1,,"Ha sido una campaña de lo más intensa. Te enfrentaste a la Ciudad de Abajo, te zambulliste en El Más Allá, y ahora te espera tu misión más peligrosa y exigente hasta la fecha:
+
+Ha llegado el momento de votar en las elecciones. Buena suerte. La vas a necesitar."
+SessionNotes_Message_2,,"Te encuentras ante la sombra de un hombre sin camino. El encuentro final. La última resistencia. El final de la campaña. O bueno, eso depende de las decisiones que tomes aquí, por supuesto. Buena suerte y procura no morir.
+
+Porque para ser sincero, con este encuentro voy a intentar matarte de verdad."
+SessionNotes_Message_3,,"Ya casi es la hora. Nos acercamos al final. La última vez encontraste a Meriadoc, el <i>testigo estrella</i> que has estado buscando durante toda la campaña. Te habló de esa persona invisible que fumaba y que «entró en el Pilar». Por disparatado que suene, estás seguro: tienes que seguirle.
+
+Tienes que encontrar la manera de entrar en el Pilar de Jor."
+SessionNotes_Message_4,,La última vez no llegaste muy lejos. Eso es culpa mía.
+SessionNotes_Message_4a,,"Tendría que haberlo dejado más claro: la Ciudad de Abajo, la <i>mazmorra</i>, es más bien una zona de <i>nivel 3+</i>.
+
+Aunque, si te sientes con suerte... ¿siempre puedes intentarlo de nuevo?"
+SessionNotes_Message_4b,,"¿Listo para otra ronda?
+
+Un consejo: prepara conjuros en el santuario y luego cúrate. Y come algunas manzanas. Eso debería bastar para superar el <i>desafío de la casa del liche</i>."
+SessionNotes_Message_5,,"Bien, que conste — la última vez completaste toda la secuencia de introducción. Hace apenas un día explotó una tetería local, y es tu trabajo averiguar por qué. Por alguna razón, te despertaste en el fondo de una morgue. Buen comienzo."
+SessionNotes_Message_5a,,"Tuviste una pequeña charla con Visken, el pálido sepulturero local."
+SessionNotes_Message_5b,,"Después saliste a explorar la ciudad. Tolstad es un lugar bastante grande, pero el pequeño fragmento en el que te mueves ya está lleno de gente y de cosas que ver. Ahora bien, todavía tienes que encontrar a ese jefe goblin..."
+SessionNotes_Message_5c,,"Y por supuesto, también echaste un vistazo a la Ciudad de Abajo, a la que tendrás que volver más adelante."
+SessionNotes_Message_5d,,"Pero sigues en el Cubil de Visken. O sea, en la Guarida del Liche. O sea, en el depósito de cadáveres local. Así que, ejem, ¡sal afuera!"
+SessionNotes_Message_6,,"Te desperaste en una morgue. Es el día después de que la tetería local explotara, y es tu trabajo averiguar por qué. Hasta ahora, has explorado la ciudad y te has agenciado un impertinente goblin de acompañante. Genial. Pero ahora toca lo de verdad: mientras el sol cae sobre la ciudad, <i>sabes</i> que el Lord de las Monedas te espera.
+
+No literalmente, no es el tipo de persona que espera a nadie, pero tienes una reunión con él. En algún momento, cualquier momento, después de medianoche. Pero no le hagas esperar hasta el amanecer..."
+SessionNotes_Message_6a,,"Aunque como ya has entrado en la tetería... bueno, él no va a ayudarte <i>tanto</i>."
+SessionNotes_Message_7,,"Has llegado a Tolstad (despertándote en una morgue), te has buscado un goblin de acompañante y ahora... bueno, ahora necesitas centrarte en el trabajo de verdad. <i>La tetería que Explotó</i>."
+SessionNotes_Message_7a,,"Antes de nada, aún tienes que entrar. La entrada está en el centro de la gran zona exterior abierta. Si te quedas atascado, debería haber otras formas de entrar..."
+SessionNotes_Message_7b,,Ya has estado dentro. Has echado un vistazo buscando <i>pistas</i>.
+SessionNotes_Message_7c,,Pero hay algo que se te escapa.
+SessionNotes_Message_7d,,Probablemente deberías informar sobre el elfo muerto a Lady Sageleaf. A menos que vayas a pasar de todo ese asunto.
+SessionNotes_Message_7e,,"Además, también tienes que localizar al dueño. Por lo que has oído sobre este tipo, puede que ya haya abandonado la ciudad. Aunque quizás con suerte lo pilles antes de que se suba al siguiente barco allá abajo en Callejón del Agua."
+SessionNotes_Message_7f,,"Además, también encontraste al dueño. Ese pájaro intentaba <i>enviarse a sí mismo</i> al otro lado de la Costa. Por suerte llegaste a él antes de que su caja desapareciera."
+SessionNotes_Message_7g,,Pero hasta ahora nada te ha dado ninguna prueba determinante.
+SessionNotes_Message_7h,,Y luego está ese asesino enmascarado. No tienes NI IDEA de quién te la tiene jurada.
+SessionNotes_Message_7i,,Todo esto <i>apesta</i>.
+SessionNotes_Message_7j,,"Ah, y recuerda: todavía queda esa pesada mesa que volcar dentro de la tetería. Lleva a Snell, debería poder ayudarte."
+SessionNotes_Message_8,,"Te has despertado en una morgue. Te has buscado un goblin de acompañante. Se suponía que esto era un trabajo sencillo: averiguar por qué explotó la tetería local. Y ahora estás aquí parado, con la imagen flotando en el fondo de tu mente: <i>un elfo muerto</i>. Ya es bastante raro ver a un elfo <i>vivo</i>."
+SessionNotes_Message_8a,,Luego está ese extraño asesino enmascarado. No tienes NI IDEA de quién te la tiene jurada. Pero alguien sí.
+SessionNotes_Message_8b,,"Además, también tienes que localizar al dueño. Por lo que has oído sobre este tipo, puede que ya haya abandonado la ciudad. Aunque quizás con suerte lo pilles antes de que se suba al siguiente barco allá abajo en Callejón del Agua."
+SessionNotes_Message_8c,,"Además, también encontraste al dueño. Ese pájaro intentaba <i>enviarse a sí mismo</i> al otro lado de la Costa. Por suerte llegaste a él antes de que su caja desapareciera."
+SessionNotes_Message_8d,,"Tal como están las cosas, solo queda un lugar donde buscar: <i>La Ciudad de Abajo</i>. Tu testigo estrella, ese tal <i>Frank hijo de Frank</i>, parece haber ido hacia allá. Es hora de seguirle el rastro, hacia las profundidades de La Ciudad de Abajo..."
+SessionNotes_Message_8e,,"Y por último, has descendido directamente a la Ciudad de Abajo. Pasillos esotéricos llenos de trampas. Secretos a cada vuelta. Monstruos que <i>trepan</i> desde las profundidades.
+
+Algo dentro de ti lo sabe: alguien o <i>algo</i> intenta impedirte descubrir la verdad. Tienes que seguir buscando. Registra cada rincón. Habla con cada persona. Indaga en la mierda política de arriba y en la locura esotérica de abajo. Con el tiempo encontrarás el camino..."
+SessionNotes_Message_8f,,"Y por último, has descendido directamente a la Ciudad de Abajo. Pasillos esotéricos llenos de trampas. Secretos a cada vuelta. Monstruos que <i>trepan</i> desde las profundidades.
+
+Alguien o <i>algo</i> intenta impedirte descubrir la verdad. Y ahora lo has encontrado: un pasaje secreto que conduce muy, muy abajo hacia las tierras salvajes de la Costa Subterránea. Registra cada rincón. Habla con cada persona. Indaga en la mierda política de arriba y en la locura esotérica de abajo. Con el tiempo encontrarás el camino..."
+SessionNotes_Message_9,,"Un clérigo en misión. Una misión esotérica, para resolver el misterio de la tetería que explotó. ¡Ese eres tú! Es hora de salir: explora las calles, los túneles y las torres de la ciudad."
+PCBackground_PunchingBag_name,,Saco de boxeo
+PCBackground_PunchingBag_desc,OBJ,"Eres hijo de un granjero que creció en la ciudad. Claro que ibas a ser un marginado. Costó tiempo, pero al final aprendiste a sobrellevarlo."
+PCBackground_PunchingBag_date,,"1 de Chronus, 6 PE"
+PCBackground_Trollkiller_name,,Matatrolls
+PCBackground_Trollkiller_desc,OBJ,"No lo recuerdas, pero conoces bien cómo murió tu padre. A veces te motivaba. A veces se sentía imposible estar a su altura."
+PCBackground_Trollkiller_date,,"14 de Felteni, 7 PE"
+PCBackground_KioskKid_name,,Chico del quiosco
+PCBackground_KioskKid_desc,OBJ,"Tu madre no estaba mucho por casa, así que para mantenerte alejado de los problemas te obligó a buscar un trabajo extraescolar. Aún desprecias el olor de los periódicos."
+PCBackground_KioskKid_date,,"22 de Gorgoni, 10 PE"
+PCBackground_LoreEnthusiast_name,,Entusiasta del lore
+PCBackground_LoreEnthusiast_desc,OBJ,"Pasando el tiempo solo por la ciudad, acababas a menudo en la Biblioteca Darrowiana. La extraña historia del Reino de Jor fue una compañera constante para ti."
+PCBackground_LoreEnthusiast_date,,11 PE
+PCBackground_CrowdPleaser_name,,El favorito del público
+PCBackground_CrowdPleaser_desc,OBJ,"Inevitablemente, acabaste con la gente equivocada. Aprendiste el argot y la terminología radical a toda velocidad — dispuesto a lo que fuera con tal de tener amigos de verdad."
+PCBackground_CrowdPleaser_date,,"11 EP, 12 EP, 13 EP"
+PCBackground_LittleWeirdo_name,,Pequeño bicho raro
+PCBackground_LittleWeirdo_desc,OBJ,"Eras una novedad para ellos. El chico que haría o diría cualquier cosa por llamar su atención. <i>Por ganarse su aprobación</i>. Después de dos años más o menos, se te daba bastante bien."
+PCBackground_LittleWeirdo_date,,13 PE
+PCBackground_AzgalistActivist_name,,Activista azgalista
+PCBackground_AzgalistActivist_desc,OBJ,"Tus «amigos» pronto te introdujeron en las entrañas rebeldes de Norvik. De adolescente, pasaste años sembrando el caos — y algo peor: <i>propaganda enana</i>."
+PCBackground_AzgalistActivist_date,,"19 de Chronus, 15 PE"
+PCBackground_UrthguardRecruit_name,,Recluta de la Guardia de Urth
+PCBackground_UrthguardRecruit_desc,OBJ,"Tras tu arresto, no hubo mucho que discutir. Tres agotadores años de instrucción, adoctrinado en el código de la ciudad y sus virtudes. Pero sobreviviste."
+PCBackground_UrthguardRecruit_date,,"3 de Ingarmi, 17 PE"
+PCBackground_OneFriend_name,,Un amigo
+PCBackground_OneFriend_desc,OBJ,"En realidad solo rezaste por una cosa durante aquellos años de soledad. Pero los dioses no respondieron. Así que aprendiste a apañarte, como siempre."
+PCBackground_OneFriend_date,,18 PE
+PCBackground_Acolyte_name,,Acólito
+PCBackground_Acolyte_desc,OBJ,"Tu habilidad para el escribanato te valió un ascenso a las funciones clericales. Seleccionado entre las filas, demostraste pronto una profunda devoción por tu ciudad divina."
+PCBackground_Acolyte_date,,"19 EP, 20 EP"
+PCBackground_TowerApprentice_name,,Aprendiz de la Torre
+PCBackground_TowerApprentice_desc,OBJ,"Unirse a las Torres es un honor que se concede a pocos. También es un desafío terrible, incluso para ti. ¿Quién iba a pensar que las clases agotaban tanto?"
+PCBackground_TowerApprentice_date,,"21 de Soumil, 21 EP"
+PCBackground_ArcaneProdigy_name,,Prodigio arcano
+PCBackground_ArcaneProdigy_desc,OBJ,"Por primera vez en tu vida, se te daba de forma natural. Siempre supiste algún que otro truco, pero la magia de verdad era otra cosa. Era <i>poder</i>."
+PCBackground_ArcaneProdigy_date,,22 PE
+PCBackground_PalacePawn_name,,Peón del Palacio
+PCBackground_PalacePawn_desc,OBJ,"Como talento en alza, a menudo te veías en medio de las intrigas de tus superiores, pese a tus esfuerzos por evitarlo. Nunca terminaba bien para ti."
+PCBackground_PalacePawn_date,,"9 de Beltan, 22 PE"
+PCBackground_FaithfulHarbinger_name,,Heraldo fiel
+PCBackground_FaithfulHarbinger_desc,OBJ,Algo va mal. Rezar a un dios muerto cuyos susurros aún flotan en el aire... desvaneciéndose poco a poco. Estás aislado entre tus iguales.
+PCBackground_FaithfulHarbinger_date,,???
+PCBackground_EsotericExpert_name,,Experto esotérico
+PCBackground_EsotericExpert_desc,OBJ,"Pasabas la mayoría de las noches buscando revelaciones esotéricas. Una vida solitaria. Tus hallazgos no eran bienvenidos por quienes mandaban, pero no te detuviste. Nunca."
+PCBackground_EsotericExpert_date,,"30 de Eltre, 25 PE"
+PCBackground_RevolutionaryScribe_name,,Escriba revolucionario
+PCBackground_RevolutionaryScribe_desc,OBJ,Desilusión. Una ciudad con ideales que no se cumplen. Un día elegiste un bando: la democracia emergente. Escribiste día y noche. Por <i>el cambio y la gloria</i>.
+PCBackground_RevolutionaryScribe_date,,"3 de marzo, 26 PE"
+PCBackground_AbjectApostate_name,,Apóstata abyecto
+PCBackground_AbjectApostate_desc,OBJ,"No le caes bien a nadie. Cuando te degradaron por negligencia, nadie alzó la voz en tu contra. Pero no pasa nada. Estarás bien. Al fin y al cabo, ya estás acostumbrado."
+PCBackground_AbjectApostate_date,,"23 de Chronus, 26 PE"
+PCBackground_DeadCleric_name,,Clérigo muerto
+PCBackground_DeadCleric_desc,OBJ,Crecer solo. Meterte en líos. Entrenar con la Guardia de Urth. Dedicar tu vida y convertirte en Clérigo. ¿Siempre estuvo destinado a acabar en el <i>Río</i>?
+PCBackground_DeadCleric_date,,"25 de marzo, 27 PE"
+AbilityScoreInfo_Strength_LoreQuote,STR,"<i>""Todo pastor conoce la canción. Resuena río arriba. Urth vive en ese trozo de tierra.""
+</i>
+-El Lamento de Torna, oración popular"
+AbilityScoreInfo_Strength_LoreDesc,STR,"<b><color=#FF3959>FUERZA</color></b> mide tu vigor físico natural junto con una mentalidad impulsada por la testosterona. Como hombre, es tu deber perfeccionar tu figura y sus capacidades. Pero ¿por qué?
+
+La búsqueda de significado es tan vital como el esfuerzo hacia la competencia. Por suerte, ya conoces tu causa. 
+
+<b>Proteger a los inocentes</b>. Guiar a los débiles. Sacrificarse hasta que solo queden tus huesos en el pavimento. Literalmente <b>morir</b>."
+AbilityScoreInfo_Strength_LoreFootNote,STR,Conviértete en un <b>FANÁTICO</b>. Recupera tu honor. Emprende tu <b><size=33>MISIÓN DIVINA</b>.
+AbilityScoreInfo_Strength_LoreNotice,,La visión particular del Clérigo sobre la Fuerza.
+AbilityScoreInfo_Strength_RoleHigh_Title,,Un Clérigo con Fuerza alta...
+AbilityScoreInfo_Strength_RoleHigh_Point1,,Votos para el Partido de Norvik.
+AbilityScoreInfo_Strength_RoleHigh_Point2,,Reza a su dios muerto.
+AbilityScoreInfo_Strength_RoleHigh_Point3,,Usa la fuerza bruta en los puzzles.
+AbilityScoreInfo_Strength_RoleHigh_Point4,,Parte la cara a los grandes y malvados villanos.
+AbilityScoreInfo_Strength_RoleHigh_Point5,,Quiere convertirse en un auténtico héroe humano.
+AbilityScoreInfo_Strength_RoleHigh_Point6,,Le encantan las misiones.
+AbilityScoreInfo_Strength_RoleHigh_Point7,,Así de simple.
+AbilityScoreInfo_Strength_RoleLow_Title,,Un Clérigo con Fuerza baja...
+AbilityScoreInfo_Strength_RoleLow_Point1,,Se arrodilla ante cualquiera más fuerte.
+AbilityScoreInfo_Strength_RoleLow_Point2,,Se arrodilla ante cualquiera más fuerte.
+AbilityScoreInfo_Strength_RoleLow_Point3,,No puede con el cachondeo.
+AbilityScoreInfo_Strength_RoleLow_Point4,,Se rinde cuando las cosas se ponen difíciles.
+AbilityScoreInfo_Strength_RoleLow_Point5,,Le dan miedo las mujeres.
+AbilityScoreInfo_Strength_RoleLow_Point6,,Le importan poco las misiones.
+AbilityScoreInfo_Strength_RoleNotice,,Cómo afecta la Fuerza al Clérigo.
+AbilityScoreInfo_Strength_Uses1,,"<size=38>Más Fuerza</size>
+te permite llevar 
+<size=45>OBJETOS EXTRA"
+AbilityScoreInfo_Strength_Uses2,,Sé violento y/o varonil <size=33>Útil en Encuentros
+AbilityScoreInfo_Strength_Uses3,,Fervor Religioso & <size=63>Nacionalismo <size=50>Estético
+AbilityScoreInfo_Strength_Uses4,,"Virilidad
+Aumentada"
+AbilityScoreInfo_Strength_UsesNotice,,Beneficios mecánicos de Fuerza
+AbilityScoreInfo_Wisdom_LoreQuote,WIS,"<i>«Los grandes se desmoronan bajo su propio peso. Los místicos flaquean en el momento decisivo. Los pequeños están a la altura de las circunstancias.»</i>
+- Poema de Halfweed"
+AbilityScoreInfo_Wisdom_LoreDesc,WIS,"<b><color=#63CD5E>SABIDURÍA</color></b> mide tu conciencia, intuición y capacidad para entender el mundo que te rodea. Para sentirlo. Puede que no sepas por qué, pero cruzar la mirada con otra persona te concede un vínculo empático con ella, con sus deseos y miedos, sus sueños y esperanzas. Puedes leer a la gente, para bien o para mal, y captar detalles que otros pasarían por alto."
+AbilityScoreInfo_Wisdom_LoreFootNote,WIS,"Es tu <b>FE</b> en el corazón de toda la gente. Dar y compartir lo que tienes, y ser total y absolutamente <b>DESINTERESADO</b>. Es el único camino verdadero hacia la redención. Solo los dioses saben con qué esfuerzo lo intentas."
+AbilityScoreInfo_Wisdom_LoreNotice,,La visión particular del Clérigo sobre la Sabiduría.
+AbilityScoreInfo_Wisdom_RoleHigh_Title,,Un Clérigo con Sabiduría elevada...
+AbilityScoreInfo_Wisdom_RoleHigh_Point1,,Votos para el Partido Obrero Azgalista
+AbilityScoreInfo_Wisdom_RoleHigh_Point2,,No odia nada (salvo las jerarquías).
+AbilityScoreInfo_Wisdom_RoleHigh_Point3,,Abraza su lado femenino.
+AbilityScoreInfo_Wisdom_RoleHigh_Point4,,Sigue los dictados de su corazón.
+AbilityScoreInfo_Wisdom_RoleHigh_Point5,,Domina la Magia Primordial.
+AbilityScoreInfo_Wisdom_RoleHigh_Point6,,Lee el lenguaje corporal como un campeón.
+AbilityScoreInfo_Wisdom_RoleHigh_Point7,,Se fija en TODOS los detalles.
+AbilityScoreInfo_Wisdom_RoleLow_Title,,Un Clérigo con Sabiduría baja...
+AbilityScoreInfo_Wisdom_RoleLow_Point1,,Es un memo despistado.
+AbilityScoreInfo_Wisdom_RoleLow_Point2,,Malinterpreta las señales constantemente.
+AbilityScoreInfo_Wisdom_RoleLow_Point3,,No piensa en las clases bajas.
+AbilityScoreInfo_Wisdom_RoleLow_Point4,,No «entiende» a la gente.
+AbilityScoreInfo_Wisdom_RoleLow_Point5,,No logra detectar trampas.
+AbilityScoreInfo_Wisdom_RoleLow_Point6,,"¿No sabe dónde está? O sea, ¿qué está pasando aquí? Estoy muy confundido, hay"
+AbilityScoreInfo_Wisdom_RoleNotice,,Cómo afecta la Sabiduría al Clérigo.
+AbilityScoreInfo_Wisdom_Uses1,,"Una Sabiduría más alta te permite
+<size=65>Potenciar</size>
+<size=42>tus Hechizos"
+AbilityScoreInfo_Wisdom_Uses2,,Sé amable y ve lo bueno en <size=77>Toda la Gente
+AbilityScoreInfo_Wisdom_Uses3,,Esperanza Igualitaria de la <size=73>Clase Obrera <size=43>Azgaliana
+AbilityScoreInfo_Wisdom_Uses4,,"No hay 
+grandes villanos malvados"
+AbilityScoreInfo_Wisdom_UsesNotice,,Beneficios mecánicos de Sabiduría
+AbilityScoreInfo_Intelligence_LoreQuote,INT,"<i>«Un diseño glorioso. Que lideren quienes aprenden. Por mérito de la capacidad y nada más.»</i>
+-Lord Fillius Prax, Autobiografía Prax"
+AbilityScoreInfo_Intelligence_LoreDesc,INT,"<b><color=#5782FD>INTELIGENCIA</color></b> mide tu capacidad para recordar, almacenar y procesar información. Es tu receptáculo lógico y tu calculadora. Es tu deber perfeccionar esa masa pulsante que tienes dentro del cráneo. Pero ¿por qué?"
+AbilityScoreInfo_Intelligence_LoreFootNote,INT,"Simple. <b>EGO</b> puro y sin adulterar. El conocimiento gobierna el mundo. Así que tú también liderarás a los débiles algún día. Lleva tu genio a las masas. Si no se postran, no te merecen. Lo sabes todo sobre <b>EL PASADO</b>, por lo tanto es completamente racional que también conozcas de verdad el futuro.
+
+<size=31><b>Ilumina a las masas ignorantes</b>."
+AbilityScoreInfo_Intelligence_LoreNotice,,La visión particular del Clérigo sobre la Inteligencia.
+AbilityScoreInfo_Intelligence_RoleHigh_Title,,Un Clérigo con Inteligencia alta...
+AbilityScoreInfo_Intelligence_RoleHigh_Point1,,Votos para el mejor mago (tú).
+AbilityScoreInfo_Intelligence_RoleHigh_Point2,,Desprecia y envidia a los dioses.
+AbilityScoreInfo_Intelligence_RoleHigh_Point3,,Resuelve todos los misterios con facilidad.
+AbilityScoreInfo_Intelligence_RoleHigh_Point4,,Domina la magia arcana.
+AbilityScoreInfo_Intelligence_RoleHigh_Point5,,Suelta datos históricos durante horas.
+AbilityScoreInfo_Intelligence_RoleHigh_Point6,,Desprecia a quienes considera inferiores.
+AbilityScoreInfo_Intelligence_RoleHigh_Point7,,Lo sabe todo.
+AbilityScoreInfo_Intelligence_RoleLow_Title,,Un Clérigo con Inteligencia baja...
+AbilityScoreInfo_Intelligence_RoleLow_Point1,,No sabe nada.
+AbilityScoreInfo_Intelligence_RoleLow_Point2,,Es ignorante y seguro de sí mismo a la vez. Mala combinación.
+AbilityScoreInfo_Intelligence_RoleLow_Point3,,Inventa datos para parecer listo.
+AbilityScoreInfo_Intelligence_RoleLow_Point4,,Apenas tiene consciencia.
+AbilityScoreInfo_Intelligence_RoleLow_Point5,,"Incapaz, intencionadamente, de resolver misterios."
+AbilityScoreInfo_Intelligence_RoleLow_Point6,,Es un idiota. Qué novedad.
+AbilityScoreInfo_Intelligence_RoleNotice,,Cómo afecta la Inteligencia al Clérigo.
+AbilityScoreInfo_Intelligence_Uses1,,"Más Inteligencia te permite
+<size=65>Preparar</size> 
+<size=42>Más Hechizos"
+AbilityScoreInfo_Intelligence_Uses2,,"Pensar, Planear y Ejecutar <size=42>Un Plan de Verdad"
+AbilityScoreInfo_Intelligence_Uses3,,Completa el Retvrno Magocrático <size=35>Vota por Ti Mismo
+AbilityScoreInfo_Intelligence_Uses4,,Ser un genio sin igual
+AbilityScoreInfo_Intelligence_UsesNotice,,Beneficios mecánicos de la Inteligencia.
+AbilityScoreInfo_Dexterity_LoreQuote,DEX,"<i>«Es imperativo explicarle simplemente a esta gente que tiene derecho a elegir. La fe en uno mismo es justa. La riqueza se construye desde dentro.»</i>
+-Meriadoc Guardaluna, Sights Beyond Los Cañaverales"
+AbilityScoreInfo_Dexterity_LoreDesc,DEX,"<b><color=#F8FF5D>DESTREZA</color></b> mide la reactividad natural, el equilibrio y el aplomo. La rapidez con la que sueltas un comentario ingenioso, o detectas una mirada nerviosa. Y, por supuesto, tu capacidad para esquivar con gracia las consecuencias de tus actos. ¡Todo es cuestión de riesgo frente a recompensa!"
+AbilityScoreInfo_Dexterity_LoreFootNote,DEX,"Es esa sensación de <b>AUTOPRESERVACIÓN</b> cuando todo se derrumba a tu alrededor. Agarrar cuanto puedas mientras puedas agarrarlo. Avanzar hacia un futuro nuevo, lleno de <b>LIBERTAD</b>, para que quienes se cuidan a sí mismos puedan prosperar y sobrevivir."
+AbilityScoreInfo_Dexterity_LoreNotice,,La visión particular del Clérigo sobre la Destreza.
+AbilityScoreInfo_Dexterity_RoleHigh_Title,,Un Clérigo con Destreza elevada...
+AbilityScoreInfo_Dexterity_RoleHigh_Point1,,Votos para los Caminantes Libres Revolucionarios.
+AbilityScoreInfo_Dexterity_RoleHigh_Point2,,Colecciona montones de monedas relucientes.
+AbilityScoreInfo_Dexterity_RoleHigh_Point3,,Actúa primero en cada Encuentro.
+AbilityScoreInfo_Dexterity_RoleHigh_Point4,,Evita los problemas antes de que surjan.
+AbilityScoreInfo_Dexterity_RoleHigh_Point5,,Siempre tiene una respuesta ingeniosa.
+AbilityScoreInfo_Dexterity_RoleHigh_Point6,,Vela por sí mismo.
+AbilityScoreInfo_Dexterity_RoleHigh_Point7,,Asume grandes riesgos y gana siempre.
+AbilityScoreInfo_Dexterity_RoleLow_Title,,Un Clérigo con Destreza baja...
+AbilityScoreInfo_Dexterity_RoleLow_Point1,,Asume grandes riesgos y fracasa siempre.
+AbilityScoreInfo_Dexterity_RoleLow_Point2,,No se da cuenta de nada a tiempo.
+AbilityScoreInfo_Dexterity_RoleLow_Point3,,Tropieza con sus propios pies.
+AbilityScoreInfo_Dexterity_RoleLow_Point4,,La caga. Literal y figuradamente.
+AbilityScoreInfo_Dexterity_RoleLow_Point5,,Es lento. Mental y físicamente.
+AbilityScoreInfo_Dexterity_RoleLow_Point6,,Es muy pobre. Bastante vergonzoso.
+AbilityScoreInfo_Dexterity_RoleNotice,,Cómo afecta la Destreza al Clérigo.
+AbilityScoreInfo_Dexterity_Uses1,,"Con suficiente Destreza, puedes 
+<size=33>ROBAR CUALQUIER COSA."
+AbilityScoreInfo_Dexterity_Uses2,,"Forzar cerraduras y sigilo y esquivar trampas y tirar iniciativa y reaccionar con rapidez 
+<size=35> como un Pícaro Audaz"
+AbilityScoreInfo_Dexterity_Uses3,,Hazte Rico como un <size=55>Revolucionario <size=41>Republicano
+AbilityScoreInfo_Dexterity_Uses4,,"Sal Corriendo, Bobo"
+AbilityScoreInfo_Dexterity_UsesNotice,,Beneficios mecánicos de Destreza
+AbilityScoreInfo_Constitution_LoreQuote,CON,"<i>""Escucha siempre a tu estómago hambriento.""
+</i>
+-Los Hedonistas, Un Manifiesto Ciego"
+AbilityScoreInfo_Constitution_LoreDesc,CON,"<b><color=#C3863F>CONSTITUCIÓN</color></b> mide tu resistencia natural, tanto mental como física. Es cuánto aguantas antes de caer. El mundo es duro e implacable. Te machacará hasta dejarte hecho papilla con palabras y palos."
+AbilityScoreInfo_Constitution_LoreFootNote,CON,"Así que escucha a tus tripas — el instinto que se activa cuando estás al borde del abismo. Es la voz que no dice más que <b>VERDAD CORPORAL</b>. Cada decisión que tomas, cada emoción que acumulas, puede rastrearse hasta la parte más baja de ese estómago tuyo.
+
+Síguelo. Conserva la <b>MORTALIDAD</b> de la lógica carnal. Simple. Sencillo. <b>VERDADERO</b>."
+AbilityScoreInfo_Constitution_LoreNotice,,La visión particular del Clérigo sobre la Constitución.
+AbilityScoreInfo_Constitution_RoleHigh_Title,,Un Clérigo con Constitución alta...
+AbilityScoreInfo_Constitution_RoleHigh_Point1,,Sigue olvidando que hay elecciones.
+AbilityScoreInfo_Constitution_RoleHigh_Point2,,Se centra en las cosas buenas de la vida.
+AbilityScoreInfo_Constitution_RoleHigh_Point3,,Es más duro que la entropía.
+AbilityScoreInfo_Constitution_RoleHigh_Point4,,Mantiene su neuroticismo bajo control.
+AbilityScoreInfo_Constitution_RoleHigh_Point5,,Habla con los espíritus de las paredes.
+AbilityScoreInfo_Constitution_RoleHigh_Point6,,Escucha sus tripas.
+AbilityScoreInfo_Constitution_RoleHigh_Point7,,Ya está muerto.
+AbilityScoreInfo_Constitution_RoleLow_Title,,Un Clérigo con Constitución baja...
+AbilityScoreInfo_Constitution_RoleLow_Point1,,Morirá.
+AbilityScoreInfo_Constitution_RoleLow_Point2,,Se entra en pánico por todo.
+AbilityScoreInfo_Constitution_RoleLow_Point3,,"Escucha sus tripas, y se equivoca."
+AbilityScoreInfo_Constitution_RoleLow_Point4,,No controla sus funciones corporales.
+AbilityScoreInfo_Constitution_RoleLow_Point5,,No puede con el dolor.
+AbilityScoreInfo_Constitution_RoleLow_Point6,,<b>NO</b> tiene ninguna relación especial con las paredes.
+AbilityScoreInfo_Constitution_RoleNotice,,Cómo afecta la Constitución al Clérigo.
+AbilityScoreInfo_Constitution_Uses1,,"La Constitución
+es necesaria para
+<size=52> los Puntos de Vida"
+AbilityScoreInfo_Constitution_Uses2,,Controla tu cuerpo y su <size=33>Conexión Esotérica
+AbilityScoreInfo_Constitution_Uses3,,"Tu partido político obtuvo un 2% en las encuestas la semana pasada y 
+<size=43>No te importa"
+AbilityScoreInfo_Constitution_Uses4,,El dolor te hace bien
+AbilityScoreInfo_Constitution_UsesNotice,,Beneficios mecánicos de Constitución
+AbilityScoreInfo_Charisma_LoreQuote,CHA,"<i>""Quienes creen en la democracia tienen una visión maravillosa de la gente: pensar que es capaz de tomar decisiones racionales e informadas, libres de prejuicios personales y de arrebatos emocionales. Es, francamente, inspirador.""</i>
+-Nicholas Darrow, Memorias de un estadista"
+AbilityScoreInfo_Charisma_LoreDesc,CHA,"<b><color=#CF5DCB>EL CARISMA</color></b> mide tu elocuencia, confianza y capacidad para manejarte en cualquier situación social. En pocas palabras, es la fuerza de tu desaliñada personalidad. Pero ellos no tienen por qué saberlo."
+AbilityScoreInfo_Charisma_LoreFootNote,CHA,"Usa tu labia para llegar a donde quieras. Puedes afiliarte a cualquier facción o corriente de pensamiento conocida. La realidad se moldea a tu voluntad. Como un camaleón, conviértete en un <b>OPERADOR SOCIAL</b>. Conviértete en lo que necesites para que todo el mundo te <b>QUIERA</b> de una vez."
+AbilityScoreInfo_Charisma_LoreNotice,,La visión particular del Clérigo sobre el Carisma.
+AbilityScoreInfo_Charisma_RoleHigh_Title,,Un Clérigo con Carisma alto...
+AbilityScoreInfo_Charisma_RoleHigh_Point1,,Votos para lo que le haga popular.
+AbilityScoreInfo_Charisma_RoleHigh_Point2,,Le socializaron de niño.
+AbilityScoreInfo_Charisma_RoleHigh_Point3,,Sabe qué decir para ganarse favores.
+AbilityScoreInfo_Charisma_RoleHigh_Point4,,Puede flirtear con algunos enemigos.
+AbilityScoreInfo_Charisma_RoleHigh_Point5,,Le encanta controlar mentalmente a la gente.
+AbilityScoreInfo_Charisma_RoleHigh_Point6,,Ve la verdad como una sugerencia.
+AbilityScoreInfo_Charisma_RoleHigh_Point7,,No tiene alma.
+AbilityScoreInfo_Charisma_RoleLow_Title,,Un Clérigo con Carisma bajo...
+AbilityScoreInfo_Charisma_RoleLow_Point1,,No resulta muy simpático.
+AbilityScoreInfo_Charisma_RoleLow_Point2,,No sabe cómo comportarse con la gente.
+AbilityScoreInfo_Charisma_RoleLow_Point3,,Tropieza con los malos.
+AbilityScoreInfo_Charisma_RoleLow_Point4,,Le aterran las conversaciones.
+AbilityScoreInfo_Charisma_RoleLow_Point5,,"Es, digamos, lo contrario de un orador habilidoso."
+AbilityScoreInfo_Charisma_RoleLow_Point6,,No tiene estilo.
+AbilityScoreInfo_Charisma_RoleNotice,,Cómo afecta el Carisma al Clérigo.
+AbilityScoreInfo_Charisma_Uses1,,"<size=30>Con Carisma alto</size>
+obtienes automáticamente un
+<size=56>DESCUENTO</size>
+<size=24>en tiendas seleccionadas cerca de ti"
+AbilityScoreInfo_Charisma_Uses2,,"Gana cada conversación
+<size=22>Di <size=40>Lo Correcto"
+AbilityScoreInfo_Charisma_Uses3,,"Di lo que sea para caerle bien a la gente y conviértete en una <size=63>Fuerza de la Naturaleza</size>
+<size=40>Apolítica"
+AbilityScoreInfo_Charisma_Uses4,,Ser discutiblemente sociópata
+AbilityScoreInfo_Charisma_UsesNotice,,Beneficios mecánicos del Carisma.
+Death_SavingThrows,,Tiradas de salvación contra la muerte
+Death_ReturnToMenu,,Volver al Menú
+BadEnding_Normal_1,,El Clérigo ha muerto.
+BadEnding_Normal_2,,El Hilo está Cortado
+BadEnding_Genocide_1,,El Clérigo <color=#e93c3c>Rojo</color>
+BadEnding_Genocide_2,,"La leyenda se extendió rápido por toda la Costa. Una ciudad cubierta por un velo rojo: nieblas de sangre y terror. El Clérigo Rojo forjado en fuego esotérico, invocando la apertura de la PUERTA. 
+
+<i>Muerte leal el Día del Sufragio</i>.
+
+Esta refriega alberga muchos relatos. Un horror Norvikiano. El regreso de Urth. Una temprana Guerra de los Dioses Caminantes... pero nada de eso mejora nuestras posibilidades. Busca en otro lugar, mi Llama Ignorante. Con el tiempo, serás recompensado."
+BadEnding_Snell_1,,¿Qué haría un amigo?
+BadEnding_Snell_2,,...
+BadEnding_Donjon_1,,Celda
+BadEnding_Donjon_2,,"El mundo es joven. Apenas media miriada después, el Clérigo vivirá solo el resto de él. Esta refriega lo llevará a campos de batalla de tierras rotas, donde las personas se detienen y vuelven a comenzar. Él será quien presencie la Era Final. Una maldición. Una leyenda. El Último Humano de Jor.
+
+Demasiado lejos, ay. Vuelve atrás."
+BadEnding_Death_1,,Aceptación de la Muerte
+BadEnding_Death_2,,"Es calma. Es frío. Es nada.
+
+No. Al Clérigo no le gusta esta refriega, a pesar de su promesa de paz. Sea lo que sea lo que sigas a continuación, seguro que toma mejores decisiones."
+BadEnding_Lose_1,,Tentar al Destino y Perder
+BadEnding_Lose_2,,"Es el curso natural de las cosas. No seas tan arrogante como para creer que sabes algo sobre el estado del mundo, porque el mundo es mucho más vasto de lo que este Hilo jamás mostrará.
+
+Aunque el Clérigo no siente más que un leve resquemor por su pésima última decisión."
+BadEnding_Gel_1,,Solo.
+BadEnding_Gel_2,,"Es una desgracia, esta vida solitaria. Aunque muchos cargamos con el peso del talento y de tanto <i>gran poder natural</i>, cuando llega el frío del invierno y el camino se vuelve cada vez más áspero, es el animal de la manada el que logra llegar a la primavera.
+
+Un hombre sin hermanos no es más que un montón de huesos en el camino."
+BadEnding_Finger_1,,Resucitado como Esclavo
+BadEnding_Finger_2,,El trabajo es el trabajo. ¿Qué le importa al esfuerzo la vida?
+BadEnding_Books_1,,Convertirse en historia
+BadEnding_Books_2,,"No es un intercambio equitativo. Sin embargo, su conciencia colectiva podría albergar algún pequeño grano de crecimiento en esta biblioteca eterna y perpetua. Al fin y al cabo, eso es lo que el Clérigo se pregunta mientras el contenido de su cráneo se convierte en ceniza legendaria."
+BadEnding_Roper_1,,Devorado por un Roper
+BadEnding_Roper_2,,"En cierto sentido, es algo natural. Si no hubiera sido una aberración, quizás no resultaría tan repugnante convertirse en <i>alimento</i>. 
+
+Mientras miles de dientes se cierran sobre su cadáver, los últimos pensamientos del Clérigo son para su padre. ¿Así fue como se sintió él también, cuando su cuerpo se desmoronó bajo el peso de un monstruo de Askanii?"
+BadEnding_Gorm_1,,Decapitación Instantánea
+BadEnding_Gorm_2,,"En sus últimos momentos, el Clérigo debió de pensar en todos los otros caminos que podría haber tomado. Si hubiera luchado con más ahínco, si hubiera dado pasos más sabios...
+
+Si hubiera encontrado más amigos."
+BadEnding_Skeleton_1,,Muerte por esqueleto
+BadEnding_Skeleton_2,,El Clérigo murió como todo buen Clérigo debería: en combate contra los no-muertos. Quizás algún día se les una...
+BadEnding_Tinn_1,,Un Mephit de Humo se cuela en tu armadura y te quema desde dentro.
+BadEnding_Tinn_2,,"Cuando el Hilo se corta, tienes la clara sensación de que la muerte del Clérigo quedará barrida bajo esa alfombra tan elegante."
+BadEnding_Well_1,,El Clérigo ha caído.
+BadEnding_Well_2,,Al fondo de un pozo
+BadEnding_Well_3,,(20d6 de daño por caída)
+BadEnding_Assassin_1,,La magia warlockiana exprime tus órganos hasta convertirlos en una fina niebla.
+BadEnding_Assassin_2,,Qué ignominia caer tan bajo en combate. Luchó con tanta dureza y sin embargo esta contienda termina de manera tan miserable. Qué terrible.
+BadEnding_IOM_1,,Tu cuerpo es consumido por alguna maldición ancestral.
+BadEnding_IOM_2,,"Mueres antes de llegar siquiera al Giro Gravitacional.
+
+<i>Lugal-me-en.</i>"
+BadEnding_Gourgalash_1,,El Gran Líder Gourgalash te arranca la cabeza de un mordisco.
+BadEnding_Gourgalash_2,,"Una criatura de otra Era. Para derrotar a este trol, el clérigo necesitaría mucho más poder. O ayuda.
+
+O quizás simplemente mucha más suerte."
+BadEnding_Filuur_1,,el clérigo se ha ganado la enemistad de la <size=200>GÁRGOLA EQUIVOCADA
+BadEnding_Filuur_2,,"¿Fue mala suerte, o lo llevó demasiado lejos?"
+BadEnding_SoloAss_1,,El Clérigo murió en ese húmedo pasaje. Su sangre se filtraba entre el musgo.
+BadEnding_SoloAss_2,,"No debería haber incursionado tan hondo — solo.
+Quizá algún día sus rezos sean escuchados."
+BadEnding_Exhaustion_1,,"El agotamiento alcanza al Clérigo. Cae, como todo cae con el tiempo."
+BadEnding_Exhaustion_2,,Debería irse a la cama un poco antes. Seguir despierto pasadas las 06:00 es peligroso para la salud.
+LevelUp_LevelReached,,Nivel {0} alcanzado
+LevelUp_HitPoints,,Puntos de Vida {0}
+LevelUp_HitDice,,Dado de Golpe +1
+LevelUp_FirstSpellSlots,,Ranuras de conjuro de nivel 1 +{0}
+LevelUp_SecondSpellSlots,,Ranuras de conjuro de nivel 2 +{0}
+LevelUp_ThirdSpellSlots,,Ranuras de conjuro de nivel 3 +{0}
+LevelUp_AbilityScore,,Puntuación de Atributo +1
+PreBuild_PrimalCleric_Title,,Clérigo Primigenio
+PreBuild_TricksterCleric_Title,,Clérigo Embaucador
+PreBuild_ScholarCleric_Title,,Clérigo erudito
+PreBuild_BeefyCleric_Title,,Clérigo fornido
+PreBuild_UnstableCleric_Title,,Clérigo Inestable
+PreBuild_PrimalCleric_Desc,,¿Cuál es la naturaleza de un hombre?
+PreBuild_TricksterCleric_Desc,,No te guardes las manos para ti.
+PreBuild_ScholarCleric_Desc,,"Un solitario, un pensador, un hombre de ideas."
+PreBuild_BeefyCleric_Desc,,"Sí. Más manzanas, Chico de las Manzanas."
+PreBuild_UnstableCleric_Desc,,Deberían postrarse ante tu EGO.

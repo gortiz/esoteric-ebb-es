@@ -1,0 +1,403 @@
+ID,Speaker,ES
+BG_AKZEL_5,,Arqueólogo
+BG_ALFOZ_3,,Capataz
+BG_ARN_1,,Niño trabajador
+BG_AVIK_1,,Proletario
+BG_BOND_15,,Semiliche
+BG_BORGO_13,,Paladín
+BG_BRAXO_2,,Escriba
+BG_BRR_4,,Explorador
+BG_CHAMAR_2,,Clérigo
+BG_DARROW_3,,Lord del Dinero
+BG_CRATE_1,,Emprendedor
+BG_ETTIR_10,,Ángel
+BG_EVER_18,,Trifler
+BG_FREY_5,,Noble
+BG_GORM_12,,Paladín
+BG_GOUR_9,,Trol de hielo
+BG_ISK_16,,Mago
+BG_IVCX_15,,Solar en descomposición
+BG_JEHANNE_1,,Obrera de fábrica
+BG_KRAAID_11,,Bárbaro
+BG_KULL_7,,Carcelero
+BG_LISA_6,,Brujilla
+BG_MASKED_5,,Asesino
+BG_MERI_6,,Escritor
+BG_MISKA_17,,Jefe
+BG_MODISSA_2,,Escritora
+BG_MOONGORE_3,,Guerrero
+BG_NEARLY_1,,Bardo
+BG_NESSAN_6,,Druida
+BG_OLZIS_14,,Ginoesfinge
+BG_OST_9,,Pícaro
+BG_OYU_2,,Empresario
+BG_PINJA_2,,Hechicero
+BG_RAZZ_8,,Pícaro
+BG_RIX_3,,Empresario
+BG_ROLLO_1,,Desempleado
+BG_SHEN_1,,Erudito
+BG_SIMII_2,,Obrero de fábrica
+BG_SMARTER_1,,Pícaro
+BG_SNELL_3,,Pícaro
+BG_SNURRE_4,,Erudito
+BG_STEN_1,,Desempleado
+BG_THAL_3,,Empresario
+BG_TOLI_1,,Desempleado
+BG_UNMASKED_5,,Brujo
+BG_URTH_20,,Clérigo
+BG_NISSE_1,,Desempleado
+BG_VIIRA_4,,Guerrero
+BG_VISKEN_17,,Empresario
+BG_XERBA_1,,Trabajador del sector servicios
+IP_AKZEL_5_DEX,DEX,"Ahí está: el cuarto pilar del sistema feudal. Espeleólogo, palista, vagabundo, <i>AVENTURERO</i> de pura cepa hasta la médula."
+IP_AKZEL_10,DEX,"A pesar de toda la mierda que ha visto, los ojos de Akzel siguen brillando ante la perspectiva del próximo hallazgo, la verdadera recompensa de la vida en el camino: el <i>tesoro</i>."
+IP_AKZEL_15,DEX,"Lo encontrará. Algún día, en algún momento. Pero no hoy. ¿Volverás a cruzarte con él? Venga, claro que sí."
+IP_AKZEL_20,DEX,"Su conocimiento de La Ciudad de Abajo no es palabrería. Tenle cerca. Si algún día te apetece explorar mazmorras por libre, te vendrá de perlas. En serio, ahí circula una pasta enorme."
+IP_ALFOZ_5_CON,CON,"Se juega las tripas por sus ideales, y poco más."
+IP_ALFOZ_10,CON,La determinación se gana su respeto. Así es él.
+IP_ALFOZ_15,CON,Alfoz sabe que nació con privilegios. Se odia por ello. Sus ideales chocan con su sangre.
+IP_ALFOZ_20,CON,"En el fondo, lucha por la gloria. La empatía no le enciende el corazón. Quiere ganarse la admiración y pasar a la LEYENDA."
+IP_ARN_5_DEX,DEX,El chaval curra como un animal. ¡Se gana el pan! Probablemente va al colegio voluntario los fines de semana.
+IP_ARN_10,DEX,Con esa actitud llegará lejos. Pero algo le ha metido un fuego serio bajo el culo.
+IP_ARN_15,DEX,Tipo nervioso. Superviviente. De los críos acostumbrados a apañárselas solos.
+IP_ARN_20,DEX,"Entiendes su miedo. El chaval no quiere acabar como su padre: olvidado por el tiempo, el espacio y la ciudad."
+IP_ARN_25,DEX,Está de duelo. Pero se mantiene entero por su hermano. Cada uno lo lleva a su manera. Arn crecerá y será un capitalista de primera.
+IP_AVIK_5_CON,CON,Un tío corriente. Gnomo. De estatura media. Centrado. Con los pies en el suelo. Fiel a sus sentimientos. Bastante listo. Tranquilo. <i>Majo</i>. Bueno con los animales. No hay mucho más que decir.
+IP_AVIK_12,CON,"Nacido de los Hilos del Destino: los tiranos fantasmales de la Era del Reflujo siguen cada uno de sus pasos con benevolencia. Por alguna razón muy, muy, muy extraña. Este gnomo, al recibir un objeto con un destino trazado, es capaz de generar automáticamente <shake>BIFURCACIONES</shake>. Caos. Locura. Una nueva oportunidad de tirar los dados."
+IP_AVIK_20,CON,Él <i>es</i> la clase obrera. Soldado azgalista fiel. Trabajador entregado. Precisamente esta clase de gente se merece un aumento: que el sueldo esté a la altura de su productividad.
+IP_BOND_2,CON,Semiliche.
+IP_BOND_8_INT,INT,"Un semiliche enloquecido. Su cordura se desmoronó hace varias décadas. Sin embargo, su comportamiento (y el simple hecho de que exista aquí en un estado relativamente estable) sugiere que o bien la locura no ha tomado el control del todo, o bien alguien vela por él. ¿Quizá ese tipo pálido de arriba?"
+IP_BOND_12,INT,"Sabes cómo contentarle. Su EGO es casi tan grande como pequeño es su cuerpo físico, y ansía sentirse superior. En el fondo no es mal maestro, si eres capaz de aguantar las humillaciones."
+IP_BOND_18,INT,"Este cráneo ha presenciado más eventos esotéricos, batallas históricas y cambios de orden mundial que incluso los mayores dragones de la Era del Reflujo. Mantente en buenos términos con él y tendrás una fuente de conocimiento extraordinaria, ahora y en el futuro."
+IP_BORGO_2_STR,STR,Este es un guerrero de verdad.
+IP_BORGO_9,STR,No está de servicio. Pero cualquier deuda que tenga pendiente es eterna.
+IP_BORGO_16,STR,"Este caballero oscuro podría partirte como una ramita. Pero no lo hará. Alguna orden le retiene, aunque ¿por qué no actúa contra ti?"
+IP_BORGO_21,STR,"No es un humano. Ni siquiera un ser corpóreo. Es un fantasma silencioso y a la vez aullante, esclavizado por la oscuridad de este reino. Hay algo indescriptiblemente valeroso en mantener la compostura en semejantes circunstancias."
+IP_BRAXO_6_STR,STR,Asombrosamente satisfecho con su vida. Un currante.
+IP_BRAXO_10,STR,"Tiene un interés arraigado en el régimen actual. Antes, a los diablos solo se les permitía entrar en la ciudad con visado de trabajo, así que bien pudo haber servido durante varias décadas."
+IP_BRAXO_15,STR,De algún modo simplemente lo sabes: este diablo organizaría con mucho gusto un genocidio masivo de los no-humanos de esta ciudad.
+IP_BRAXO_18,STR,No es un demonio corriente. Su porte y su posición insinúan un rango elevado en el pasado. ¿Un diablo superior? ¿Qué juego está jugando?
+IP_BRAXO_24,STR,Braxo. Trabaja para la cúpula del poder de la ciudad y sabe mucho más de lo que jamás llegarás a escuchar. Su aspecto diminuto es solo una conveniencia. Mantenlo como aliado. Te será útil.
+IP_BRR_2_WIS,WIS,<i>Brrrrr.</i>
+IP_BRR_4,WIS,Las vibraciones que emite son su lenguaje. Con magia se puede comunicar con él de forma mucho más efectiva.
+IP_BRR_12,WIS,Es un explorador de las grietas más profundas de la tierra. Una criatura destinada a vigilar los horrores de la furia glacial.
+IP_BRR_14,WIS,<i>Brrrrr</i>.
+IP_BRR_17,WIS,Quizás el futuro embajador de su pueblo. Trátalo con respeto.
+IP_CHAMAR_9_STR,STR,Seguidor de la Montaña Sagrada. Divinii Torum.
+IP_CHAMAR_12,STR,Te odia. Únicamente por tu origen. O quizás hay algo más...
+IP_CHAMAR_19,STR,"Ah. Claro. No es a ti a quien odia. Se odia a sí misma. A su mitad humana. A la parte que la sitúa por debajo de sus magníficos señores celestiales dorados. Si pudiera amputarse esa humanidad, lo haría en ese mismo instante, con tal de tener una ínfima oportunidad de escuchar el coro."
+IP_CHAMAR_23,STR,"Bajo la máscara de servidora devota se esconde otra capa: la intriga. Sí, esta mujer no tanto reverencia el poder como pretende arrancar de la jerarquía todo lo que pueda. Qué mujer tan interesante."
+IP_DARROW_5_CHA,CHA,Ahí está. El Lord Darrow de Norvik y Magistrado de Tolstad.
+IP_DARROW_10,CHA,"Esa sonrisa suya es, por supuesto, una máscara. Un simulacro de expresión perfeccionado durante veinte años en el cargo. Es un experto en su oficio, y su oficio es la política."
+IP_DARROW_15,CHA,"Solo te respetará si le sirves con lealtad, como un perro... o si demuestras competencia e implacabilidad. No tiene tiempo para los necios. Pero un hombre de su posición no habría conservado el poder si no supiera reconocer el talento cuando este le ladra a la cara."
+IP_DARROW_20,CHA,"Heredó el cargo de su padre siendo joven. Nikolás lleva toda la vida en esto y lo hace bien. De los mejores. El único problema: si eres bueno como magistrado, también lo eres en toda una serie de sórdidos asuntos ilegales paralelos."
+IP_DRUMMER_2_DEX,DEX,"Una simple caja, ¿verdad? Pero ¿qué es ese golpeteo rítmico?"
+IP_DRUMMER_6,DEX,Vamos. El pájaro en realidad... el dueño de la tetería... él... no. ¿En serio?
+IP_DRUMMER_12,DEX,"Esto debe de ser el plan más ridículo, obtuso y rematadamente idiota que has presenciado en acción. Aunque sea uno de esos gente-pájaro capaces de pasar semanas sin comer ni beber."
+IP_DRUMMER_15,DEX,"Bien, escucha atentamente. El pájaro está en la caja y en cuanto la abras te espera un interrogatorio. Prepárate. Intentará escabullirse, pero no te preocupes. Simplemente sácale la verdad de verdad. Brusco o suave, da igual."
+IP_ETTIR_5_STR,STR,Fría. Implacable. Magnífica.
+IP_ETTIR_10,STR,Cumple órdenes. Esas mismas órdenes que otorgan una satisfacción eterna.
+IP_ETTIR_15,STR,"Hay una tristeza en su existencia. Alas rotas, atrapada entre criaturas inferiores. ¿Qué busca?"
+IP_ETTIR_20,STR,"Cuando un ángel cae, deja de existir. Se transforma. Esta criatura no busca redención ni liberación. Busca un propósito."
+IP_ETTIR_25,STR,"Ettir no debería estar aquí. Algo la retiene en la tierra. En Norvik. Y no es la esoterismo. En ningún sentido de la palabra.
+
+
+Debe de ser duro existir así. Vivir entre mundos, como ella. Quizás algún día entienda sus palabras."
+IP_EVER_5_CHA,CHA,Por todos los dioses... ¡¡Es un TRIFLER!!
+IP_EVER_10,CHA,"Al menos es bastante cortés. Y sinceramente no tiene ninguna intención de matarte. No crees que tenga género en absoluto, pero da la sensación de que es «él», ¿verdad? No le preguntes por eso. Aunque... puedes preguntarle."
+IP_EVER_15,CHA,"Captas su motivación. La aberración que tienes delante no alberga ninguna malicia y se comporta con educación con estas hormigas que corretean a su alrededor, todo ello al servicio de algún designio superior, <i>esotérico</i>."
+IP_EVER_20,CHA,"<i>Yunolotia Manatern</i>. El destino no puede quebrarse.
+
+Ever-Glad busca el fin de la fachada. Ever-Glad busca el comienzo de una nueva Era. Todo para evitar las ENCRUCIJADAS DEL FADO."
+IP_FREY_5_STR,STR,"Viste un lujoso ropaje de seda, como una dama noble."
+IP_FREY_10,STR,"Pelo corto y rígido. Tipo rebelde, pero aun así aristocracia urthfolk."
+IP_FREY_15,STR,¿Qué hace aquí? Pocos de su clase buscan la compañía de los trabajadores de Callejón del Agua y de los goblins.
+IP_FREY_20,STR,Un momento. La reconoces. Es... ¡*Freydis Darrow*! ¡La hija del Lord Darrow!
+IP_GORM_9_STR,STR,"Ay, pobre Gorm. Sus elecciones lo han traído a este camino maldito. Dolorosamente reconocible."
+IP_GORM_14,STR,"Ante nosotros hay un hombre que debería haber sido el mejor de todos. Gente de Urth de buena sangre. Criado por el propio Urth. Culto, rico, aparentemente sano...
+
+Si ni él pudo mantenerse en el camino, ¿quién podría?"
+IP_GORM_18,STR,"No te pareces en nada a él. No eres de la nobleza. Nadie te trató con deferencia especial, ni siquiera con todos tus talentos ocultos. Lo único que tenéis en común es la disposición a abandonarlo todo y lanzaros a las fauces de la TRITURADORA DEL TIEMPO.
+
+Pero a ti no te triturará. Tu naturaleza correosa la detendrá. El chico de pueblo sobrevivirá al Ragnarök. Los huesos del héroe se harán añicos contra el adoquín."
+IP_GORM_20,STR,Gorm además tiene el hombro mal. Sácale partido. (También reconocible.)
+IP_GOUR_5_STR,STR,Un poderoso <i>trol de hielo</i>. Aterrador incluso dormido.
+IP_GOUR_10,STR,"Tienes varias formas de abordar esto. Matar al trol no será fácil, y necesitas aprovechar cualquier ventaja.
+
+1. Atacar de inmediato para ganar ventaja.
+2. Tender alguna trampa.
+3. Intentar negociar primero (poco prometedor).
+4. Marcharse (también poco prometedor)."
+IP_GOUR_15,STR,Acercarse lo suficiente para golpear a la bestia dormida no sería sencillo. Pero permitiría asestar un golpe decisivo.
+IP_GOUR_20,STR,"Ha llegado el momento de redimirse. Han pasado más de veinte años desde aquel día fatídico. Ahora... demuéstrate a ti mismo. Muéstrale al mundo...
+
+Por tus venas corre sangre de MATRATROLLES."
+IP_ISK_2_INT,INT,Es un caracol ancestral de otro tiempo.
+IP_ISK_8,INT,"Un tipo curioso. Un conocimiento increíble, pero concentrado en la cultura de las Bestias de Jor, unos bárbaros absolutos. Fascinante. En cualquier caso, esta criatura merece ser estudiada."
+IP_ISK_15,INT,El dominio esotérico empleado aquí supera todo lo que has encontrado hasta ahora. No pierdas el contacto con este caracol. En el futuro prestará un servicio enorme.
+IP_ISK_20,INT,Su objetivo se alcanzará con el tiempo. Pero antes estás convencido de que transgredirá muchos tabúes de la Era. Es ese tipo de persona —no tan distinto de los Arcanistas más refinados— que romperá la realidad y reescribirá las reglas de Jor con tal de tener la última palabra.
+IP_IVCX_5_WIS,WIS,"La luz te ciega. Incluso entre los seres celestiales, esta criatura posee un poder inmenso."
+IP_IVCX_10,WIS,"Parece fuera de lugar. ¿Por qué habría de estar aquí el embajador de la Horda Dorada? ¿Por qué habría de venir a este lugar una criatura de poder tan grande y luminoso?
+
+Nada de esto tiene ningún sentido."
+IP_IVCX_15,WIS,"Un Antesepálico. Una criatura más antigua que el propio mundo. Lo que tienes delante no es ningún embajador. Es el siervo más cercano de una Fuerza exterior. Por eso tu cuerpo se estremece, aunque la luz parezca decirle a tus sentidos una sola cosa: <i>NO TEMAS</i>."
+IP_IVCX_20,WIS,"En su apogeo estaba mucho más cerca de nuestros dioses caminantes que cualquier ángel de la Horda. ¿Por qué entonces ha sido rebajado a tu nivel <i>material</i>, aquí, en tu ciudad?
+
+Qué mundo tan extraño aquel en el que te cabe la oportunidad de mantener con él una charla mundana."
+IP_JEHANNE_5_CHA,CHA,"Un mediano. Uno de los muchos que viven en Norvik, especialmente desde la Línea Dorada."
+IP_JEHANNE_10,CHA,"Trabajadora, sin aspiraciones desmedidas, pero llena de resiliencia. Apóyala en su lucha contra el capital."
+IP_JEHANNE_15,CHA,"La bota. Eso es contra lo que se rebela. No en un sentido activista, sino en el de la rutina extenuante y cambiante de cada día. Nuestro trabajo nunca termina."
+IP_JEHANNE_20,CHA,Preferiría no verse envuelta en toda esta mugre. Pero ¿cómo si no conservar el sueldo? ¿Cómo si no sobrevivir en un mundo donde la comida sube de precio cada día y el punto de Ruptura de la materia se acerca cada hora?
+IP_KRAAID_5_CON,CON,"Una Bestia de Jor carnívora y enloquecida de los pantanos de Hae'Xi. Por qué aún no te ha devorado, no lo sabes."
+IP_KRAAID_10,CON,"Un cocinero habilidoso. Su pasión es la cocina. Frito, guisado, marinado, hervido. Kraaid lo sabe todo, y su paleta es amplia. Tú también entras en ella."
+IP_KRAAID_15,CON,"Su moderación no viene de los modales ni de la bondad. Es un monstruo nacido de generaciones de cazadores infectados, golpeados por la NIEBLA ROJA del Árbol Espiral: LAS BRUJAS. LAS BRUJAS LO CREARON. NACIÓ DEL MAL."
+IP_KRAAID_20,CON,"Pese a su naturaleza, por encima de todo sigue su instinto. Ahora mismo dice: SIGUE AL MAGO. ÉL ABRIRÁ EL CAMINO HACIA UNA CAZA MÁS GRANDE. Ese gruñido... es lo que retiene tu carne de ser DEVORADA."
+IP_KULL_5_CON,CON,Es un elfo.
+IP_KULL_10,CON,Un elfo de Illym. Sus ojos son oscuros por el conocimiento de tus actos.
+IP_KULL_15,CON,"Este sirviente de Illym, este espía, este Guardián del Alcance, no es más que un apéndice de sus amos. Pero ni tan eficaz ni tan hábil en la intriga como cabría esperar. No, están muy lejos de su momento de mayor poder. Illym está muerta. Lo que tienes delante es el avatar de su cadáver en descomposición."
+IP_KULL_20,CON,Mentirá. Mentirá. Mentirá. Mentirá. Mentirá. Mentirá. Mentirá. Mentirá. Mentirá. Mentirá. Mentirá. Mentirá. Mentirá. Mentirá. Mentirá. Mentirá. Mentirá. Mentirá. Mentirá. Mentirá. Mentirá. Mentirá. Mentirá.
+IP_LISA_5_WIS,WIS,"Nacida a través de una reproducción esotérica maligna, esto es, esto es una bruja."
+IP_LISA_10,WIS,"Más exactamente, una brujilla. No tan horrible ni repugnante como una bruja auténtica, aunque eso no siempre es mejor. Si se piensa bien, puede que precisamente por eso ocupen más posiciones de poder: su naturaleza no es tan completamente corrupta."
+IP_LISA_15,WIS,Esta ha vivido una vida turbulenta. Se ve en sus ojos: años de servidumbre. El sueño de una vida mejor. Cuerpos dejados atrás. A esta brujilla no le queda ahora nada salvo un amor desesperado por la vida y la libertad. Que lo tenga.
+IP_LISA_20,WIS,"Tiene miedo. Un miedo mortal: teme que su nueva vida se derrumbe por las circunstancias. Lo disimula bien, pero tú lo sabes. Te destruirá si hace falta. Para proteger su carrera de freelance."
+IP_MASKED_5_CON,CON,Joder.
+IP_MASKED_10,CON,Horror.
+IP_MASKED_15,CON,"La vida en juego, y la daga apuntando a tu corazón."
+IP_MASKED_20,CON,¿Qué crees que quiere? Algo en las tuberías escucha. Criatura estúpida. Su error te llevará por muchas bifurcaciones. Vigila tus pasos.
+IP_MERI_5_DEX,DEX,¡Un auténtico Caminante Libre!
+IP_MERI_10,DEX,"Es famoso. Conocido en cada plaza, mansión y salón de baile a lo largo de toda la Costa. El tipo que supo aprovechar el mundo cambiante y sus nuevas tecnologías popularizadas para hacerse con un peso e influencia considerablemente enormes."
+IP_MERI_15,DEX,"Pero también viene de dinero viejo. Lo que, sin duda, ayudó. Así que no es tan impresionante como la historia del pobre genio en bruto que quieren hacerte creer, pero sigue siendo bastante impresionante. Francamente, para alguien de sangre azul con contactos arcanistas, sobrevivir a la revolución ya es un logro; ¿florecer en ella? Eso sí es talento de verdad."
+IP_MERI_20,DEX,"Su sonrisa es amplia. Su boca no para de glorificar la nueva era. Ahí es donde están sus intereses: apuestas e inversiones en la Era de la Muchedumbre. Pero el populismo tiene una debilidad. La principal: hay que mantenerse cerca del pueblo. Meriadoc, por lo que parece, lleva ese conocimiento grabado en el corazón."
+IP_MISKA_5_WIS,WIS,Aquí algo va muy mal.
+IP_MISKA_10,WIS,"Sus ojos te impactan. Impactan tu ALMA. Afírrate a esa sensación, o te engullirá."
+IP_MISKA_15,WIS,Posee un poder con el que tú solo puedes soñar. Pero sus actos revelan su naturaleza. ¿Maldad? ¿Bondad? ¿Es el egoísmo en favor de los suyos su rasgo definitorio?
+IP_MISKA_20,WIS,"Esta criatura no es una goblin. Aunque sus deseos están profundamente arraigados en ese clan, es mucho más antigua y mucho más peligrosa que todos sus sirvientes juntos."
+IP_MISKA_25,WIS,Conoce bien las llamas de Esuthh. <i>¿Qué hace aquí?</i>
+IP_MISKA_30,WIS,La ves de parte a parte. Sus objetivos. Su plan. ¿Es todo tan sencillo? Simplemente... ¿los quiere?
+IP_MODISSA_5_WIS,WIS,"Una chica en misión. Está dispuesta a luchar por los verdes, cueste lo que cueste."
+IP_MODISSA_10,WIS,"Su apariencia desafiante no es pose. Es su corazón, lucido en ambas mangas."
+IP_MODISSA_15,WIS,"Responsabilidad. Ese es el peso que le aplasta los hombros. Modissa no ve ningún propósito superior en su EGO. Más bien, ese propósito lo ha tomado prestado de otros. De su mentor. De sus amigos. Pero sobre todo, de su ideología."
+IP_MODISSA_23,WIS,No cree en el Azgalismoo. No de verdad. Porque ha resultado ser de esas personas que no consideran dignas de respeto ninguna norma en las junglas urbanas ni en los campos culturales. No cree que nada pueda enmarcarse en una ideología. Esa convicción en sí misma es su verdadera ideología. Aunque todavía no lo sepa.
+IP_MOONGORE_5_STR,STR,"Maleducada, bestia y guerrera. Podría romperte con facilidad."
+IP_MOONGORE_10,STR,"La lealtad es algo cambiante. La suya está del lado de Los Intermedios, por monedas y techo. Pero hay algo más, algo más etéreo."
+IP_MOONGORE_15,STR,Ogros. Hobgoblins. Ettins. Troles. El domador de osos se alza entre todos ellos como un asaltante de los páramos salvajes de Askanii. Has oído que su especie encuentra hueco en la sociedad civilizada como mercenarios y guardias. Mungor es un cliché andante.
+IP_MOONGORE_20,STR,"¿Qué más hay en ella? Le encanta la violencia. Le encanta el poder. Anhela la adrenalina. Es una mujer completamente tóxica. 
+
+...Quizás deberías conocerla mejor."
+IP_NEARLY_5_WIS,WIS,Otro goblin. Este quiere escapar.
+IP_NEARLY_10,WIS,"Trabaja mucho. Pero solo en lo que perfecciona su maestría, su pasión."
+IP_NEARLY_15,WIS,"Le trae sin cuidado la política y el mundo en general. Sin embargo, se esfuerza por mantener la comprensión necesaria para desarrollar su arte."
+IP_NEARLY_20,WIS,"La goblin toca para sí misma. No busca fama, solo sostenerse con su oficio. Por ahora, parece que las cosas no van demasiado bien."
+IP_NESSAN_5_WIS,WIS,Imperturbable. Arreglada. Feliz. En su salsa.
+IP_NESSAN_10,WIS,Está concentrada en el trabajo. Pero no busca problemas. Te ayudará si no supones una amenaza.
+IP_NESSAN_15,WIS,"Sus conocimientos llegan muy hondo, muy por debajo de la ciudad. Aprende de ella y de su soledad."
+IP_NESSAN_20,WIS,"Esta elfa busca una salida. ¿Por qué si no estar *aquí*, de entre todos los lugares? Su matriarca. Sí. Esta mujer está en apuros. Como tú."
+IP_OLZIS_5_WIS,WIS,"Miles de años custodiando un agujero en la realidad. Recuerda: su percepción va más allá de lo que tú eres capaz de comprender. Para ella, un día es un instante fugaz. A menos que tú lo hagas memorable."
+IP_OLZIS_10,WIS,"Una ginoesfinx que reparte acertijos. Una mujer en busca de cualquier cosa, aunque sea remotamente interesante, entre estos mortales ajetreados. ¿Por qué si no dejarles entrar en su guarida así?"
+IP_OLZIS_15,WIS,"No la explotan. Sea cual sea el trato que haya hecho con el dueño de la taberna, esta Bestia de Jor puede romperlo en cualquier momento. Ninguno de ellos tiene poder sobre ella. Pero no puede marcharse."
+IP_OLZIS_20,WIS,"Resentimiento. Cualquiera con dos dedos de frente y aunque sea una pizca de comprensión mortal sentiría resentimiento tras quedarse atrapado en un mismo lugar durante milenios. Olzis, criatura tan poderosísima, alberga un leve resentimiento hacia sus amos. Quizás por eso entretiene este instante fugaz."
+IP_OST_5_DEX,DEX,Este es claramente hostil. ¡Mantente alerta!
+IP_OST_10,DEX,Sus ojos inexpresivos parecen observar sin cesar. Está calculando claramente dónde golpear para que mueras lo más rápido posible. Qué considerado.
+IP_OST_15,DEX,Normalmente los kobolds solo son peligrosos en grupos grandes. Este parece extremadamente letal en solitario. Ten cuidado.
+IP_OST_20,DEX,Hay algo más profundo en su vínculo con su amo. Este kobold considera al hombre pálido su «valor supremo». Literalmente su dios personal.
+IP_OYU_5_DEX,DEX,"Una comerciante hábil. Una mujer de negocios. Una mediana emprendedora. Joder, de alguien así se puede aprender mucho."
+IP_OYU_10,DEX,"Sus mercancías las ha conseguido de toda la Costa. Su objetivo es el viaje en sí mismo. Y, por supuesto, multiplicar el poder del Capital. Se le da de maravilla."
+IP_OYU_15,DEX,"Kargamesh está al otro extremo del mundo. Es lo opuesto de Askanii: un espejo. Ellos tienen sequía, nosotros humedad. Ellos calor, nosotros frío. Ella te contará todo esto encantada, a grandes rasgos. No está aquí por amistad, no del todo. Al menos de momento."
+IP_OYU_20,DEX,"Ah. La situación actual no le hace ninguna gracia. ¿Viajar por Divinii Torum e Im? Ahora mismo es imposible. ¿El comercio? Rígido y regulado hasta la extenuación. ¿Los dirigibles? Una rareza. Esta década ha sido una lenta inmersión en un mundo de monopolios y corrupción, si le preguntas a ella. 
+
+Puede que se quede en tu ciudad mucho más tiempo del que nunca habría imaginado."
+IP_PINJA_5_WIS,WIS,"Algo raro, algo aquí no está del todo..."
+IP_PINJA_10,WIS,...bien con esta elfa en la esquina de la fortaleza. Su...
+IP_PINJA_15,WIS,...presencia parece demasiado poco vívida para que puedas...
+IP_PINJA_20,WIS,...aceptarla como real. ¿Magia élfica? ¿Misterio femenino? ¿O algo más?
+IP_PINJA_25,WIS,Ah. Claro. No está aquí de verdad. El pensamiento te pone los pelos de punta.
+IP_RAZZ_5_CHA,CHA,Quiere matarte.
+IP_RAZZ_10,CHA,"Ante ti hay un supremacista goblin monumental, descontrolado, seguro de sí mismo y enormemente peligroso. No va a discutir contigo: directamente no te considera digno de seguir con vida."
+IP_RAZZ_15,CHA,"Un asesino implacable. Debe de tener centenares de víctimas. El tipo de individuo que solo desea la destrucción de la humanidad, los urthfolk en especial, y la caída de esta especie invasora asentada en las costas de Askanii."
+IP_RAZZ_20,CHA,"Cuanto más miras esos ojos enloquecidos, más comprendes que no le mueve el odio hacia una visión idealista del futuro. No sueña con un paraíso goblin en Askanii. Todo lo que quiere, impulsado pura y exclusivamente por una vendetta personal alimentada de sociopatía, es borrar a los humanos de la faz de la tierra. <i>Traga saliva.</i>"
+IP_RIX_5_DEX,DEX,"¡Dinero, dinero, dinero! Esto es lo que ocurre cuando el pragmatismo de estirpe diabólica se mezcla con la habilidad de unos dedos casi humanos. ¡Hacedora de monedas, cronológicamente consciente, creadora de capital de primer nivel!"
+IP_RIX_10,DEX,"El emprendimiento consiste en romper esquemas. En ver a través de la arcilla ordinaria y encontrar los resquicios de la realidad. Es como la magia, en cierto modo. Solo que funciona a escala."
+IP_RIX_15,DEX,"Esta mujer encontró varios agujeros en las arcas municipales. A lo largo de los años ha dirigido fábricas, fundado startups, tratado con corporaciones de la ciudad, cerrado acuerdos con gremios, y ahora es dueña de una taberna. Una mujer de éxito considerable, del tipo que prospera en el futuro de los Caminantes Libres."
+IP_RIX_20,DEX,"Dejando a un lado su pasado, esta tiefling encuentra sentido en las coronas. En el capital. El poder y el respeto que conquista en este nuevo mundo son todo aquello que le faltó en la infancia. Aquí es la ama, con el control total. Hasta que deje de serlo."
+IP_ROLLO_5_STR,STR,¡La siguiente generación! Un adolescente que representa a todos los jóvenes urthfolk.
+IP_ROLLO_10,STR,"Estadísticamente, eso puede ser preocupante. Si todos los jóvenes de hoy se sienten tan perdidos (y en paro) como este, significa que todo va cuesta abajo. ¡Al menos es políticamente activo!"
+IP_ROLLO_15,STR,"Eso también puede ser un detalle inquietante. Los jóvenes sin nada que perder y todo por ganar son, históricamente, un motor habitual de las convulsiones mundiales. Si los viejos nacionalistas no los representan, si el Ideal de los Caminantes Libres no los sostiene, si el Azgalismoo es demasiado... progresista, ¿por qué <i>derroteros</i> nos llevará esta ebullición?"
+IP_ROLLO_20,STR,"Como en todo, es la <i>ECONOMÍA</i> la que gobierna a las masas. El flujo del CAPITAL del que tanto has leído. Estos chavales pueden rebelarse contra el mundo cuanto quieran, pero si cada uno tuviera un papel en la sociedad bien pagado y satisfactorio, toda esa rabia se calmaría.
+
+Solo necesitan una nueva ideología. Una que defienda sus intereses económicos, y nada más."
+IP_SHEN_8_INT,INT,"Inmigrante de Divinii Torum. Cabeza de búho. Experto en todo lo relacionado con los LIBROS. Ha traído su experiencia a tu ciudad, y por eso deberías estarle agradecido. Es el ejemplo perfecto de por qué esta nueva Era es tan maravillosa, sencillamente extraordinaria."
+IP_SHEN_14,INT,"Si en algún momento su comportamiento empieza a irritarte, recuerda: es una persona. No es el representante de todo su pueblo. Igual que entre los humanos los hay groseros, ruidosos y egocéntricos, entre los de cabeza de búho también abundan. Todos los pueblos son distintos. Todos los pueblos son iguales.
+
+Esta personalidad es algo excéntrica. No dejes que eso enturbie tu visión del resto de hermanos y hermanas emplumados por toda la Costa."
+IP_SIMII_5_CHA,CHA,Un azgalista entregado. Da todo lo que tiene por la causa.
+IP_SIMII_10,CHA,El típico hijo segundo. Vive a la sombra de personas más grandes.
+IP_SIMII_15,CHA,"Sigue el camino azgalista no por elección propia, sino por educación y tradición. Quiere estar a la altura de las expectativas de alguien. ¿De su padre? ¿Del patriarca?"
+IP_SIMII_20,CHA,"Simii, mano derecha de Alfoz, quiere ser su propio hombre, pero sencillamente no puede. No solo su propio pellejo lo retiene, sino también quienes dependen de él y de su eterna lealtad.
+
+Es tremendamente difícil odiarle."
+IP_SMARTER_5_INT,INT,No mucho.
+IP_SMARTER_10,INT,Un goblin chiflado y cleptómano. Necesita ayuda. Ayuda profesional.
+IP_SMARTER_15,INT,Ten cuidado con él. No es un goblin cualquiera. Es un extremo. Un estereotipo. Una fábula.
+IP_SMARTER_20,INT,"Todo esto es tan serio que te planteas en serio la posibilidad: ¿y si este goblin idiota está poseído por algún espíritu, por la chispa divina de un dios embaucador? Solo que ese dios habría gastado la broma de hacer de su avatar el ladrón más inútil imaginable.
+
+Se han visto cosas peores."
+IP_SNELL_5_DEX,DEX,Este goblin hace lo que tiene que hacer. Con todas las probabilidades en su contra.
+IP_SNELL_10,DEX,"Muy competente, pero ansioso de reconocimiento. ¡Mira cómo viste!"
+IP_SNELL_15,DEX,"No trabaja para sí mismo ni para ningún ideal. Este goblin dedica su vida a su «lady», con la devoción de un fanático religioso."
+IP_SNELL_20,DEX,Lobo solitario. Sufre demasiado y no deja que nadie se acerque. ¿Un trauma antiguo? ¿Un rechazo? ¿Problemas familiares? Quién sabe.
+IP_SNELL_25,DEX,"Hm. Bueno, escucha — no es exactamente una historia de origen trágica, pero ya me entiendes. Es un <i>soñador</i>. De los que se lanzan desesperadamente al trabajo por algún bien superior. Un idealista. Un <i>romántico</i>. En el sentido más goblin de la palabra."
+IP_SNELL_30,DEX,"Sacrificio. Sueños. A veces percibes un brillo en sus ojos. Un Hilo atado al destino con pocas bifurcaciones. Quizás podrías confiar en él. Quizás podría llegar a ser... bueno, ya sabes.
+
+<i>Un amigo.</i>"
+IP_SNURRE_5_INT,INT,Estudioso de la Mancomunidad de Fordnip. Trabaja desde un agujero en la pared.
+IP_SNURRE_10,INT,Es el tipo de persona que sabe exactamente adónde va y simplemente va allí — sin prisa y con método. Conoce su oficio. Sus pasos están calculados. El camino es largo.
+IP_SNURRE_15,INT,"Lo esotérico está estrechamente ligado a las artes académicas. En los tiempos antiguos nadie trazaba distinción entre ambas. Pero hoy, en este mundo moderno, su bando está casi perdiendo."
+IP_SNURRE_20,INT,"Has pasado bastante tiempo estudiando su arte. Es interesante. La investigación es el primer paso hacia una hechicería con sentido, al fin y al cabo. Pero tras esa fachada de fuente de conocimiento, este mediano también busca respuestas a sus propias preguntas — en concreto: ¿cuál es la naturaleza del poder? ¿De la política? ¿De la Línea Dorada?"
+IP_STEN_5_CON,CON,Un chico al que pusieron un nombre gnomo que significa «piedra».
+IP_STEN_10,CON,Quiere a sus amigos. Son sus únicos amigos.
+IP_STEN_15,CON,"Tiene algo parecido a una visión de la vida, el amor y esta ciudad. Solo que no está formada del todo — y tampoco tiene la elocuencia necesaria para expresarla como es debido."
+IP_STEN_20,CON,"Está bien aquí. De verdad. Este chico es, quizás, la persona más feliz que has conocido en tu vida."
+IP_THAL_5_WIS,WIS,¿Un opresor?
+IP_THAL_10,WIS,"Es un buen casero. Cuida de sus inquilinos. Se asegura de que el mantenimiento, las reparaciones y las inspecciones de seguridad se lleven a cabo como es debido. Entre los caseros de Tolstad, desde luego no es el peor."
+IP_THAL_15,WIS,"Y aun así, guarda las llaves del techo bajo el que vivir — uno de los pilares de la jerarquía de necesidades. Hay algo inherentemente opresivo en el mero hecho de participar en este sistema. Sacar provecho de él es absurdo, sin sentido.
+
+Riqueza no ganada."
+IP_THAL_20,WIS,"Y aun así, no es más que un hombre dentro del sistema. ¿Deberíamos limitar la capacidad de un ciudadano particular para obtener beneficios de sus inversiones? ¿Debería el libre mercado dictar cómo y dónde vive la gente? ¿Es este hombre-pez una mala persona por jugar su mano en un mundo construido sobre los caprichos del Capital? No lo sabes. Pero todo el mundo tiene su opinión."
+IP_TOLI_5_CHA,CHA,Es de los callados.
+IP_TOLI_10,CHA,Piensa antes de hablar. Y además cree que eso le hace muy interesante.
+IP_TOLI_15,CHA,"En su lenguaje corporal, en su forma de hablar, en su <i>entonación</i> hay un barniz de superioridad. Se cree por encima de todo esto. Incluso de sus amigos. Ojalá deje de pensarlo antes de que eso le estalle en la cara."
+IP_TOLI_20,CHA,"Hm. No, no lo dejará. En el momento más difícil, este tío será el primero en apoyarse en sus hermanos. Ha aprendido a aplastar su ORGULLO cuando hace falta. Eso está bien. Al hombre lo hacen las obras de sus compañeros. Ni más ni menos."
+IP_URTH_5_STR,STR,Zapatero.
+IP_URTH_10,STR,En su voz se percibe una tristeza. La que nace de años observando cómo los niños se pierden por el camino.
+IP_URTH_15,STR,No te crees lo que te está mostrando. Y aun así no quieres ni plantearte rechazar la imagen de su amable sonrisa.
+IP_URTH_20,STR,Le servirás hasta el último día de tu vida.
+IP_NISSE_5_DEX,DEX,Un crío insoportable. Aunque a veces tiene su gracia.
+IP_NISSE_10,DEX,"Si hubiera sido tu contemporáneo de niño, habría sido uno de esos malditos matones. Tampoco es que eso lo ponga en muy mal lugar — casi cualquier niño normal te acosaba a ti."
+IP_NISSE_15,DEX,"Pero en su cabeza está creciendo algo parecido a una conciencia. Si le rodean buenas personas, todo irá bien. Si le rodean malas personas, eso es lo que construirá su vida."
+IP_NISSE_20,DEX,"Tiene talento. No como el tuyo, que los dioses nos libre, pero lo tiene. Deberías orientarle hacia el clericato. O al menos hacia algún camino de mago. Sin eso, inevitablemente hará daño a alguien. Con eso, también podría hacerlo, pero al menos en nombre de la ley."
+IP_VIIRA_5_STR,STR,Una viajera. Aquí no ha echado raíces.
+IP_VIIRA_10,STR,Su fe es débil. No la usa. Su religión es el poder.
+IP_VIIRA_15,STR,¿Es malvada? No. Quizás un instrumento arbitrario de una institución — pero no una marioneta.
+IP_VIIRA_20,STR,Nada de lo que digas la convencerá. Jugará contigo hasta el final.
+IP_VISKEN_5_INT,INT,Un hombre pálido que trastea con cadáveres en el sótano. El típico contratista freelance de la ciudad.
+IP_VISKEN_10,INT,Recuerdas haber oído hablar de este hombre. En otro tiempo fue dentista y cirujano.
+IP_VISKEN_15,INT,"Su dominio de la esfera mágica es enorme. Muy por encima de tus posibilidades. Algunos de los textos con los que se rodea insinúan que es capaz de lanzar hechizos de quinto o incluso de sexto nivel. Más arriba probablemente no, ¿verdad?"
+IP_VISKEN_20,INT,Es un hombre antiguo. Olvidado. Perdido en el tiempo. Podrías aprender mucho de él — si te mantienes en su favor.
+IP_XERBA_5_CON,CON,"Una chica nacida en la oleada del azgalismo, en una familia azgalista, de un estado azgalista caído.
+
+Es azgalista."
+IP_XERBA_10,CON,"Peligrosamente tímida. Necesita buenos amigos y mejores maestros. Tú, por cierto, no eres ninguna de las dos cosas."
+IP_XERBA_15,CON,Le espera un futuro brillante — sea cual sea el camino que le empujen a elegir. Lástima que su voluntad propia no se vea por ningún lado. Aunque tampoco la busca.
+IP_XERBA_20,CON,"Eso es lo que necesita su movimiento. Cualquier movimiento. Un testigo tímido y aterrorizado que en cada paso pida a todos los que le rodean que reconsideren sus decisiones precipitadas.
+
+Resulta terriblemente irritante. Pero aun así... es muy, muy útil para la sociedad."
+SI_HitPoints_Title,,Puntos de Vida
+SI_HitPoints_Desc,,"Una representación de tu fuerza de voluntad y tu salud.
+
+A 0 quedas inconsciente. Se realizan tiradas de salvación contra la muerte hasta que te levantas con agotamiento o mueres.
+
+Cada nivel de agotamiento reduce tus PV máximos en un 10%.
+
+Los PV comienzan en 8 + modificador de CON. Cada nivel adicional añade 5 + modificador de CON."
+SI_HitDice_Title,,Dados de Golpe
+SI_HitDice_Desc,,"Gasta uno para hacer un descanso corto de 1 hora. Te permite recuperar 1d8 PV, recuperar una ranura de hechizo aleatoria y desbloquear todas las pruebas de habilidad fallidas.
+
+Recuperas tus dados de golpe con un descanso largo.
+
+Tu cantidad máxima de dados de golpe es igual a tu nivel."
+SI_ProfBonus_Title,,Competencia
+SI_ProfBonus_Desc,,"Esta cantidad se suma a tu modificador de Puntuación de Atributo si tienes competencia en esa habilidad.
+
+Pasa a ser +3 en el nivel 5."
+SI_XP_Title,,Experiencia
+SI_XP_Desc,,"Tu cantidad actual de experiencia. Consigue más hablando con personajes, completando Ramas de Misión, robando bolsillos, lanzando hechizos y explorando la ciudad."
+SI_EmptyFeat_Title,,Ranura de dote vacía
+SI_EmptyFeat_Desc,,Desbloquea dotes completando Ramas de Misión.
+SI_Strength_Title,,Fuerza
+SI_Strength_Desc,,"La búsqueda de significado, religión y masculinidad."
+SI_Dexterity_Title,,Destreza
+SI_Dexterity_Desc,,"Eludir las consecuencias, el interés propio y la libertad."
+SI_Constitution_Title,,Constitución
+SI_Constitution_Desc,,"Tu instinto visceral, la verdad corporal y tu terquedad."
+SI_Intelligence_Title,,Inteligencia
+SI_Intelligence_Desc,,"La búsqueda de poder, ego y memorización."
+SI_Wisdom_Title,,Sabiduría
+SI_Wisdom_Desc,,"Tu comprensión esotérica, empatía y feminidad."
+SI_Charisma_Title,,Carisma
+SI_Charisma_Desc,,"Manipulación social, fuerza de personalidad y la desesperada necesidad de amor."
+Nickname_0,,Akzel Mâdsson
+Nickname_1,,Alfoz B.E.
+Nickname_2,,"Arn, el Chico del Kiosco"
+Nickname_3,,"Avikness, Estibador"
+Nickname_4,,Haelon Bondavol
+Nickname_5,,El Pato
+Nickname_6,,"Braxo, «Alapincel»"
+Nickname_7,,Brrr
+Nickname_8,,"Lady Chamar, Cordero de la Montaña"
+Nickname_9,,Magister Nicholas Darrow
+Nickname_10,,Dôden
+Nickname_11,,Domnall el Perdido
+Nickname_12,,"Baterista, dueño de la tetería"
+Nickname_13,,"Ettir, Ángel Jurada a la Ciudad"
+Nickname_14,,"Ever-Glad, Él en las Cañerías"
+Nickname_15,,Freydis
+Nickname_16,,Roper
+Nickname_17,,Esqueleto
+Nickname_18,,Zombi
+Nickname_19,,"Lord Gorm, Héroe de Norvik"
+Nickname_20,,Gran líder Gourgalash
+Nickname_21,,Iomestra
+Nickname_22,,"Isk-Urum, Tirador de Cuerda"
+Nickname_23,,Embajador Ivcx Liuvben
+Nickname_24,,"Jehanne, Sin Clan"
+Nickname_25,,"Kraaid, Furia de Askan"
+Nickname_26,,Guardián Kullervo'Lämäläinen
+Nickname_27,,La Biblioteca Viva
+Nickname_28,,"Lisa, Bruja Jovenzuela"
+Nickname_29,,Asesino Enmascarado
+Nickname_30,,Meek el Mimo
+Nickname_31,,Príncipe Meriadoc Guardaluna
+Nickname_32,,Lady Sageleaf
+Nickname_33,,Juventud Azgalista Modissa
+Nickname_34,,"Moongore, Guardián de TPI"
+Nickname_35,,Miss Nearly
+Nickname_36,,"Nes'Wikkalla, «Nessan» de lo Verde"
+Nickname_37,,"Olzis, Guardián de la Bóveda"
+Nickname_38,,"Ôst, Jefe de Seguridad"
+Nickname_39,,"Oyugüi, Vendedor Kargameshiano"
+Nickname_40,,Carisma
+Nickname_41,,Constitución
+Nickname_42,,Destreza
+Nickname_43,,Inteligencia
+Nickname_44,,Jor
+Nickname_45,,Ragn
+Nickname_46,,Fuerza
+Nickname_47,,Sabiduría
+Nickname_48,,Pínja'Athena
+Nickname_49,,Vendedor de Pociones
+Nickname_50,,"Razz, Arco de Alquiler"
+Nickname_51,,"Rixbiter, Tabernero Local"
+Nickname_52,,Rollo Malach
+Nickname_53,,"Rómulo, Monstruo de Óxido (Domado)"
+Nickname_54,,Gaviota
+Nickname_55,,"Shěn Yêlan, Encuadernador"
+Nickname_56,,Simii y los Chicos
+Nickname_57,,Sir Triban
+Nickname_58,,Thangu el Listo
+Nickname_59,,Snell
+Nickname_60,,Sch. Snurre Appledent
+Nickname_61,,Stenbusken
+Nickname_62,,"Thalassos, Casero Opresivo"
+Nickname_63,,"Tinnitul, Mephit de Humo a Sueldo"
+Nickname_64,,Toli Tolpare
+Nickname_65,,Ûrth-Nisse
+Nickname_66,,"Urth, Martillo del Destino"
+Nickname_67,,Vattar
+Nickname_68,,Agente Viira
+Nickname_69,,"Visken, Forense Local"
+Nickname_70,,Xerba B.E.
+Nickname_71,,"Leif Yxkraft, Patriarca"
+Nickname_72,,Esqueletos del laberinto
+Nickname_73,,Caja con un ruido rítmico golpeando desde dentro
+AltNickname_0,,Lady Freydis Darrow
+AltNickname_1,,El Zapatero
